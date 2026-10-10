@@ -41,7 +41,7 @@ header {
 }
 header img { width: 56px; height: 56px; border-radius: 13px; }
 header a { color: var(--tinta); text-decoration: none; font-family: Georgia, "Times New Roman", serif; font-size: 22px; font-weight: 600; }
-.idioma { margin-left: auto; font-size: 14px; }
+header a.idioma { margin-left: auto; font-family: inherit; font-size: 14px; font-weight: 400; color: var(--teal); text-decoration: underline; }
 h1 { color: var(--tinta); font-family: Georgia, "Times New Roman", serif; font-size: 30px; line-height: 1.25; margin: 28px 0 4px; }
 h3 { color: var(--tinta); font-size: 17px; margin: 22px 0 2px; }
 h2 { color: var(--teal); font-size: 19px; margin: 32px 0 6px; }
