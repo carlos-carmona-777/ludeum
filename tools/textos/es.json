@@ -1,0 +1,151 @@
+{
+  "lang": "es",
+  "html_lang": "es",
+  "og_locale": "es_MX",
+  "label": "Español",
+  "paths": {
+    "home": "",
+    "privacy": "privacidad/",
+    "support": "soporte/"
+  },
+  "common": {
+    "skip": "Saltar al contenido",
+    "language": "Idioma",
+    "support": "Soporte",
+    "privacy": "Privacidad",
+    "studio": "Un proyecto de <a href=\"https://tzinitzcan.vercel.app/\">Tzinitzcan</a>, estudio de apps",
+    "photos_credit": "Las fotos históricas de la app vienen de Wikimedia Commons (dominio público o CC BY) y llevan su crédito dentro de la app.",
+    "soon_badge": "Próximamente en el App Store",
+    "devices": "Para iPhone y iPad"
+  },
+  "home": {
+    "title": "Ludéum · Juegos de mesa con historia para iPhone y iPad",
+    "description": "Un museo de juegos de mesa que puedes jugar: 13 juegos con milenios de historia, rivales de su época, juego en línea con Game Center, torneos semanales y logros. Para iPhone y iPad.",
+    "og_title": "Ludéum · Un museo de juegos de mesa que puedes jugar",
+    "nav_games": "Juegos",
+    "nav_rivals": "Rivales",
+    "nav_tournaments": "Torneos",
+    "nav_patron": "Mecenas",
+    "hero_kicker": "Para iPhone y iPad",
+    "hero_title": "Un museo de juegos de mesa que puedes jugar",
+    "hero_lead": "Trece juegos con siglos, y hasta milenios, de historia: del Juego Real de Ur al Hnefatafl vikingo, el Patolli mexica y el Tavli de los cafés griegos. Reta a personajes de su época, juega con alguien a tu lado o en línea con Game Center.",
+    "hero_note": "Todo se juega gratis · Sin anuncios · Sin cuentas",
+    "hero_img_alt": "Pantalla de inicio de Ludéum: «Nuevo en la sala: Tavli», tu rango y los botones para jugar en línea, con amigos o contra un personaje",
+    "stats": [
+      ["13", "juegos jugables"],
+      ["39", "rivales de su época"],
+      ["4", "salas del museo"],
+      ["7", "idiomas"]
+    ],
+    "halls_title": "Las salas del museo",
+    "halls_lead": "Los juegos se agrupan por época y lugar, como en un museo. Están reconstruidos a partir de fuentes antiguas, hallazgos arqueológicos y tradición oral, y cuando las fuentes no coinciden tú eliges la variante: Ur con las reglas de Irving Finkel, Tablut de 9 × 9 o Hnefatafl de 11 × 11, Oware o Kalah, y más.",
+    "variants_one": "1 variante",
+    "variants_many": "{n} variantes",
+    "rivals_label": "Sus rivales",
+    "rivals_title": "Rivales de su época",
+    "rivals_lead": "Cada juego tiene tres personajes, uno por dificultad: Fácil, Normal y Difícil. En el Juego Real de Ur te espera la reina Puabi; en el Patolli, Moctezuma; en el Pente Grammai, Aristóteles; en el Nueve en molino, Alfonso X el Sabio.",
+    "rivals_img_alt": "Preparar una partida de Patolli: variante, rival y dificultad, con los retratos de Tochtli, Itzel y Moctezuma",
+    "modes_title": "Juega como quieras",
+    "modes": [
+      ["Un jugador", "Contra los personajes de la época, de Fácil a Difícil."],
+      ["Dos jugadores", "En el mismo iPhone o iPad, uno frente al otro."],
+      ["En línea", "Con Game Center: rival al azar o invita a tus amigos con un enlace o un código. En vivo o por turnos, a tu ritmo."]
+    ],
+    "online_img_alt": "Ficha del Juego Real de Ur con el botón «Buscar rival» y la opción En línea",
+    "learn_title": "Lo que sabemos y lo que no",
+    "learn_lead": "Cada juego trae sus tarjetas «i»: <strong>Historia</strong>, con fotos de tableros y piezas reales de museos; <strong>Cómo se juega</strong>, con una explicación animada; y <strong>Reglas</strong>, que separan lo documentado de lo que todavía se discute. Un tutorial guiado te enseña a jugar la primera vez.",
+    "learn_img_alt": "Tarjeta de Historia del Juego Real de Ur: «El tablero de las tumbas reales», con la foto del tablero del Museo Británico",
+    "learn_img2_alt": "Elegir variante de Tavli: Partida de tavli, Portes, Plakoto o Fevga",
+    "tournaments_title": "Retos, torneos y logros",
+    "tournaments_items": [
+      ["Retos", "El reto de la semana y el reto del mes, con sellos para tu colección del año."],
+      ["Torneos semanales", "La Liga semanal y el Juego de la semana, con clasificaciones de Game Center. Empiezan el lunes 2 de noviembre de 2026."],
+      ["Logros", "35 logros de Game Center por recorrer las salas, jugar en línea y vencer al rival más difícil de cada juego."]
+    ],
+    "tournaments_img_alt": "Pantalla de Torneos: cuenta atrás, Liga semanal, Juego de la semana y calendario",
+    "achievements_img_alt": "Pantalla de Logros en modo oscuro, con trofeos y estadísticas",
+    "craft_title": "Hecho con cuidado",
+    "craft_items": [
+      ["Tableros a escoger", "Ilustrado o Realista, en madera, piedra, terracota, petate y mosaico de lapislázuli. Los Mecenas suman los tableros «De museo»."],
+      ["Dados de verdad", "Dados en 3D que ruedan sobre la mesa, los dados piramidales de Ur y los frijoles del Patolli."],
+      ["Música y sonido", "Música y sonidos propios para cada juego."],
+      ["Modo oscuro", "Para jugar de noche, en todas las pantallas."],
+      ["Siete idiomas", "Español, inglés, francés, alemán, portugués, catalán e italiano."],
+      ["Tu partida espera", "Las partidas se guardan solas: sigue donde la dejaste."]
+    ],
+    "gallery_title": "Tableros de la colección",
+    "gallery_alts": {
+      "ur": "Partida del Juego Real de Ur contra Ea-nasir, el mercader",
+      "pente": "Pente Grammai sobre un tablero de mármol con líneas doradas",
+      "latrunculi": "Latrunculi en un tablero de madera de raíz con leones en las esquinas",
+      "hnefatafl": "Hnefatafl en un tablero vikingo tallado",
+      "tavli": "Tavli · Portes con dados blancos sobre madera",
+      "cribbage": "Cribbage: tablero de clavijas y cartas sobre tapete verde",
+      "ur-mesa": "Juego Real de Ur, tablero de lapislázuli, en horizontal",
+      "oware-oscuro": "Oware en modo oscuro, tablero de madera",
+      "konane": "Kōnane en un tablero de olivo",
+      "hnefatafl-mesa": "Hnefatafl contra Sigrid, la escalda"
+    },
+    "ipad_title": "También en iPad",
+    "ipad_lead": "La pantalla grande le sienta a los tableros. Tus partidas y tus logros de Game Center te acompañan.",
+    "ipad_alt": "Ludéum en iPad: pantalla de inicio",
+    "ipad2_alt": "Ludéum en iPad: tarjeta de Historia del Hnefatafl, «El juego de los vikingos»",
+    "patron_title": "Mecenas",
+    "patron_lead": "Todo Ludéum se juega gratis, sin anuncios. Si quieres apoyar el museo, hazte Mecenas con una sola compra, sin suscripción:",
+    "patron_items": [
+      "Un marco de oro con laurel para tu emblema, que tu rival ve en línea",
+      "Emblemas únicos: piezas de museo en relieve de oro y retratos de época",
+      "Fichas y dados especiales: lapislázuli, bronce, marfil y frijoles de oro con turquesa",
+      "Los tableros «De museo»: tres para cada juego",
+      "Un fondo más para cada juego y los sellos del reto del mes en oro"
+    ],
+    "patron_note": "Se comparte con tu familia en En Familia, y todo lo nuevo para Mecenas queda incluido sin volver a pagar.",
+    "upcoming_title": "Próximamente en el museo",
+    "upcoming_lead": "La colección sigue creciendo. Estos 16 juegos ya están anunciados, pero <strong>todavía no se pueden jugar</strong>: irán llegando, uno nuevo cada mes.",
+    "upcoming_badge": "Próximamente",
+    "cta_title": "Ludéum llega pronto al App Store",
+    "cta_lead": "Para iPhone y iPad. ¿Dudas o ideas? Escríbenos desde la página de soporte."
+  },
+  "privacy": {
+    "title": "Política de privacidad",
+    "meta_title": "Privacidad · Ludéum",
+    "description": "Política de privacidad de la app Ludéum: qué datos se quedan en tu dispositivo y qué pasa por Game Center y el App Store.",
+    "updated": "Última actualización: 11 de octubre de 2026",
+    "highlight": "<strong>Lo más importante:</strong> Ludéum no recopila datos personales. No tiene cuentas, ni servidores propios, ni analíticas, ni rastreadores, ni publicidad. Lo que guarda la app se queda en tu iPhone o iPad; lo que pasa por Game Center y el App Store lo gestiona Apple.",
+    "sections": [
+      ["Quién es el responsable", "<p>Ludéum es una app de Carlos Carmona (Tzinitzcan). Para cualquier duda sobre esta política, escríbenos desde la página de {support}.</p>"],
+      ["Datos que se quedan en tu dispositivo", "<ul><li>Tus partidas guardadas, tus estadísticas y el registro de partidas jugadas, retos, sellos, laureles de los torneos y tu nivel en línea.</li><li>Tus ajustes: estilo del tablero, fondo, apariencia, sonido, música, fichas y dados.</li><li>El nombre y el emblema de tu perfil.</li></ul><p>Todo esto se guarda solo en tu dispositivo: no se sube a servidores nuestros ni se sincroniza con iCloud. Puedes borrar tus estadísticas desde tu perfil (<em>Borrar estadísticas</em>), y si borras la app se borra todo lo que guardó.</p>"],
+      ["Game Center", "<p>Game Center es un servicio de Apple y es opcional: sin él puedes jugar todo, menos en línea. Si inicias sesión, la app recibe de Game Center tu apodo y un identificador de jugador, y envía a Apple:</p><ul><li>tu avance en los logros;</li><li>tus puntos de cada semana en los torneos. Las clasificaciones son públicas en Game Center: otros jugadores ven tu apodo, tus puntos y tu posición.</li></ul><p>No recibimos tu correo, tu foto ni ningún otro dato de tu cuenta de Apple. Game Center se rige por la {apple_privacy}.</p>"],
+      ["Juego en línea", "<p>Las partidas en línea, en vivo o por turnos, pasan por Game Center. A tu rival solo se envía lo necesario para jugar: las jugadas, la configuración de la partida, tu nivel en línea, tu emblema y si eres Mecenas (para mostrar tu marco). Tu rival ve tu apodo de Game Center. No hay chat ni mensajes, y el nombre de tu perfil no se envía. Ludéum no guarda las partidas en línea fuera de Game Center.</p>"],
+      ["Compras", "<p>Mecenas es una compra única dentro de la app. La procesa Apple con tu cuenta del App Store: no recibimos tus datos de pago. La app solo consulta al App Store si la compra está activa (también si te llega por En Familia o al restaurar compras).</p>"],
+      ["Lo que Ludéum no usa", "<p>No hay publicidad, ni identificador de publicidad, ni rastreo entre apps, ni analíticas, ni informes de fallos de terceros. La app no pide acceso a tu ubicación, cámara, micrófono, fotos, contactos ni notificaciones. Las fotos históricas vienen dentro de la app: no se descarga nada de internet.</p>"],
+      ["Niñas y niños", "<p>Ludéum no recopila datos de nadie, tampoco de menores de edad. Las funciones de Game Center se pueden limitar con Tiempo en pantalla de Apple.</p>"],
+      ["Tus derechos", "<p>Como no guardamos datos tuyos, no tenemos nada que entregarte, corregir o borrar: todo está en tu dispositivo y lo controlas tú. Lo que Game Center guarda con tu cuenta (logros y clasificaciones) lo gestiona Apple desde tu cuenta de Apple.</p>"],
+      ["Cambios a esta política", "<p>Si la app cambia lo que hace con tus datos, actualizaremos esta página y la fecha de arriba antes de publicar el cambio.</p>"]
+    ],
+    "support_link": "soporte",
+    "apple_privacy_link": "política de privacidad de Apple",
+    "apple_privacy_url": "https://www.apple.com/mx/legal/privacy/"
+  },
+  "support": {
+    "title": "Soporte",
+    "meta_title": "Soporte · Ludéum",
+    "description": "Ayuda de la app Ludéum: juego en línea, torneos, Mecenas, idiomas y contacto.",
+    "lead": "¿Algo no funciona, encontraste un error en las reglas o tienes una idea? Nos encantará leerte.",
+    "contact": "<strong>Escríbenos:</strong> el formulario de contacto estará disponible aquí muy pronto.",
+    "faq_title": "Preguntas frecuentes",
+    "faq": [
+      ["¿Cómo juego en línea?", "El juego en línea usa Game Center. Abre <em>Ajustes › Game Center</em> en tu iPhone o iPad e inicia sesión con tu cuenta de Apple. Después, en la app, toca <em>En línea</em> para un rival al azar o <em>Con amigos</em> para invitar con un enlace o un código. Si nadie aparece en unos segundos, puedes jugar mientras tanto contra uno de los personajes de la app."],
+      ["¿Qué diferencia hay entre «En vivo» y «Por turnos»?", "En vivo, los dos juegan al mismo tiempo. Por turnos, cada quien mueve cuando puede y Game Center te avisa cuando te toca. Tres en molino, Conquián y Cribbage solo se juegan en vivo."],
+      ["¿Por qué las reglas no son iguales a las que conozco?", "De muchos juegos antiguos no se conservan las reglas completas. Ludéum sigue las reconstrucciones de historiadores y arqueólogos, y cuando no hay acuerdo te deja elegir una variante. En cada juego, el botón «i» explica lo que sabemos y lo que no."],
+      ["¿Cómo aprendo un juego nuevo?", "En la ficha de cada juego toca <em>Aprender a jugar</em>: es un tutorial guiado, en dificultad Fácil. Las tarjetas «i» tienen la historia, una explicación animada y las reglas completas."],
+      ["¿Cuándo empiezan los torneos semanales?", "La Liga semanal y el Juego de la semana empiezan el lunes 2 de noviembre de 2026. Cada semana va del lunes a las 0:00 al domingo a las 23:59, hora del centro de México. Para aparecer en las clasificaciones necesitas Game Center."],
+      ["¿Mis estadísticas pasan a otro dispositivo?", "Tus partidas, estadísticas y retos se guardan solo en el dispositivo donde juegas. Los logros y las clasificaciones de Game Center sí te siguen a cualquier dispositivo con tu cuenta."],
+      ["¿Tengo que pagar para jugar?", "No. Todos los juegos se juegan gratis y sin anuncios. Mecenas es una compra única y opcional para apoyar el museo: suma marcos, emblemas, fichas, dados y tableros «De museo»."],
+      ["Ya soy Mecenas, pero no me aparece en otro dispositivo", "Abre la pantalla de Mecenas y toca <em>Restaurar compras</em> con la misma cuenta del App Store. Si la compra la hizo alguien de tu familia, se comparte por En Familia."],
+      ["¿Cómo cambio el idioma?", "Ludéum está en español, inglés, francés, alemán, portugués, catalán e italiano, y usa el idioma de tu dispositivo. Para cambiarlo solo en la app, abre <em>Ajustes › Ludéum › Idioma</em>."],
+      ["¿Cómo cambio el tablero o activo el modo oscuro?", "En la pestaña <em>Juegos</em>, toca el botón de la paleta, arriba: ahí eliges el estilo del tablero, el fondo y la apariencia (Sistema, Claro u Oscuro). A su lado están los botones para apagar los sonidos y la música."]
+    ],
+    "privacy_link": "Política de privacidad"
+  }
+}

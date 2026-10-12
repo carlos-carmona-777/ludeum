@@ -1,0 +1,1928 @@
+{
+ "games": [
+  {
+   "id": "latrunculi",
+   "hall": "antiquity",
+   "order": 2,
+   "name": {
+    "es": "Latrunculi",
+    "en": "Latrunculi",
+    "fr": "Latrunculi",
+    "de": "Latrunculi",
+    "pt-BR": "Latrunculi",
+    "ca": "Latrunculi",
+    "it": "Latrunculi"
+   },
+   "subtitle": {
+    "es": "El juego de los soldados",
+    "en": "The Game of Soldiers",
+    "fr": "Le jeu des soldats",
+    "de": "Das Spiel der Soldaten",
+    "pt-BR": "O jogo dos soldados",
+    "ca": "El joc dels soldats",
+    "it": "Il gioco dei soldati"
+   },
+   "origin": {
+    "es": "Roma · s. I a. C.",
+    "en": "Rome · 1st c. BC",
+    "fr": "Rome · Iᵉʳ s. av. J.-C.",
+    "de": "Rom · 1. Jh. v. Chr.",
+    "pt-BR": "Roma · séc. I a.C.",
+    "ca": "Roma · s. I aC",
+    "it": "Roma · I sec. a.C."
+   },
+   "blurb": {
+    "es": "Coloca tus soldados y luego encierra a los enemigos entre dos de los tuyos para capturarlos.",
+    "en": "Place your soldiers, then trap enemies between two of yours to capture them.",
+    "fr": "Placez vos soldats, puis enfermez les ennemis entre deux des vôtres pour les prendre.",
+    "de": "Setze deine Soldaten und schließe dann Gegner zwischen zwei von deinen ein, um sie zu schlagen.",
+    "pt-BR": "Coloque seus soldados e depois cerque os inimigos entre dois dos seus para capturá-los.",
+    "ca": "Col·loca els teus soldats i després tanca els enemics entre dos dels teus per capturar-los.",
+    "it": "Piazza i tuoi soldati, poi chiudi i nemici tra due dei tuoi per catturarli."
+   },
+   "variants": 3,
+   "rivals": [
+    {
+     "name": {
+      "es": "Décimo",
+      "en": "Décimo",
+      "fr": "Décimo",
+      "de": "Décimo",
+      "pt-BR": "Décimo",
+      "ca": "Décimo",
+      "it": "Décimo"
+     },
+     "role": {
+      "es": "el recluta",
+      "en": "the recruit",
+      "fr": "la recrue",
+      "de": "der Rekrut",
+      "pt-BR": "o recruta",
+      "ca": "el recluta",
+      "it": "la recluta"
+     }
+    },
+    {
+     "name": {
+      "es": "Lucio",
+      "en": "Lucio",
+      "fr": "Lucio",
+      "de": "Lucio",
+      "pt-BR": "Lucio",
+      "ca": "Lucio",
+      "it": "Lucio"
+     },
+     "role": {
+      "es": "el centurión",
+      "en": "the centurion",
+      "fr": "le centurion",
+      "de": "der Zenturio",
+      "pt-BR": "o centurião",
+      "ca": "el centurió",
+      "it": "il centurione"
+     }
+    },
+    {
+     "name": {
+      "es": "Máximo",
+      "en": "Máximo",
+      "fr": "Máximo",
+      "de": "Máximo",
+      "pt-BR": "Máximo",
+      "ca": "Máximo",
+      "it": "Máximo"
+     },
+     "role": {
+      "es": "el legado",
+      "en": "the legate",
+      "fr": "le légat",
+      "de": "der Legat",
+      "pt-BR": "o legado",
+      "ca": "el legat",
+      "it": "il legato"
+     }
+    }
+   ]
+  },
+  {
+   "id": "morris",
+   "hall": "antiquity",
+   "order": 4,
+   "name": {
+    "es": "Tres en molino",
+    "en": "Three Men’s Morris",
+    "fr": "Marelle à trois",
+    "de": "Kleine Mühle",
+    "pt-BR": "Trilha de três",
+    "ca": "Marro de tres",
+    "it": "Mulino a tre"
+   },
+   "subtitle": {
+    "es": "Tres en línea romano",
+    "en": "Roman three in a row",
+    "fr": "Le morpion romain",
+    "de": "Römisches Drei in einer Reihe",
+    "pt-BR": "Três em linha romano",
+    "ca": "Tres en ratlla romà",
+    "it": "Tris romano"
+   },
+   "origin": {
+    "es": "Roma · época imperial",
+    "en": "Rome · Imperial era",
+    "fr": "Rome · époque impériale",
+    "de": "Rom · Kaiserzeit",
+    "pt-BR": "Roma · época imperial",
+    "ca": "Roma · època imperial",
+    "it": "Roma · età imperiale"
+   },
+   "blurb": {
+    "es": "Coloca y mueve tres fichas hasta formar una línea. Rápido y engañosamente profundo.",
+    "en": "Place and move three pieces to form a line. Quick and deceptively deep.",
+    "fr": "Placez et déplacez trois pions pour former une ligne. Rapide et faussement simple.",
+    "de": "Setze und ziehe drei Steine, bis sie eine Linie bilden. Schnell und überraschend tiefgründig.",
+    "pt-BR": "Coloque e mova três peças até formar uma linha. Rápido e enganosamente profundo.",
+    "ca": "Col·loca i mou tres fitxes fins a formar una línia. Ràpid i enganyosament profund.",
+    "it": "Piazza e muovi tre pedine fino a formare una linea. Veloce e ingannevolmente profondo."
+   },
+   "variants": 2,
+   "rivals": [
+    {
+     "name": {
+      "es": "Quinto",
+      "en": "Quinto",
+      "fr": "Quinto",
+      "de": "Quinto",
+      "pt-BR": "Quinto",
+      "ca": "Quinto",
+      "it": "Quinto"
+     },
+     "role": {
+      "es": "el niño del foro",
+      "en": "the boy from the Forum",
+      "fr": "l’enfant du forum",
+      "de": "der Junge vom Forum",
+      "pt-BR": "o menino do fórum",
+      "ca": "el nen del fòrum",
+      "it": "il bambino del foro"
+     }
+    },
+    {
+     "name": {
+      "es": "Rufo",
+      "en": "Rufo",
+      "fr": "Rufo",
+      "de": "Rufo",
+      "pt-BR": "Rufo",
+      "ca": "Rufo",
+      "it": "Rufo"
+     },
+     "role": {
+      "es": "el tabernero",
+      "en": "the innkeeper",
+      "fr": "l’aubergiste",
+      "de": "der Wirt",
+      "pt-BR": "o taberneiro",
+      "ca": "el taverner",
+      "it": "l’oste"
+     }
+    },
+    {
+     "name": {
+      "es": "Cornelio",
+      "en": "Cornelio",
+      "fr": "Cornelio",
+      "de": "Cornelio",
+      "pt-BR": "Cornelio",
+      "ca": "Cornelio",
+      "it": "Cornelio"
+     },
+     "role": {
+      "es": "el senador",
+      "en": "the senator",
+      "fr": "le sénateur",
+      "de": "der Senator",
+      "pt-BR": "o senador",
+      "ca": "el senador",
+      "it": "il senatore"
+     }
+    }
+   ]
+  },
+  {
+   "id": "penteGrammai",
+   "hall": "antiquity",
+   "order": 1,
+   "name": {
+    "es": "Pente Grammai",
+    "en": "Pente Grammai",
+    "fr": "Pente Grammai",
+    "de": "Pente Grammai",
+    "pt-BR": "Pente Grammai",
+    "ca": "Pente Grammai",
+    "it": "Pente Grammai"
+   },
+   "subtitle": {
+    "es": "Las cinco líneas",
+    "en": "The Five Lines",
+    "fr": "Les cinq lignes",
+    "de": "Die fünf Linien",
+    "pt-BR": "As cinco linhas",
+    "ca": "Les cinc línies",
+    "it": "Le cinque linee"
+   },
+   "origin": {
+    "es": "Grecia · s. VII a. C.",
+    "en": "Greece · 7th c. BC",
+    "fr": "Grèce · VIIᵉ s. av. J.-C.",
+    "de": "Griechenland · 7. Jh. v. Chr.",
+    "pt-BR": "Grécia · séc. VII a.C.",
+    "ca": "Grècia · s. VII aC",
+    "it": "Grecia · VII sec. a.C."
+   },
+   "blurb": {
+    "es": "El juego de mesa griego más antiguo que conocemos: lleva tus fichas a la línea sagrada.",
+    "en": "The oldest Greek board game we know of: bring your pieces to the sacred line.",
+    "fr": "Le plus ancien jeu de plateau grec connu : menez vos pions jusqu’à la ligne sacrée.",
+    "de": "Das älteste bekannte griechische Brettspiel: Bring deine Steine zur heiligen Linie.",
+    "pt-BR": "O jogo de tabuleiro grego mais antigo que conhecemos: leve suas peças até a linha sagrada.",
+    "ca": "El joc de taula grec més antic que coneixem: porta les teves fitxes a la línia sagrada.",
+    "it": "Il più antico gioco da tavolo greco che conosciamo: porta le tue pedine alla linea sacra."
+   },
+   "variants": 2,
+   "rivals": [
+    {
+     "name": {
+      "es": "Dafnis",
+      "en": "Dafnis",
+      "fr": "Dafnis",
+      "de": "Dafnis",
+      "pt-BR": "Dafnis",
+      "ca": "Dafnis",
+      "it": "Dafnis"
+     },
+     "role": {
+      "es": "el pastor",
+      "en": "the shepherd",
+      "fr": "le berger",
+      "de": "der Hirte",
+      "pt-BR": "o pastor",
+      "ca": "el pastor",
+      "it": "il pastore"
+     }
+    },
+    {
+     "name": {
+      "es": "Nicias",
+      "en": "Nicias",
+      "fr": "Nicias",
+      "de": "Nicias",
+      "pt-BR": "Nicias",
+      "ca": "Nicias",
+      "it": "Nicias"
+     },
+     "role": {
+      "es": "el hoplita",
+      "en": "the hoplite",
+      "fr": "l’hoplite",
+      "de": "der Hoplit",
+      "pt-BR": "o hoplita",
+      "ca": "l’hoplita",
+      "it": "l’oplita"
+     }
+    },
+    {
+     "name": {
+      "es": "Aristóteles",
+      "en": "Aristóteles",
+      "fr": "Aristóteles",
+      "de": "Aristóteles",
+      "pt-BR": "Aristóteles",
+      "ca": "Aristóteles",
+      "it": "Aristóteles"
+     },
+     "role": {
+      "es": "el filósofo",
+      "en": "the philosopher",
+      "fr": "le philosophe",
+      "de": "der Philosoph",
+      "pt-BR": "o filósofo",
+      "ca": "el filòsof",
+      "it": "il filosofo"
+     }
+    }
+   ]
+  },
+  {
+   "id": "xiiScripta",
+   "hall": "antiquity",
+   "order": 3,
+   "name": {
+    "es": "XII Scripta",
+    "en": "XII Scripta",
+    "fr": "XII Scripta",
+    "de": "XII Scripta",
+    "pt-BR": "XII Scripta",
+    "ca": "XII Scripta",
+    "it": "XII Scripta"
+   },
+   "subtitle": {
+    "es": "Doce líneas · Alea",
+    "en": "Twelve Lines · Alea",
+    "fr": "Douze lignes · Alea",
+    "de": "Zwölf Linien · Alea",
+    "pt-BR": "Doze linhas · Alea",
+    "ca": "Dotze línies · Alea",
+    "it": "Dodici linee · Alea"
+   },
+   "origin": {
+    "es": "Roma · s. I a. C. – s. VI",
+    "en": "Rome · 1st c. BC – 6th c.",
+    "fr": "Rome · Iᵉʳ s. av. J.-C. – VIᵉ s.",
+    "de": "Rom · 1. Jh. v. Chr. – 6. Jh.",
+    "pt-BR": "Roma · séc. I a.C. – séc. VI",
+    "ca": "Roma · s. I aC – s. VI",
+    "it": "Roma · I sec. a.C. – VI sec."
+   },
+   "blurb": {
+    "es": "Carrera de 15 fichas con dados, antepasado del backgammon: sácalas todas antes que el rival.",
+    "en": "A 15-piece dice race, ancestor of backgammon: bear them all off before your rival.",
+    "fr": "Course de 15 pions aux dés, ancêtre du backgammon : sortez-les tous avant l’adversaire.",
+    "de": "Rennen mit 15 Steinen und Würfeln, Vorfahr des Backgammon: Spiel alle hinaus, bevor es der Gegner tut.",
+    "pt-BR": "Corrida de 15 peças com dados, antepassado do gamão: retire todas antes do rival.",
+    "ca": "Cursa de 15 fitxes amb daus, avantpassat del backgammon: treu-les totes abans que el rival.",
+    "it": "Corsa di 15 pedine con i dadi, antenata del backgammon: portale tutte fuori prima dell’avversario."
+   },
+   "variants": 2,
+   "rivals": [
+    {
+     "name": {
+      "es": "Félix",
+      "en": "Félix",
+      "fr": "Félix",
+      "de": "Félix",
+      "pt-BR": "Félix",
+      "ca": "Félix",
+      "it": "Félix"
+     },
+     "role": {
+      "es": "el liberto",
+      "en": "the freedman",
+      "fr": "l’affranchi",
+      "de": "der Freigelassene",
+      "pt-BR": "o liberto",
+      "ca": "el llibert",
+      "it": "il liberto"
+     }
+    },
+    {
+     "name": {
+      "es": "Fortunata",
+      "en": "Fortunata",
+      "fr": "Fortunata",
+      "de": "Fortunata",
+      "pt-BR": "Fortunata",
+      "ca": "Fortunata",
+      "it": "Fortunata"
+     },
+     "role": {
+      "es": "la tabernera",
+      "en": "the barmaid",
+      "fr": "la tavernière",
+      "de": "die Wirtin",
+      "pt-BR": "a taberneira",
+      "ca": "la tavernera",
+      "it": "l’ostessa"
+     }
+    },
+    {
+     "name": {
+      "es": "Claudio",
+      "en": "Claudio",
+      "fr": "Claudio",
+      "de": "Claudio",
+      "pt-BR": "Claudio",
+      "ca": "Claudio",
+      "it": "Claudio"
+     },
+     "role": {
+      "es": "el emperador",
+      "en": "the emperor",
+      "fr": "l’empereur",
+      "de": "der Kaiser",
+      "pt-BR": "o imperador",
+      "ca": "l’emperador",
+      "it": "l’imperatore"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ur",
+   "hall": "antiquity",
+   "order": 0,
+   "name": {
+    "es": "Juego Real de Ur",
+    "en": "Royal Game of Ur",
+    "fr": "Jeu royal d’Ur",
+    "de": "Königliches Spiel von Ur",
+    "pt-BR": "Jogo Real de Ur",
+    "ca": "Joc Reial d’Ur",
+    "it": "Gioco Reale di Ur"
+   },
+   "subtitle": {
+    "es": "Las veinte casillas",
+    "en": "The Twenty Squares",
+    "fr": "Les vingt cases",
+    "de": "Die zwanzig Felder",
+    "pt-BR": "As vinte casas",
+    "ca": "Les vint caselles",
+    "it": "Le venti caselle"
+   },
+   "origin": {
+    "es": "Mesopotamia · c. 2600 a. C.",
+    "en": "Mesopotamia · c. 2600 BC",
+    "fr": "Mésopotamie · v. 2600 av. J.-C.",
+    "de": "Mesopotamien · um 2600 v. Chr.",
+    "pt-BR": "Mesopotâmia · c. 2600 a.C.",
+    "ca": "Mesopotàmia · c. 2600 aC",
+    "it": "Mesopotamia · c. 2600 a.C."
+   },
+   "blurb": {
+    "es": "Carrera con dados piramidales por 20 casillas: las rosetas dan otra tirada y en la fila central se captura.",
+    "en": "A race with pyramid dice over 20 squares: rosettes grant another roll and captures happen in the middle row.",
+    "fr": "Course sur 20 cases avec des dés pyramidaux : les rosettes donnent un autre lancer et on prend sur la rangée centrale.",
+    "de": "Rennen mit Pyramidenwürfeln über 20 Felder: Rosetten geben einen weiteren Wurf, und in der Mittelreihe wird geschlagen.",
+    "pt-BR": "Corrida com dados piramidais por 20 casas: as rosetas dão outro lançamento e na fila central se captura.",
+    "ca": "Cursa amb daus piramidals per 20 caselles: les rosetes donen una altra tirada i a la fila central es captura.",
+    "it": "Corsa con dadi piramidali su 20 caselle: le rosette danno un altro lancio e nella fila centrale si cattura."
+   },
+   "variants": 2,
+   "rivals": [
+    {
+     "name": {
+      "es": "Ludingira",
+      "en": "Ludingira",
+      "fr": "Ludingira",
+      "de": "Ludingira",
+      "pt-BR": "Ludingira",
+      "ca": "Ludingira",
+      "it": "Ludingira"
+     },
+     "role": {
+      "es": "el aprendiz de escriba",
+      "en": "the apprentice scribe",
+      "fr": "l’apprenti scribe",
+      "de": "der Schreiberlehrling",
+      "pt-BR": "o aprendiz de escriba",
+      "ca": "l’aprenent d’escriba",
+      "it": "l’apprendista scriba"
+     }
+    },
+    {
+     "name": {
+      "es": "Ea-nasir",
+      "en": "Ea-nasir",
+      "fr": "Ea-nasir",
+      "de": "Ea-nasir",
+      "pt-BR": "Ea-nasir",
+      "ca": "Ea-nasir",
+      "it": "Ea-nasir"
+     },
+     "role": {
+      "es": "el mercader",
+      "en": "the merchant",
+      "fr": "le marchand",
+      "de": "der Händler",
+      "pt-BR": "o mercador",
+      "ca": "el mercader",
+      "it": "il mercante"
+     }
+    },
+    {
+     "name": {
+      "es": "Puabi",
+      "en": "Puabi",
+      "fr": "Puabi",
+      "de": "Puabi",
+      "pt-BR": "Puabi",
+      "ca": "Puabi",
+      "it": "Puabi"
+     },
+     "role": {
+      "es": "la reina de Ur",
+      "en": "the Queen of Ur",
+      "fr": "la reine d’Ur",
+      "de": "die Königin von Ur",
+      "pt-BR": "a rainha de Ur",
+      "ca": "la reina d’Ur",
+      "it": "la regina di Ur"
+     }
+    }
+   ]
+  },
+  {
+   "id": "nineMorris",
+   "hall": "middleAges",
+   "order": 1,
+   "name": {
+    "es": "Nueve en molino",
+    "en": "Nine Men’s Morris",
+    "fr": "Jeu du moulin",
+    "de": "Mühle",
+    "pt-BR": "Trilha",
+    "ca": "Marro",
+    "it": "Mulino"
+   },
+   "subtitle": {
+    "es": "El molino · alquerque de nueve",
+    "en": "The Mill · alquerque of nine",
+    "fr": "Le moulin · alquerque à neuf",
+    "de": "Die Mühle · Alquerque der Neun",
+    "pt-BR": "A trilha · alquerque de nove",
+    "ca": "El marro · alquerque de nou",
+    "it": "Il mulino · alquerque di nove"
+   },
+   "origin": {
+    "es": "Roma · Edad Media",
+    "en": "Rome · Middle Ages",
+    "fr": "Rome · Moyen Âge",
+    "de": "Rom · Mittelalter",
+    "pt-BR": "Roma · Idade Média",
+    "ca": "Roma · Edat Mitjana",
+    "it": "Roma · Medioevo"
+   },
+   "blurb": {
+    "es": "Coloca y mueve nueve fichas: cada tres en línea forma un molino y te deja quitar una ficha rival.",
+    "en": "Place and move nine pieces: every three in a row makes a mill and lets you remove a rival piece.",
+    "fr": "Placez et déplacez neuf pions : chaque alignement de trois forme un moulin et vous permet de retirer un pion adverse.",
+    "de": "Setze und ziehe neun Steine: Jede Dreierreihe bildet eine Mühle und lässt dich einen gegnerischen Stein entfernen.",
+    "pt-BR": "Coloque e mova nove peças: cada três em linha formam uma trilha e deixam você retirar uma peça rival.",
+    "ca": "Col·loca i mou nou fitxes: cada tres en línia fan marro i et deixen treure una fitxa rival.",
+    "it": "Piazza e muovi nove pedine: ogni tris in linea forma un mulino e ti permette di togliere una pedina avversaria."
+   },
+   "variants": 2,
+   "rivals": [
+    {
+     "name": {
+      "es": "Rodrigo",
+      "en": "Rodrigo",
+      "fr": "Rodrigo",
+      "de": "Rodrigo",
+      "pt-BR": "Rodrigo",
+      "ca": "Rodrigo",
+      "it": "Rodrigo"
+     },
+     "role": {
+      "es": "el escudero",
+      "en": "the squire",
+      "fr": "l’écuyer",
+      "de": "der Knappe",
+      "pt-BR": "o escudeiro",
+      "ca": "l’escuder",
+      "it": "lo scudiero"
+     }
+    },
+    {
+     "name": {
+      "es": "Fray Tomás",
+      "en": "Brother Tomás",
+      "fr": "Frère Tomás",
+      "de": "Bruder Tomás",
+      "pt-BR": "Frei Tomás",
+      "ca": "Fra Tomàs",
+      "it": "Fra Tomás"
+     },
+     "role": null
+    },
+    {
+     "name": {
+      "es": "Alfonso X",
+      "en": "Alfonso X",
+      "fr": "Alfonso X",
+      "de": "Alfonso X",
+      "pt-BR": "Alfonso X",
+      "ca": "Alfonso X",
+      "it": "Alfonso X"
+     },
+     "role": {
+      "es": "el Sabio",
+      "en": "the Wise",
+      "fr": "le Sage",
+      "de": "der Weise",
+      "pt-BR": "o Sábio",
+      "ca": "el Savi",
+      "it": "il Saggio"
+     }
+    }
+   ]
+  },
+  {
+   "id": "hnefatafl",
+   "hall": "middleAges",
+   "order": 0,
+   "name": {
+    "es": "Hnefatafl",
+    "en": "Hnefatafl",
+    "fr": "Hnefatafl",
+    "de": "Hnefatafl",
+    "pt-BR": "Hnefatafl",
+    "ca": "Hnefatafl",
+    "it": "Hnefatafl"
+   },
+   "subtitle": {
+    "es": "El tablero del rey",
+    "en": "The King’s Board",
+    "fr": "Le plateau du roi",
+    "de": "Das Brett des Königs",
+    "pt-BR": "O tabuleiro do rei",
+    "ca": "El tauler del rei",
+    "it": "Il tavoliere del re"
+   },
+   "origin": {
+    "es": "Escandinavia · s. IV – XI",
+    "en": "Scandinavia · 4th–11th c.",
+    "fr": "Scandinavie · IVᵉ – XIᵉ s.",
+    "de": "Skandinavien · 4.–11. Jh.",
+    "pt-BR": "Escandinávia · séc. IV – XI",
+    "ca": "Escandinàvia · s. IV – XI",
+    "it": "Scandinavia · IV – XI sec."
+   },
+   "blurb": {
+    "es": "Juego vikingo asimétrico: los defensores escoltan al rey hasta una esquina; los atacantes intentan rodearlo.",
+    "en": "An asymmetric Viking game: the defenders escort the king to a corner; the attackers try to surround him.",
+    "fr": "Jeu viking asymétrique : les défenseurs escortent le roi jusqu’à une case d’angle ; les attaquants tentent de l’encercler.",
+    "de": "Asymmetrisches Wikingerspiel: Die Verteidiger geleiten den König zu einem Eckfeld; die Angreifer versuchen, ihn zu umzingeln.",
+    "pt-BR": "Jogo viking assimétrico: os defensores escoltam o rei até um canto; os atacantes tentam cercá-lo.",
+    "ca": "Joc víking asimètric: els defensors escorten el rei fins a una cantonada; els atacants intenten envoltar-lo.",
+    "it": "Gioco vichingo asimmetrico: i difensori scortano il re fino a un angolo; gli attaccanti cercano di circondarlo."
+   },
+   "variants": 2,
+   "rivals": [
+    {
+     "name": {
+      "es": "Leif",
+      "en": "Leif",
+      "fr": "Leif",
+      "de": "Leif",
+      "pt-BR": "Leif",
+      "ca": "Leif",
+      "it": "Leif"
+     },
+     "role": {
+      "es": "el pescador",
+      "en": "the fisherman",
+      "fr": "le pêcheur",
+      "de": "der Fischer",
+      "pt-BR": "o pescador",
+      "ca": "el pescador",
+      "it": "il pescatore"
+     }
+    },
+    {
+     "name": {
+      "es": "Sigrid",
+      "en": "Sigrid",
+      "fr": "Sigrid",
+      "de": "Sigrid",
+      "pt-BR": "Sigrid",
+      "ca": "Sigrid",
+      "it": "Sigrid"
+     },
+     "role": {
+      "es": "la escalda",
+      "en": "the skald",
+      "fr": "la scalde",
+      "de": "die Skaldin",
+      "pt-BR": "a escalda",
+      "ca": "l’escalda",
+      "it": "la scalda"
+     }
+    },
+    {
+     "name": {
+      "es": "Harald",
+      "en": "Harald",
+      "fr": "Harald",
+      "de": "Harald",
+      "pt-BR": "Harald",
+      "ca": "Harald",
+      "it": "Harald"
+     },
+     "role": {
+      "es": "el jarl",
+      "en": "the jarl",
+      "fr": "le jarl",
+      "de": "der Jarl",
+      "pt-BR": "o jarl",
+      "ca": "el jarl",
+      "it": "lo jarl"
+     }
+    }
+   ]
+  },
+  {
+   "id": "patolli",
+   "hall": "world",
+   "order": 1,
+   "name": {
+    "es": "Patolli",
+    "en": "Patolli",
+    "fr": "Patolli",
+    "de": "Patolli",
+    "pt-BR": "Patolli",
+    "ca": "Patolli",
+    "it": "Patolli"
+   },
+   "subtitle": {
+    "es": "El juego de los frijoles",
+    "en": "The Game of Beans",
+    "fr": "Le jeu des haricots",
+    "de": "Das Spiel der Bohnen",
+    "pt-BR": "O jogo dos feijões",
+    "ca": "El joc de les mongetes",
+    "it": "Il gioco dei fagioli"
+   },
+   "origin": {
+    "es": "Mesoamérica · hasta 1521",
+    "en": "Mesoamerica · until 1521",
+    "fr": "Mésoamérique · jusqu’en 1521",
+    "de": "Mesoamerika · bis 1521",
+    "pt-BR": "Mesoamérica · até 1521",
+    "ca": "Mesoamèrica · fins al 1521",
+    "it": "Mesoamerica · fino al 1521"
+   },
+   "blurb": {
+    "es": "Carrera azteca en aspa con cinco frijoles por dado: apuesta cuentas de jade, evita los triángulos y captura en el centro.",
+    "en": "An Aztec race on a cross-shaped board with five beans as dice: bet jade beads, avoid the triangles and capture in the center.",
+    "fr": "Course aztèque sur une croix avec cinq haricots pour dés : misez des perles de jade, évitez les triangles et prenez au centre.",
+    "de": "Aztekisches Rennen auf einem Kreuzbrett mit fünf Bohnen als Würfel: Setze Jadeperlen, meide die Dreiecke und schlage in der Mitte.",
+    "pt-BR": "Corrida asteca em cruz com cinco feijões por dado: aposte contas de jade, evite os triângulos e capture no centro.",
+    "ca": "Cursa asteca en aspa amb cinc mongetes per dau: aposta comptes de jade, evita els triangles i captura al centre.",
+    "it": "Corsa azteca su un tavoliere a croce con cinque fagioli come dadi: punta perle di giada, evita i triangoli e cattura al centro."
+   },
+   "variants": 2,
+   "rivals": [
+    {
+     "name": {
+      "es": "Tochtli",
+      "en": "Tochtli",
+      "fr": "Tochtli",
+      "de": "Tochtli",
+      "pt-BR": "Tochtli",
+      "ca": "Tochtli",
+      "it": "Tochtli"
+     },
+     "role": {
+      "es": "el macehual",
+      "en": "the macehualli",
+      "fr": "le macehualli",
+      "de": "der Macehualli",
+      "pt-BR": "o macehual",
+      "ca": "el macehual",
+      "it": "il macehualli"
+     }
+    },
+    {
+     "name": {
+      "es": "Itzel",
+      "en": "Itzel",
+      "fr": "Itzel",
+      "de": "Itzel",
+      "pt-BR": "Itzel",
+      "ca": "Itzel",
+      "it": "Itzel"
+     },
+     "role": {
+      "es": "la pochteca",
+      "en": "the pochteca",
+      "fr": "la pochteca",
+      "de": "die Pochteca",
+      "pt-BR": "a pochteca",
+      "ca": "la pochteca",
+      "it": "la pochteca"
+     }
+    },
+    {
+     "name": {
+      "es": "Moctezuma",
+      "en": "Moctezuma",
+      "fr": "Moctezuma",
+      "de": "Moctezuma",
+      "pt-BR": "Moctezuma",
+      "ca": "Moctezuma",
+      "it": "Moctezuma"
+     },
+     "role": {
+      "es": "el huey tlatoani",
+      "en": "the huey tlatoani",
+      "fr": "le huey tlatoani",
+      "de": "der Huey Tlatoani",
+      "pt-BR": "o huey tlatoani",
+      "ca": "el huey tlatoani",
+      "it": "lo huey tlatoani"
+     }
+    }
+   ]
+  },
+  {
+   "id": "oware",
+   "hall": "world",
+   "order": 0,
+   "name": {
+    "es": "Oware / Mancala",
+    "en": "Oware / Mancala",
+    "fr": "Oware / Mancala",
+    "de": "Oware / Mancala",
+    "pt-BR": "Oware / Mancala",
+    "ca": "Oware / Mancala",
+    "it": "Oware / Mancala"
+   },
+   "subtitle": {
+    "es": "El juego de la siembra",
+    "en": "The Sowing Game",
+    "fr": "Le jeu des semailles",
+    "de": "Das Spiel der Aussaat",
+    "pt-BR": "O jogo da semeadura",
+    "ca": "El joc de la sembra",
+    "it": "Il gioco della semina"
+   },
+   "origin": {
+    "es": "África · tradicional",
+    "en": "Africa · traditional",
+    "fr": "Afrique · tradition",
+    "de": "Afrika · traditionell",
+    "pt-BR": "África · tradicional",
+    "ca": "Àfrica · tradicional",
+    "it": "Africa · tradizionale"
+   },
+   "blurb": {
+    "es": "Siembra semillas de hoyo en hoyo y captura las del rival cuando dejas 2 o 3. Gana quien reúna 25 de las 48.",
+    "en": "Sow seeds from pit to pit and capture your rival’s when you leave 2 or 3. Whoever gathers 25 of the 48 wins.",
+    "fr": "Semez les graines de trou en trou et prenez celles de l’adversaire quand vous en laissez 2 ou 3. Le premier à réunir 25 des 48 gagne.",
+    "de": "Säe Samen von Mulde zu Mulde und schlage die des Gegners, wenn du 2 oder 3 zurücklässt. Wer 25 der 48 sammelt, gewinnt.",
+    "pt-BR": "Semeie sementes de cova em cova e capture as do rival quando deixar 2 ou 3. Vence quem juntar 25 das 48.",
+    "ca": "Sembra llavors de forat en forat i captura les del rival quan en deixes 2 o 3. Guanya qui en reuneix 25 de les 48.",
+    "it": "Semina i semi di buca in buca e cattura quelli dell’avversario quando ne lasci 2 o 3. Vince chi ne raccoglie 25 su 48."
+   },
+   "variants": 2,
+   "rivals": [
+    {
+     "name": {
+      "es": "Kofi",
+      "en": "Kofi",
+      "fr": "Kofi",
+      "de": "Kofi",
+      "pt-BR": "Kofi",
+      "ca": "Kofi",
+      "it": "Kofi"
+     },
+     "role": {
+      "es": "el niño",
+      "en": "the boy",
+      "fr": "le garçon",
+      "de": "der Junge",
+      "pt-BR": "o menino",
+      "ca": "el nen",
+      "it": "il bambino"
+     }
+    },
+    {
+     "name": {
+      "es": "Nana Kwame",
+      "en": "Nana Kwame",
+      "fr": "Nana Kwame",
+      "de": "Nana Kwame",
+      "pt-BR": "Nana Kwame",
+      "ca": "Nana Kwame",
+      "it": "Nana Kwame"
+     },
+     "role": {
+      "es": "el jefe",
+      "en": "the chief",
+      "fr": "le chef",
+      "de": "der Häuptling",
+      "pt-BR": "o chefe",
+      "ca": "el cap",
+      "it": "il capo"
+     }
+    },
+    {
+     "name": {
+      "es": "Yaa Asantewaa",
+      "en": "Yaa Asantewaa",
+      "fr": "Yaa Asantewaa",
+      "de": "Yaa Asantewaa",
+      "pt-BR": "Yaa Asantewaa",
+      "ca": "Yaa Asantewaa",
+      "it": "Yaa Asantewaa"
+     },
+     "role": {
+      "es": "la reina madre",
+      "en": "the queen mother",
+      "fr": "la reine mère",
+      "de": "die Königinmutter",
+      "pt-BR": "a rainha-mãe",
+      "ca": "la reina mare",
+      "it": "la regina madre"
+     }
+    }
+   ]
+  },
+  {
+   "id": "konane",
+   "hall": "world",
+   "order": 2,
+   "name": {
+    "es": "Kōnane",
+    "en": "Kōnane",
+    "fr": "Kōnane",
+    "de": "Kōnane",
+    "pt-BR": "Kōnane",
+    "ca": "Kōnane",
+    "it": "Kōnane"
+   },
+   "subtitle": {
+    "es": "Lava y coral",
+    "en": "Lava and Coral",
+    "fr": "Lave et corail",
+    "de": "Lava und Koralle",
+    "pt-BR": "Lava e coral",
+    "ca": "Lava i corall",
+    "it": "Lava e corallo"
+   },
+   "origin": {
+    "es": "Hawái · antes de 1778",
+    "en": "Hawaii · before 1778",
+    "fr": "Hawaï · avant 1778",
+    "de": "Hawaiʻi · vor 1778",
+    "pt-BR": "Havaí · antes de 1778",
+    "ca": "Hawaii · abans del 1778",
+    "it": "Hawaii · prima del 1778"
+   },
+   "blurb": {
+    "es": "Juego hawaiano de saltos: el tablero empieza lleno y cada jugada captura. Pierde quien ya no puede saltar.",
+    "en": "A Hawaiian jumping game: the board starts full and every move captures. Whoever can no longer jump loses.",
+    "fr": "Jeu de sauts hawaïen : le plateau commence plein et chaque coup prend. Celui qui ne peut plus sauter perd.",
+    "de": "Hawaiianisches Sprungspiel: Das Brett ist anfangs voll, und jeder Zug schlägt. Wer nicht mehr springen kann, verliert.",
+    "pt-BR": "Jogo havaiano de saltos: o tabuleiro começa cheio e cada jogada captura. Perde quem não puder mais saltar.",
+    "ca": "Joc hawaià de salts: el tauler comença ple i cada jugada captura. Perd qui ja no pot saltar.",
+    "it": "Gioco hawaiano di salti: il tavoliere parte pieno e ogni mossa cattura. Perde chi non può più saltare."
+   },
+   "variants": 2,
+   "rivals": [
+    {
+     "name": {
+      "es": "Kai",
+      "en": "Kai",
+      "fr": "Kai",
+      "de": "Kai",
+      "pt-BR": "Kai",
+      "ca": "Kai",
+      "it": "Kai"
+     },
+     "role": {
+      "es": "el pescador",
+      "en": "the fisherman",
+      "fr": "le pêcheur",
+      "de": "der Fischer",
+      "pt-BR": "o pescador",
+      "ca": "el pescador",
+      "it": "il pescatore"
+     }
+    },
+    {
+     "name": {
+      "es": "Leilani",
+      "en": "Leilani",
+      "fr": "Leilani",
+      "de": "Leilani",
+      "pt-BR": "Leilani",
+      "ca": "Leilani",
+      "it": "Leilani"
+     },
+     "role": {
+      "es": "la tejedora",
+      "en": "the weaver",
+      "fr": "la tisserande",
+      "de": "die Weberin",
+      "pt-BR": "a tecelã",
+      "ca": "la teixidora",
+      "it": "la tessitrice"
+     }
+    },
+    {
+     "name": {
+      "es": "Kaʻahumanu",
+      "en": "Kaʻahumanu",
+      "fr": "Kaʻahumanu",
+      "de": "Kaʻahumanu",
+      "pt-BR": "Kaʻahumanu",
+      "ca": "Kaʻahumanu",
+      "it": "Kaʻahumanu"
+     },
+     "role": {
+      "es": "la regente",
+      "en": "the regent",
+      "fr": "la régente",
+      "de": "die Regentin",
+      "pt-BR": "a regente",
+      "ca": "la regent",
+      "it": "la reggente"
+     }
+    }
+   ]
+  },
+  {
+   "id": "conquian",
+   "hall": "cards",
+   "order": 1,
+   "name": {
+    "es": "Conquián",
+    "en": "Conquián",
+    "fr": "Conquián",
+    "de": "Conquián",
+    "pt-BR": "Conquián",
+    "ca": "Conquián",
+    "it": "Conquián"
+   },
+   "subtitle": {
+    "es": "El abuelo del rummy",
+    "en": "The Grandfather of Rummy",
+    "fr": "Le grand-père du rami",
+    "de": "Der Großvater des Rommé",
+    "pt-BR": "O avô do rummy",
+    "ca": "L’avi del rummy",
+    "it": "Il nonno del ramino"
+   },
+   "origin": {
+    "es": "México · s. XIX",
+    "en": "Mexico · 19th c.",
+    "fr": "Mexique · XIXᵉ s.",
+    "de": "Mexiko · 19. Jh.",
+    "pt-BR": "México · séc. XIX",
+    "ca": "Mèxic · s. XIX",
+    "it": "Messico · XIX sec."
+   },
+   "blurb": {
+    "es": "Juego de cartas mexicano del que nació el rummy: baja la carta del centro en tercias y escaleras hasta quedarte sin mano.",
+    "en": "The Mexican card game that gave birth to rummy: meld the center card in sets and runs until your hand is gone.",
+    "fr": "Le jeu de cartes mexicain d’où est né le rami : posez la carte du centre en brelans et en suites jusqu’à vider votre main.",
+    "de": "Mexikanisches Kartenspiel, aus dem Rommé entstand: Lege die Karte aus der Mitte in Drillingen und Folgen aus, bis deine Hand leer ist.",
+    "pt-BR": "Jogo de cartas mexicano que deu origem ao rummy: baixe a carta do centro em trincas e sequências até ficar sem mão.",
+    "ca": "Joc de cartes mexicà del qual va néixer el rummy: baixa la carta del centre en trios i escales fins a quedar-te sense mà.",
+    "it": "Gioco di carte messicano da cui è nato il rummy: cala la carta del centro in tris e scale finché resti senza carte in mano."
+   },
+   "variants": 2,
+   "rivals": [
+    {
+     "name": {
+      "es": "Toño",
+      "en": "Toño",
+      "fr": "Toño",
+      "de": "Toño",
+      "pt-BR": "Toño",
+      "ca": "Toño",
+      "it": "Toño"
+     },
+     "role": {
+      "es": "el arriero",
+      "en": "the muleteer",
+      "fr": "le muletier",
+      "de": "der Maultiertreiber",
+      "pt-BR": "o tropeiro",
+      "ca": "el traginer",
+      "it": "il mulattiere"
+     }
+    },
+    {
+     "name": {
+      "es": "Doña Chole",
+      "en": "Doña Chole",
+      "fr": "Doña Chole",
+      "de": "Doña Chole",
+      "pt-BR": "Doña Chole",
+      "ca": "Doña Chole",
+      "it": "Doña Chole"
+     },
+     "role": {
+      "es": "la de la fonda",
+      "en": "the cook from the fonda",
+      "fr": "la cuisinière de la fonda",
+      "de": "die Wirtin der Fonda",
+      "pt-BR": "a da pensão",
+      "ca": "la de la fonda",
+      "it": "quella della locanda"
+     }
+    },
+    {
+     "name": {
+      "es": "Don Juan",
+      "en": "Don Juan",
+      "fr": "Don Juan",
+      "de": "Don Juan",
+      "pt-BR": "Don Juan",
+      "ca": "Don Juan",
+      "it": "Don Juan"
+     },
+     "role": {
+      "es": "el ganadero",
+      "en": "the rancher",
+      "fr": "l’éleveur",
+      "de": "der Viehzüchter",
+      "pt-BR": "o fazendeiro",
+      "ca": "el ramader",
+      "it": "l’allevatore"
+     }
+    }
+   ]
+  },
+  {
+   "id": "cribbage",
+   "hall": "cards",
+   "order": 0,
+   "name": {
+    "es": "Cribbage",
+    "en": "Cribbage",
+    "fr": "Cribbage",
+    "de": "Cribbage",
+    "pt-BR": "Cribbage",
+    "ca": "Cribbage",
+    "it": "Cribbage"
+   },
+   "subtitle": {
+    "es": "Quinces, pares y clavijas",
+    "en": "Fifteens, Pairs and Pegs",
+    "fr": "Quinzes, paires et fiches",
+    "de": "Fünfzehner, Paare und Stifte",
+    "pt-BR": "Quinzes, pares e pinos",
+    "ca": "Quinzes, parelles i clavilles",
+    "it": "Quindici, coppie e pioli"
+   },
+   "origin": {
+    "es": "Inglaterra · s. XVII",
+    "en": "England · 17th c.",
+    "fr": "Angleterre · XVIIᵉ s.",
+    "de": "England · 17. Jh.",
+    "pt-BR": "Inglaterra · séc. XVII",
+    "ca": "Anglaterra · s. XVII",
+    "it": "Inghilterra · XVII sec."
+   },
+   "blurb": {
+    "es": "Juego de cartas inglés con tablero de clavijas: suma quinces, pares y corridas, y llega a la meta antes que el rival.",
+    "en": "An English card game with a pegboard: score fifteens, pairs and runs, and reach the finish before your rival.",
+    "fr": "Jeu de cartes anglais avec planche à fiches : marquez quinzes, paires et suites, et atteignez l’arrivée avant l’adversaire.",
+    "de": "Englisches Kartenspiel mit Steckbrett: Zähle Fünfzehner, Paare und Folgen und erreiche das Ziel vor deinem Gegner.",
+    "pt-BR": "Jogo de cartas inglês com tabuleiro de pinos: some quinzes, pares e sequências, e chegue à meta antes do rival.",
+    "ca": "Joc de cartes anglès amb tauler de clavilles: suma quinzes, parelles i escales, i arriba a la meta abans que el rival.",
+    "it": "Gioco di carte inglese con tavoliere a pioli: somma quindici, coppie e scale, e arriva al traguardo prima dell’avversario."
+   },
+   "variants": 2,
+   "rivals": [
+    {
+     "name": {
+      "es": "Ned",
+      "en": "Ned",
+      "fr": "Ned",
+      "de": "Ned",
+      "pt-BR": "Ned",
+      "ca": "Ned",
+      "it": "Ned"
+     },
+     "role": {
+      "es": "el mozo de taberna",
+      "en": "the potboy",
+      "fr": "le garçon de taverne",
+      "de": "der Schankbursche",
+      "pt-BR": "o moço da taberna",
+      "ca": "el mosso de taverna",
+      "it": "il garzone d’osteria"
+     }
+    },
+    {
+     "name": {
+      "es": "Moll",
+      "en": "Moll",
+      "fr": "Moll",
+      "de": "Moll",
+      "pt-BR": "Moll",
+      "ca": "Moll",
+      "it": "Moll"
+     },
+     "role": {
+      "es": "la tabernera",
+      "en": "the barmaid",
+      "fr": "la tavernière",
+      "de": "die Wirtin",
+      "pt-BR": "a taberneira",
+      "ca": "la tavernera",
+      "it": "l’ostessa"
+     }
+    },
+    {
+     "name": {
+      "es": "Sir John",
+      "en": "Sir John",
+      "fr": "Sir John",
+      "de": "Sir John",
+      "pt-BR": "Sir John",
+      "ca": "Sir John",
+      "it": "Sir John"
+     },
+     "role": {
+      "es": "el poeta",
+      "en": "the poet",
+      "fr": "le poète",
+      "de": "der Dichter",
+      "pt-BR": "o poeta",
+      "ca": "el poeta",
+      "it": "il poeta"
+     }
+    }
+   ]
+  },
+  {
+   "id": "tavli",
+   "hall": "world",
+   "order": 3,
+   "name": {
+    "es": "Tavli",
+    "en": "Tavli",
+    "fr": "Tavli",
+    "de": "Tavli",
+    "pt-BR": "Tavli",
+    "ca": "Tavli",
+    "it": "Tavli"
+   },
+   "subtitle": {
+    "es": "El backgammon griego",
+    "en": "Greek backgammon",
+    "fr": "Le backgammon grec",
+    "de": "Das griechische Backgammon",
+    "pt-BR": "O gamão grego",
+    "ca": "El backgammon grec",
+    "it": "Il backgammon greco"
+   },
+   "origin": {
+    "es": "Grecia · Bizancio – hoy",
+    "en": "Greece · Byzantium – today",
+    "fr": "Grèce · Byzance – aujourd’hui",
+    "de": "Griechenland · Byzanz – heute",
+    "pt-BR": "Grécia · Bizâncio – hoje",
+    "ca": "Grècia · Bizanci – avui",
+    "it": "Grecia · Bisanzio – oggi"
+   },
+   "blurb": {
+    "es": "El backgammon de los cafés griegos: tres juegos seguidos en el mismo tablero, con golpes, fichas atrapadas y bloqueos, hasta 5 puntos.",
+    "en": "The backgammon of Greek cafés: three games in a row on the same board, with hitting, trapping and blocking, up to 5 points.",
+    "fr": "Le backgammon des cafés grecs : trois jeux à la suite sur le même tablier, avec frappes, pinces et blocages, jusqu’à 5 points.",
+    "de": "Das Backgammon der griechischen Cafés: drei Spiele nacheinander auf demselben Brett, mit Schlagen, Festsetzen und Blockaden, bis 5 Punkte.",
+    "pt-BR": "O gamão dos cafés gregos: três jogos seguidos no mesmo tabuleiro, com batidas, prisões e bloqueios, até 5 pontos.",
+    "ca": "El backgammon dels cafès grecs: tres jocs seguits al mateix tauler, amb cops, fitxes atrapades i bloquejos, fins a 5 punts.",
+    "it": "Il backgammon dei caffè greci: tre giochi di seguito sullo stesso tavoliere, con colpi, prigionieri e blocchi, fino a 5 punti."
+   },
+   "variants": 4,
+   "rivals": [
+    {
+     "name": {
+      "es": "Arquímedes",
+      "en": "Archimedes",
+      "fr": "Archimède",
+      "de": "Archimedes",
+      "pt-BR": "Arquimedes",
+      "ca": "Arquimedes",
+      "it": "Archimede"
+     },
+     "role": {
+      "es": "el matemático",
+      "en": "the mathematician",
+      "fr": "le mathématicien",
+      "de": "der Mathematiker",
+      "pt-BR": "o matemático",
+      "ca": "el matemàtic",
+      "it": "il matematico"
+     }
+    },
+    {
+     "name": {
+      "es": "Aspasia",
+      "en": "Aspasia",
+      "fr": "Aspasia",
+      "de": "Aspasia",
+      "pt-BR": "Aspasia",
+      "ca": "Aspasia",
+      "it": "Aspasia"
+     },
+     "role": {
+      "es": "la de Mileto",
+      "en": "the Milesian",
+      "fr": "la Milésienne",
+      "de": "die aus Milet",
+      "pt-BR": "a de Mileto",
+      "ca": "la de Milet",
+      "it": "quella di Mileto"
+     }
+    },
+    {
+     "name": {
+      "es": "Aquiles",
+      "en": "Achilles",
+      "fr": "Achille",
+      "de": "Achilles",
+      "pt-BR": "Aquiles",
+      "ca": "Aquil·les",
+      "it": "Achille"
+     },
+     "role": {
+      "es": "el héroe",
+      "en": "the hero",
+      "fr": "le héros",
+      "de": "der Held",
+      "pt-BR": "o herói",
+      "ca": "l’heroi",
+      "it": "l’eroe"
+     }
+    }
+   ]
+  }
+ ],
+ "halls": {
+  "antiquity": {
+   "title": {
+    "es": "Antigüedad",
+    "en": "Antiquity",
+    "fr": "Antiquité",
+    "de": "Antike",
+    "pt-BR": "Antiguidade",
+    "ca": "Antiguitat",
+    "it": "Antichità"
+   },
+   "span": {
+    "es": "c. 2600 a. C. – s. VI",
+    "en": "c. 2600 BC – 6th c.",
+    "fr": "v. 2600 av. J.-C. – VIᵉ s.",
+    "de": "um 2600 v. Chr. – 6. Jh.",
+    "pt-BR": "c. 2600 a.C. – séc. VI",
+    "ca": "c. 2600 aC – s. VI",
+    "it": "c. 2600 a.C. – VI sec."
+   }
+  },
+  "middleAges": {
+   "title": {
+    "es": "Edad Media",
+    "en": "Middle Ages",
+    "fr": "Moyen Âge",
+    "de": "Mittelalter",
+    "pt-BR": "Idade Média",
+    "ca": "Edat Mitjana",
+    "it": "Medioevo"
+   },
+   "span": {
+    "es": "s. IV – XV",
+    "en": "4th–15th c.",
+    "fr": "IVᵉ – XVᵉ s.",
+    "de": "4.–15. Jh.",
+    "pt-BR": "séc. IV – XV",
+    "ca": "s. IV – XV",
+    "it": "IV – XV sec."
+   }
+  },
+  "world": {
+   "title": {
+    "es": "Pueblos del mundo",
+    "en": "Peoples of the World",
+    "fr": "Peuples du monde",
+    "de": "Völker der Welt",
+    "pt-BR": "Povos do mundo",
+    "ca": "Pobles del món",
+    "it": "Popoli del mondo"
+   },
+   "span": {
+    "es": "Tradiciones de todo el mundo",
+    "en": "Traditions from around the world",
+    "fr": "Traditions du monde entier",
+    "de": "Traditionen aus aller Welt",
+    "pt-BR": "Tradições do mundo todo",
+    "ca": "Tradicions de tot el món",
+    "it": "Tradizioni da tutto il mondo"
+   }
+  },
+  "cards": {
+   "title": {
+    "es": "Sala de cartas",
+    "en": "Card Room",
+    "fr": "Salle des cartes",
+    "de": "Kartensaal",
+    "pt-BR": "Sala das cartas",
+    "ca": "Sala de cartes",
+    "it": "Sala delle carte"
+   },
+   "span": {
+    "es": "s. XVI – XIX",
+    "en": "16th–19th c.",
+    "fr": "XVIᵉ – XIXᵉ s.",
+    "de": "16.–19. Jh.",
+    "pt-BR": "séc. XVI – XIX",
+    "ca": "s. XVI – XIX",
+    "it": "XVI – XIX sec."
+   }
+  }
+ },
+ "upcoming": [
+  {
+   "id": "senet",
+   "hall": "antiquity",
+   "name": {
+    "es": "Senet",
+    "en": "Senet",
+    "fr": "Senet",
+    "de": "Senet",
+    "pt-BR": "Senet",
+    "ca": "Senet",
+    "it": "Senet"
+   },
+   "subtitle": {
+    "es": "El juego del paso",
+    "en": "The game of passing",
+    "fr": "Le jeu du passage",
+    "de": "Das Spiel des Übergangs",
+    "pt-BR": "O jogo da passagem",
+    "ca": "El joc del pas",
+    "it": "Il gioco del passaggio"
+   },
+   "origin": {
+    "es": "Egipto · c. 3100 a. C.",
+    "en": "Egypt · c. 3100 BC",
+    "fr": "Égypte · v. 3100 av. J.-C.",
+    "de": "Ägypten · um 3100 v. Chr.",
+    "pt-BR": "Egito · c. 3100 a.C.",
+    "ca": "Egipte · c. 3100 aC",
+    "it": "Egitto · c. 3100 a.C."
+   }
+  },
+  {
+   "id": "shatranj",
+   "hall": "middleAges",
+   "name": {
+    "es": "Shatranj",
+    "en": "Shatranj",
+    "fr": "Shatranj",
+    "de": "Shatranj",
+    "pt-BR": "Shatranj",
+    "ca": "Shatranj",
+    "it": "Shatranj"
+   },
+   "subtitle": {
+    "es": "El abuelo del ajedrez",
+    "en": "The grandfather of chess",
+    "fr": "L’aïeul des échecs",
+    "de": "Der Großvater des Schachs",
+    "pt-BR": "O avô do xadrez",
+    "ca": "L’avi dels escacs",
+    "it": "Il nonno degli scacchi"
+   },
+   "origin": {
+    "es": "Persia · s. VII",
+    "en": "Persia · 7th c.",
+    "fr": "Perse · VIIᵉ s.",
+    "de": "Persien · 7. Jh.",
+    "pt-BR": "Pérsia · séc. VII",
+    "ca": "Pèrsia · s. VII",
+    "it": "Persia · VII sec."
+   }
+  },
+  {
+   "id": "xiangqi",
+   "hall": "middleAges",
+   "name": {
+    "es": "Xiangqi",
+    "en": "Xiangqi",
+    "fr": "Xiangqi",
+    "de": "Xiangqi",
+    "pt-BR": "Xiangqi",
+    "ca": "Xiangqi",
+    "it": "Xiangqi"
+   },
+   "subtitle": {
+    "es": "El ajedrez del río",
+    "en": "The chess of the river",
+    "fr": "Les échecs du fleuve",
+    "de": "Das Schach des Flusses",
+    "pt-BR": "O xadrez do rio",
+    "ca": "Els escacs del riu",
+    "it": "Gli scacchi del fiume"
+   },
+   "origin": {
+    "es": "China · s. VIII",
+    "en": "China · 8th c.",
+    "fr": "Chine · VIIIᵉ s.",
+    "de": "China · 8. Jh.",
+    "pt-BR": "China · séc. VIII",
+    "ca": "Xina · s. VIII",
+    "it": "Cina · VIII sec."
+   }
+  },
+  {
+   "id": "alquerque",
+   "hall": "middleAges",
+   "name": {
+    "es": "Alquerque",
+    "en": "Alquerque",
+    "fr": "Alquerque",
+    "de": "Alquerque",
+    "pt-BR": "Alquerque",
+    "ca": "Alquerque",
+    "it": "Alquerque"
+   },
+   "subtitle": {
+    "es": "El antepasado de las damas",
+    "en": "The ancestor of checkers",
+    "fr": "L’ancêtre des dames",
+    "de": "Der Ahne des Damespiels",
+    "pt-BR": "O antepassado das damas",
+    "ca": "L’avantpassat de les dames",
+    "it": "L’antenato della dama"
+   },
+   "origin": {
+    "es": "Al-Ándalus · s. X – XIII",
+    "en": "Al-Andalus · 10th–13th c.",
+    "fr": "Al-Andalus · Xᵉ – XIIIᵉ s.",
+    "de": "Al-Andalus · 10.–13. Jh.",
+    "pt-BR": "Al-Andalus · séc. X – XIII",
+    "ca": "Al-Andalus · s. X – XIII",
+    "it": "Al-Andalus · X–XIII sec."
+   }
+  },
+  {
+   "id": "shogi",
+   "hall": "middleAges",
+   "name": {
+    "es": "Shogi",
+    "en": "Shogi",
+    "fr": "Shogi",
+    "de": "Shogi",
+    "pt-BR": "Shogi",
+    "ca": "Shogi",
+    "it": "Shogi"
+   },
+   "subtitle": {
+    "es": "El ajedrez de los prisioneros",
+    "en": "The chess of prisoners",
+    "fr": "Les échecs des prisonniers",
+    "de": "Das Schach der Gefangenen",
+    "pt-BR": "O xadrez dos prisioneiros",
+    "ca": "Els escacs dels presoners",
+    "it": "Gli scacchi dei prigionieri"
+   },
+   "origin": {
+    "es": "Japón · s. XI – XII",
+    "en": "Japan · 11th–12th c.",
+    "fr": "Japon · XIᵉ – XIIᵉ s.",
+    "de": "Japan · 11.–12. Jh.",
+    "pt-BR": "Japão · séc. XI – XII",
+    "ca": "Japó · s. XI – XII",
+    "it": "Giappone · XI – XII sec."
+   }
+  },
+  {
+   "id": "damas",
+   "hall": "middleAges",
+   "name": {
+    "es": "Damas",
+    "en": "Checkers",
+    "fr": "Dames",
+    "de": "Dame",
+    "pt-BR": "Damas",
+    "ca": "Dames",
+    "it": "Dama"
+   },
+   "subtitle": {
+    "es": "La hija del alquerque",
+    "en": "The daughter of alquerque",
+    "fr": "La fille de l’alquerque",
+    "de": "Die Tochter des Alquerque",
+    "pt-BR": "A filha do alquerque",
+    "ca": "La filla de l’alquerc",
+    "it": "La figlia dell’alquerque"
+   },
+   "origin": {
+    "es": "Francia · s. XII",
+    "en": "France · 12th c.",
+    "fr": "France · XIIᵉ s.",
+    "de": "Frankreich · 12. Jh.",
+    "pt-BR": "França · séc. XII",
+    "ca": "França · s. XII",
+    "it": "Francia · XII sec."
+   }
+  },
+  {
+   "id": "domino",
+   "hall": "middleAges",
+   "name": {
+    "es": "Dominó",
+    "en": "Dominoes",
+    "fr": "Dominos",
+    "de": "Domino",
+    "pt-BR": "Dominó",
+    "ca": "Dòmino",
+    "it": "Domino"
+   },
+   "subtitle": {
+    "es": "Dos dados en una ficha",
+    "en": "Two dice on one tile",
+    "fr": "Deux dés sur un domino",
+    "de": "Zwei Würfel auf einem Stein",
+    "pt-BR": "Dois dados numa peça",
+    "ca": "Dos daus en una fitxa",
+    "it": "Due dadi su una tessera"
+   },
+   "origin": {
+    "es": "China · s. XII – XIII",
+    "en": "China · 12th–13th c.",
+    "fr": "Chine · XIIᵉ – XIIIᵉ s.",
+    "de": "China · 12.–13. Jh.",
+    "pt-BR": "China · séc. XII – XIII",
+    "ca": "Xina · s. XII – XIII",
+    "it": "Cina · XII – XIII sec."
+   }
+  },
+  {
+   "id": "puluc",
+   "hall": "world",
+   "name": {
+    "es": "Puluc",
+    "en": "Puluc",
+    "fr": "Puluc",
+    "de": "Puluc",
+    "pt-BR": "Puluc",
+    "ca": "Puluc",
+    "it": "Puluc"
+   },
+   "subtitle": {
+    "es": "Bul · guerreros y granos de maíz",
+    "en": "Bul · warriors and corn kernels",
+    "fr": "Bul · guerriers et grains de maïs",
+    "de": "Bul · Krieger und Maiskörner",
+    "pt-BR": "Bul · guerreiros e grãos de milho",
+    "ca": "Bul · guerrers i grans de blat de moro",
+    "it": "Bul · guerrieri e chicchi di mais"
+   },
+   "origin": {
+    "es": "Maya · Guatemala",
+    "en": "Maya · Guatemala",
+    "fr": "Maya · Guatemala",
+    "de": "Maya · Guatemala",
+    "pt-BR": "Maia · Guatemala",
+    "ca": "Maia · Guatemala",
+    "it": "Maya · Guatemala"
+   }
+  },
+  {
+   "id": "pachisi",
+   "hall": "world",
+   "name": {
+    "es": "Pachisi",
+    "en": "Pachisi",
+    "fr": "Pachisi",
+    "de": "Pachisi",
+    "pt-BR": "Pachisi",
+    "ca": "Pachisi",
+    "it": "Pachisi"
+   },
+   "subtitle": {
+    "es": "El abuelo del parchís",
+    "en": "The grandfather of Parcheesi",
+    "fr": "L’aïeul des petits chevaux",
+    "de": "Der Großvater von Mensch ärgere dich nicht",
+    "pt-BR": "O avô do ludo",
+    "ca": "L’avi del parxís",
+    "it": "Il nonno del ludo"
+   },
+   "origin": {
+    "es": "India · s. XVI",
+    "en": "India · 16th c.",
+    "fr": "Inde · XVIᵉ s.",
+    "de": "Indien · 16. Jh.",
+    "pt-BR": "Índia · séc. XVI",
+    "ca": "Índia · s. XVI",
+    "it": "India · XVI sec."
+   }
+  },
+  {
+   "id": "fanorona",
+   "hall": "world",
+   "name": {
+    "es": "Fanorona",
+    "en": "Fanorona",
+    "fr": "Fanorona",
+    "de": "Fanorona",
+    "pt-BR": "Fanorona",
+    "ca": "Fanorona",
+    "it": "Fanorona"
+   },
+   "subtitle": {
+    "es": "Captura de un golpe",
+    "en": "Capture in one stroke",
+    "fr": "La prise d’un seul coup",
+    "de": "Schlagen mit einem Streich",
+    "pt-BR": "Captura de um só golpe",
+    "ca": "Captura d’un cop",
+    "it": "Cattura in un colpo"
+   },
+   "origin": {
+    "es": "Madagascar · s. XVII",
+    "en": "Madagascar · 17th c.",
+    "fr": "Madagascar · XVIIᵉ s.",
+    "de": "Madagaskar · 17. Jh.",
+    "pt-BR": "Madagascar · séc. XVII",
+    "ca": "Madagascar · s. XVII",
+    "it": "Madagascar · XVII sec."
+   }
+  },
+  {
+   "id": "komikan",
+   "hall": "world",
+   "name": {
+    "es": "Komikan",
+    "en": "Komikan",
+    "fr": "Komikan",
+    "de": "Komikan",
+    "pt-BR": "Komikan",
+    "ca": "Komikan",
+    "it": "Komikan"
+   },
+   "subtitle": {
+    "es": "Comérselo todo",
+    "en": "Eat them all",
+    "fr": "Tout dévorer",
+    "de": "Alles verschlingen",
+    "pt-BR": "Comer tudo",
+    "ca": "Menjar-s’ho tot",
+    "it": "Mangiare tutto"
+   },
+   "origin": {
+    "es": "Mapuche · Chile, 1787",
+    "en": "Mapuche · Chile, 1787",
+    "fr": "Mapuche · Chili, 1787",
+    "de": "Mapuche · Chile, 1787",
+    "pt-BR": "Mapuche · Chile, 1787",
+    "ca": "Maputxe · Xile, 1787",
+    "it": "Mapuche · Cile, 1787"
+   }
+  },
+  {
+   "id": "awithlaknannai",
+   "hall": "world",
+   "name": {
+    "es": "Awithlaknannai",
+    "en": "Awithlaknannai",
+    "fr": "Awithlaknannai",
+    "de": "Awithlaknannai",
+    "pt-BR": "Awithlaknannai",
+    "ca": "Awithlaknannai",
+    "it": "Awithlaknannai"
+   },
+   "subtitle": {
+    "es": "Serpientes en lucha",
+    "en": "Battling serpents",
+    "fr": "Serpents en lutte",
+    "de": "Kämpfende Schlangen",
+    "pt-BR": "Serpentes em luta",
+    "ca": "Serps en lluita",
+    "it": "Serpenti in lotta"
+   },
+   "origin": {
+    "es": "Zuñi · Nuevo México",
+    "en": "Zuni · New Mexico",
+    "fr": "Zuñi · Nouveau-Mexique",
+    "de": "Zuñi · New Mexico",
+    "pt-BR": "Zuñi · Novo México",
+    "ca": "Zuñi · Nou Mèxic",
+    "it": "Zuñi · Nuovo Messico"
+   }
+  },
+  {
+   "id": "bao",
+   "hall": "world",
+   "name": {
+    "es": "Bao",
+    "en": "Bao",
+    "fr": "Bao",
+    "de": "Bao",
+    "pt-BR": "Bao",
+    "ca": "Bao",
+    "it": "Bao"
+   },
+   "subtitle": {
+    "es": "El mancala de cuatro filas",
+    "en": "The four-row mancala",
+    "fr": "Le mancala à quatre rangées",
+    "de": "Das Mancala mit vier Reihen",
+    "pt-BR": "O mancala de quatro fileiras",
+    "ca": "El mancala de quatre files",
+    "it": "Il mancala a quattro file"
+   },
+   "origin": {
+    "es": "África oriental · tradicional",
+    "en": "East Africa · traditional",
+    "fr": "Afrique de l’Est · tradition",
+    "de": "Ostafrika · traditionell",
+    "pt-BR": "África Oriental · tradicional",
+    "ca": "Àfrica oriental · tradicional",
+    "it": "Africa orientale · tradizionale"
+   }
+  },
+  {
+   "id": "primera",
+   "hall": "cards",
+   "name": {
+    "es": "Primera",
+    "en": "Primera",
+    "fr": "Primera",
+    "de": "Primera",
+    "pt-BR": "Primera",
+    "ca": "Primera",
+    "it": "Primiera"
+   },
+   "subtitle": {
+    "es": "La abuela del póker",
+    "en": "The grandmother of poker",
+    "fr": "L’aïeule du poker",
+    "de": "Die Großmutter des Pokers",
+    "pt-BR": "A avó do pôquer",
+    "ca": "L’àvia del pòquer",
+    "it": "La nonna del poker"
+   },
+   "origin": {
+    "es": "España e Italia · s. XVI",
+    "en": "Spain and Italy · 16th c.",
+    "fr": "Espagne et Italie · XVIᵉ s.",
+    "de": "Spanien und Italien · 16. Jh.",
+    "pt-BR": "Espanha e Itália · séc. XVI",
+    "ca": "Espanya i Itàlia · s. XVI",
+    "it": "Spagna e Italia · XVI sec."
+   }
+  },
+  {
+   "id": "piquet",
+   "hall": "cards",
+   "name": {
+    "es": "Piquet",
+    "en": "Piquet",
+    "fr": "Piquet",
+    "de": "Piquet",
+    "pt-BR": "Piquet",
+    "ca": "Piquet",
+    "it": "Piquet"
+   },
+   "subtitle": {
+    "es": "El duelo de cartas francés",
+    "en": "The French card duel",
+    "fr": "Le duel de cartes à la française",
+    "de": "Das französische Kartenduell",
+    "pt-BR": "O duelo de cartas francês",
+    "ca": "El duel de cartes francès",
+    "it": "Il duello di carte francese"
+   },
+   "origin": {
+    "es": "Francia · s. XVI",
+    "en": "France · 16th c.",
+    "fr": "France · XVIᵉ s.",
+    "de": "Frankreich · 16. Jh.",
+    "pt-BR": "França · séc. XVI",
+    "ca": "França · s. XVI",
+    "it": "Francia · XVI sec."
+   }
+  },
+  {
+   "id": "truco",
+   "hall": "cards",
+   "name": {
+    "es": "Truco",
+    "en": "Truco",
+    "fr": "Truco",
+    "de": "Truco",
+    "pt-BR": "Truco",
+    "ca": "Truco",
+    "it": "Truco"
+   },
+   "subtitle": {
+    "es": "El juego de las señas",
+    "en": "The game of signals",
+    "fr": "Le jeu des signes",
+    "de": "Das Spiel der Zeichen",
+    "pt-BR": "O jogo dos sinais",
+    "ca": "El joc dels senyals",
+    "it": "Il gioco dei segnali"
+   },
+   "origin": {
+    "es": "Río de la Plata · s. XVIII",
+    "en": "Río de la Plata · 18th c.",
+    "fr": "Río de la Plata · XVIIIᵉ s.",
+    "de": "Río de la Plata · 18. Jh.",
+    "pt-BR": "Río de la Plata · séc. XVIII",
+    "ca": "Riu de la Plata · s. XVIII",
+    "it": "Río de la Plata · XVIII sec."
+   }
+  }
+ ]
+}
