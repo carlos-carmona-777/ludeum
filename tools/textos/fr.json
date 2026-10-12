@@ -157,17 +157,17 @@
   "privacy": {
     "title": "Politique de confidentialité",
     "meta_title": "Confidentialité · Ludéum",
-    "description": "Politique de confidentialité de l’app Ludéum : quelles données restent sur votre appareil et ce qui passe par Game Center et l’App Store.",
-    "updated": "Dernière mise à jour : 11 octobre 2026",
-    "highlight": "<strong>L’essentiel :</strong> Ludéum ne collecte aucune donnée personnelle. Il n’y a ni comptes, ni serveurs propres, ni outils d’analyse, ni traceurs, ni publicité. Ce que l’app enregistre reste sur votre iPhone ou votre iPad ; ce qui passe par Game Center et l’App Store est géré par Apple.",
+    "description": "Politique de confidentialité de l’app Ludéum : quelles données l’app enregistre (sur votre appareil et dans votre iCloud) et ce qui passe par Game Center et l’App Store.",
+    "updated": "Dernière mise à jour : 12 octobre 2026",
+    "highlight": "<strong>L’essentiel :</strong> Ludéum ne collecte aucune donnée personnelle. Il n’y a ni comptes, ni serveurs propres, ni outils d’analyse, ni traceurs, ni publicité. Ce que l’app enregistre reste sur votre iPhone ou votre iPad et, si vous utilisez iCloud, votre progression est copiée sur votre propre compte iCloud ; ce qui passe par Game Center et l’App Store est géré par Apple.",
     "sections": [
       [
         "Qui est le responsable",
         "<p>Ludéum est une app de Carlos Carmona (Tzinitzcan). Pour toute question sur cette politique, écrivez-nous depuis la page d’{support}.</p><p>Si vous nous écrivez via le formulaire de contact, nous utilisons votre nom, votre e-mail et votre message uniquement pour vous répondre ; nous ne les partageons pas et ne les utilisons à aucune autre fin.</p>"
       ],
       [
-        "Données qui restent sur votre appareil",
-        "<ul><li>Vos parties sauvegardées, vos statistiques et l’historique des parties jouées, des défis, des sceaux, des lauriers des tournois et votre niveau en ligne.</li><li>Vos réglages : style du plateau, fond, apparence, son, musique, pions et dés.</li><li>Le nom et l’emblème de votre profil.</li></ul><p>Tout cela est enregistré uniquement sur votre appareil : rien n’est envoyé vers nos serveurs ni synchronisé avec iCloud. Vous pouvez effacer vos statistiques depuis votre profil (<em>Effacer les statistiques</em>), et si vous supprimez l’app, tout ce qu’elle avait enregistré est supprimé.</p>"
+        "Données enregistrées par l’app",
+        "<p>Sur votre appareil et dans votre iCloud :</p><ul><li>Votre progression : statistiques, historique des parties jouées, défis, sceaux, lauriers des tournois, succès obtenus, tutoriels terminés et votre niveau en ligne.</li><li>Le nom et l’emblème de votre profil.</li></ul><p>Uniquement sur votre appareil :</p><ul><li>Les parties en cours.</li><li>Vos réglages : style du plateau, fond, apparence, son, musique, pions et dés.</li></ul><p>Si vous êtes connecté à iCloud, votre progression est aussi enregistrée sur votre compte iCloud, dans l’espace propre à l’app, pour être la même sur tous vos appareils et ne pas se perdre si vous supprimez l’app ou changez d’iPhone. Cette copie est conservée par Apple avec votre compte ; nous n’y avons pas accès. Sans iCloud, tout reste uniquement sur votre appareil. Ludéum n’a pas de serveurs propres. Vous pouvez effacer vos statistiques depuis votre profil (<em>Effacer les statistiques</em>) : elles sont aussi effacées sur vos autres appareils et dans iCloud.</p>"
       ],
       [
         "Game Center",
@@ -191,7 +191,7 @@
       ],
       [
         "Vos droits",
-        "<p>Comme nous ne conservons aucune donnée vous concernant, nous n’avons rien à vous remettre, à corriger ou à supprimer : tout se trouve sur votre appareil et vous le contrôlez. Ce que Game Center conserve avec votre compte (succès et classements) est géré par Apple depuis votre compte Apple.</p>"
+        "<p>Comme nous ne conservons aucune donnée vous concernant, nous n’avons rien à vous remettre, à corriger ou à supprimer : ce que l’app enregistre se trouve sur votre appareil et sur votre compte iCloud, et vous le contrôlez. Ce que Game Center conserve avec votre compte (succès et classements) est géré par Apple depuis votre compte Apple.</p>"
       ],
       [
         "Modifications de cette politique",
@@ -232,7 +232,7 @@
       ],
       [
         "Mes statistiques passent-elles sur un autre appareil ?",
-        "Vos parties, statistiques et défis sont enregistrés uniquement sur l’appareil où vous jouez. En revanche, les succès et les classements Game Center vous suivent sur tout appareil utilisant votre compte."
+        "Oui, si vous êtes connecté à iCloud avec le même compte : vos statistiques, défis, sceaux, lauriers, succès, niveau en ligne, nom et emblème sont enregistrés dans votre iCloud et sont les mêmes sur tous vos appareils, même si vous supprimez l’app et la réinstallez. Ils peuvent mettre quelques secondes à arriver. Les parties en cours et les réglages restent sur chaque appareil. Les succès et les classements Game Center vous suivent aussi avec votre compte Game Center."
       ],
       [
         "Dois-je payer pour jouer ?",

@@ -157,17 +157,17 @@
   "privacy": {
     "title": "Privacy Policy",
     "meta_title": "Privacy · Ludéum",
-    "description": "Privacy policy for the Ludéum app: which data stays on your device and what passes through Game Center and the App Store.",
-    "updated": "Last updated: October 11, 2026",
-    "highlight": "<strong>The most important thing:</strong> Ludéum does not collect personal data. It has no accounts, no servers of its own, no analytics, no trackers and no advertising. What the app saves stays on your iPhone or iPad; what passes through Game Center and the App Store is managed by Apple.",
+    "description": "Privacy policy for the Ludéum app: which data the app saves (on your device and in your iCloud) and what passes through Game Center and the App Store.",
+    "updated": "Last updated: October 12, 2026",
+    "highlight": "<strong>The most important thing:</strong> Ludéum does not collect personal data. It has no accounts, no servers of its own, no analytics, no trackers and no advertising. What the app saves stays on your iPhone or iPad and, if you use iCloud, your progress is copied to your own iCloud account; what passes through Game Center and the App Store is managed by Apple.",
     "sections": [
       [
         "Who is responsible",
         "<p>Ludéum is an app by Carlos Carmona (Tzinitzcan). If you have any questions about this policy, write to us from the {support} page.</p><p>If you write to us through the contact form, we use your name, email and message only to reply to you; we don’t share them or use them for anything else.</p>"
       ],
       [
-        "Data that stays on your device",
-        "<ul><li>Your saved games, your statistics and the record of games played, challenges, stamps, tournament laurels and your online rank.</li><li>Your settings: board style, background, appearance, sound, music, pieces and dice.</li><li>Your profile name and emblem.</li></ul><p>All of this is stored only on your device: it is not uploaded to servers of ours or synced with iCloud. You can erase your statistics from your profile (<em>Erase Stats</em>), and if you delete the app, everything it saved is deleted.</p>"
+        "Data the app saves",
+        "<p>On your device and in your iCloud:</p><ul><li>Your progress: statistics, the record of games played, challenges, stamps, tournament laurels, achievements earned, tutorials completed and your online rank.</li><li>Your profile name and emblem.</li></ul><p>Only on your device:</p><ul><li>Games in progress.</li><li>Your settings: board style, background, appearance, sound, music, pieces and dice.</li></ul><p>If you are signed in to iCloud, your progress is also stored in your iCloud account, in the app’s own space, so it is the same on all your devices and is not lost if you delete the app or change iPhones. Apple keeps that copy with your account; we have no access to it. Without iCloud, everything stays only on your device. Ludéum has no servers of its own. You can erase your statistics from your profile (<em>Erase Stats</em>): they are also erased on your other devices and in iCloud.</p>"
       ],
       [
         "Game Center",
@@ -191,7 +191,7 @@
       ],
       [
         "Your rights",
-        "<p>Since we do not keep any data about you, we have nothing to give you, correct or delete: everything is on your device and you control it. What Game Center stores with your account (achievements and leaderboards) is managed by Apple from your Apple Account.</p>"
+        "<p>Since we do not keep any data about you, we have nothing to give you, correct or delete: what the app saves is on your device and in your iCloud account, and you control it. What Game Center stores with your account (achievements and leaderboards) is managed by Apple from your Apple Account.</p>"
       ],
       [
         "Changes to this policy",
@@ -232,7 +232,7 @@
       ],
       [
         "Do my statistics move to another device?",
-        "Your games, statistics and challenges are stored only on the device you play on. Game Center achievements and leaderboards do follow you to any device signed in with your account."
+        "Yes, if you are signed in to iCloud with the same account: your statistics, challenges, stamps, laurels, achievements, online rank, name and emblem are stored in your iCloud and are the same on all your devices, even if you delete the app and install it again. They may take a few seconds to arrive. Games in progress and settings stay on each device. Game Center achievements and leaderboards also follow you with your Game Center account."
       ],
       [
         "Do I have to pay to play?",
