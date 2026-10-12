@@ -32,10 +32,22 @@
     "hero_note": "Tot es juga gratis · Sense anuncis · Sense comptes",
     "hero_img_alt": "Pantalla d’inici de Ludéum: «Nou a la sala: Tavli», el teu rang i els botons per jugar en línia, amb amics o contra un personatge",
     "stats": [
-      ["13", "jocs jugables"],
-      ["39", "rivals de la seva època"],
-      ["4", "sales del museu"],
-      ["7", "idiomes"]
+      [
+        "13",
+        "jocs jugables"
+      ],
+      [
+        "39",
+        "rivals de la seva època"
+      ],
+      [
+        "4",
+        "sales del museu"
+      ],
+      [
+        "7",
+        "idiomes"
+      ]
     ],
     "halls_title": "Les sales del museu",
     "halls_lead": "Els jocs s’agrupen per època i lloc, com en un museu. Estan reconstruïts a partir de fonts antigues, troballes arqueològiques i tradició oral, i quan les fonts no coincideixen, tu tries la variant: Ur amb les regles d’Irving Finkel, Tablut de 9 × 9 o Hnefatafl d’11 × 11, Oware o Kalah, i més.",
@@ -47,9 +59,18 @@
     "rivals_img_alt": "Preparar una partida de Patolli: variant, rival i dificultat, amb els retrats de Tochtli, Itzel i Moctezuma",
     "modes_title": "Juga com vulguis",
     "modes": [
-      ["Un jugador", "Contra els personatges de l’època, de Fàcil a Difícil."],
-      ["Dos jugadors", "Al mateix iPhone o iPad, l’un davant de l’altre."],
-      ["En línia", "Amb Game Center: rival a l’atzar o convida els teus amics amb un enllaç o un codi. En directe o per torns, al teu ritme."]
+      [
+        "Un jugador",
+        "Contra els personatges de l’època, de Fàcil a Difícil."
+      ],
+      [
+        "Dos jugadors",
+        "Al mateix iPhone o iPad, l’un davant de l’altre."
+      ],
+      [
+        "En línia",
+        "Amb Game Center: rival a l’atzar o convida els teus amics amb un enllaç o un codi. En directe o per torns, al teu ritme."
+      ]
     ],
     "online_img_alt": "Fitxa del Joc Reial d’Ur amb el botó «Buscar rival» i l’opció En línia",
     "learn_title": "El que sabem i el que no",
@@ -58,20 +79,47 @@
     "learn_img2_alt": "Triar variant de Tavli: Partida de tavli, Portes, Plakoto o Fevga",
     "tournaments_title": "Reptes, tornejos i assoliments",
     "tournaments_items": [
-      ["Reptes", "El repte de la setmana i el repte del mes, amb segells per a la teva col·lecció de l’any."],
-      ["Tornejos setmanals", "La Lliga setmanal i el Joc de la setmana, amb classificacions de Game Center. Comencen el dilluns 2 de novembre de 2026."],
-      ["Assoliments", "35 assoliments de Game Center per recórrer les sales, jugar en línia i vèncer el rival més difícil de cada joc."]
+      [
+        "Reptes",
+        "El repte de la setmana i el repte del mes, amb segells per a la teva col·lecció de l’any."
+      ],
+      [
+        "Tornejos setmanals",
+        "La Lliga setmanal i el Joc de la setmana, amb classificacions de Game Center. Comencen el dilluns 2 de novembre de 2026."
+      ],
+      [
+        "Assoliments",
+        "35 assoliments de Game Center per recórrer les sales, jugar en línia i vèncer el rival més difícil de cada joc."
+      ]
     ],
     "tournaments_img_alt": "Pantalla de Tornejos: compte enrere, Lliga setmanal, Joc de la setmana i calendari",
     "achievements_img_alt": "Pantalla d’Assoliments en mode fosc, amb trofeus i estadístiques",
     "craft_title": "Fet amb cura",
     "craft_items": [
-      ["Taulers a escollir", "Il·lustrat o Realista, en fusta, pedra, terracota, estora de palma i mosaic de lapislàtzuli. Els Mecenes sumen els taulers «De museu»."],
-      ["Daus de veritat", "Daus en 3D que roden sobre la taula, els daus piramidals d’Ur i les mongetes del Patolli."],
-      ["Música i so", "Música i sons propis per a cada joc."],
-      ["Mode fosc", "Per jugar de nit, a totes les pantalles."],
-      ["Set idiomes", "Espanyol, anglès, francès, alemany, portuguès, català i italià."],
-      ["La teva partida t’espera", "Les partides es desen soles: continua on les vas deixar."]
+      [
+        "Taulers a escollir",
+        "Il·lustrat o Realista, en fusta, pedra, terracota, estora de palma i mosaic de lapislàtzuli. Els Mecenes sumen els taulers «De museu»."
+      ],
+      [
+        "Daus de veritat",
+        "Daus en 3D que roden sobre la taula, els daus piramidals d’Ur i les mongetes del Patolli."
+      ],
+      [
+        "Música i so",
+        "Música i sons propis per a cada joc."
+      ],
+      [
+        "Mode fosc",
+        "Per jugar de nit, a totes les pantalles."
+      ],
+      [
+        "Set idiomes",
+        "Espanyol, anglès, francès, alemany, portuguès, català i italià."
+      ],
+      [
+        "La teva partida t’espera",
+        "Les partides es desen soles: continua on les vas deixar."
+      ]
     ],
     "gallery_title": "Taulers de la col·lecció",
     "gallery_alts": {
@@ -113,15 +161,42 @@
     "updated": "Darrera actualització: 11 d’octubre de 2026",
     "highlight": "<strong>El més important:</strong> Ludéum no recopila dades personals. No té comptes, ni servidors propis, ni analítiques, ni rastrejadors, ni publicitat. El que desa l’app es queda a l’iPhone o l’iPad; el que passa per Game Center i l’App Store ho gestiona Apple.",
     "sections": [
-      ["Qui n’és el responsable", "<p>Ludéum és una app de Carlos Carmona (Tzinitzcan). Per a qualsevol dubte sobre aquesta política, escriu-nos des de la pàgina de {support}.</p>"],
-      ["Dades que es queden al teu dispositiu", "<ul><li>Les teves partides desades, les teves estadístiques i el registre de partides jugades, reptes, segells, llorers dels tornejos i el teu nivell en línia.</li><li>La teva configuració: estil del tauler, fons, aparença, so, música, fitxes i daus.</li><li>El nom i l’emblema del teu perfil.</li></ul><p>Tot això es desa només al teu dispositiu: no es puja a servidors nostres ni se sincronitza amb iCloud. Pots esborrar les teves estadístiques des del teu perfil (<em>Esborrar estadístiques</em>), i si esborres l’app s’esborra tot el que havia desat.</p>"],
-      ["Game Center", "<p>Game Center és un servei d’Apple i és opcional: sense ell pots jugar a tot, menys en línia. Si inicies sessió, l’app rep de Game Center el teu àlies i un identificador de jugador, i envia a Apple:</p><ul><li>el teu progrés en els assoliments;</li><li>els teus punts de cada setmana als tornejos. Les classificacions són públiques a Game Center: altres jugadors veuen el teu àlies, els teus punts i la teva posició.</li></ul><p>No rebem el teu correu, la teva foto ni cap altra dada del teu compte d’Apple. Game Center es regeix per la {apple_privacy}.</p>"],
-      ["Joc en línia", "<p>Les partides en línia, en directe o per torns, passen per Game Center. Al teu rival només se li envia el que cal per jugar: les jugades, la configuració de la partida, el teu nivell en línia, el teu emblema i si ets Mecenes (per mostrar el teu marc). El teu rival veu el teu àlies de Game Center. No hi ha xat ni missatges, i el nom del teu perfil no s’envia. Ludéum no desa les partides en línia fora de Game Center.</p>"],
-      ["Compres", "<p>Mecenes és una compra única dins de l’app. La processa Apple amb el teu compte de l’App Store: no rebem les teves dades de pagament. L’app només consulta a l’App Store si la compra està activa (també si t’arriba per En família o en restaurar compres).</p>"],
-      ["El que Ludéum no fa servir", "<p>No hi ha publicitat, ni identificador de publicitat, ni seguiment entre apps, ni analítiques, ni informes d’errors de tercers. L’app no demana accés a la teva ubicació, càmera, micròfon, fotos, contactes ni notificacions. Les fotos històriques vénen dins de l’app: no es descarrega res d’internet.</p>"],
-      ["Nens i nenes", "<p>Ludéum no recopila dades de ningú, tampoc de menors d’edat. Les funcions de Game Center es poden limitar amb Temps d’ús d’Apple.</p>"],
-      ["Els teus drets", "<p>Com que no desem dades teves, no tenim res a lliurar-te, corregir ni esborrar: tot és al teu dispositiu i ho controles tu. El que Game Center desa amb el teu compte (assoliments i classificacions) ho gestiona Apple des del teu compte d’Apple.</p>"],
-      ["Canvis en aquesta política", "<p>Si l’app canvia el que fa amb les teves dades, actualitzarem aquesta pàgina i la data de dalt abans de publicar el canvi.</p>"]
+      [
+        "Qui n’és el responsable",
+        "<p>Ludéum és una app de Carlos Carmona (Tzinitzcan). Per a qualsevol dubte sobre aquesta política, escriu-nos des de la pàgina de {support}.</p><p>Si ens escrius pel formulari de contacte, fem servir el teu nom, el teu correu i el teu missatge només per respondre’t; no els compartim ni els fem servir per a res més.</p>"
+      ],
+      [
+        "Dades que es queden al teu dispositiu",
+        "<ul><li>Les teves partides desades, les teves estadístiques i el registre de partides jugades, reptes, segells, llorers dels tornejos i el teu nivell en línia.</li><li>La teva configuració: estil del tauler, fons, aparença, so, música, fitxes i daus.</li><li>El nom i l’emblema del teu perfil.</li></ul><p>Tot això es desa només al teu dispositiu: no es puja a servidors nostres ni se sincronitza amb iCloud. Pots esborrar les teves estadístiques des del teu perfil (<em>Esborrar estadístiques</em>), i si esborres l’app s’esborra tot el que havia desat.</p>"
+      ],
+      [
+        "Game Center",
+        "<p>Game Center és un servei d’Apple i és opcional: sense ell pots jugar a tot, menys en línia. Si inicies sessió, l’app rep de Game Center el teu àlies i un identificador de jugador, i envia a Apple:</p><ul><li>el teu progrés en els assoliments;</li><li>els teus punts de cada setmana als tornejos. Les classificacions són públiques a Game Center: altres jugadors veuen el teu àlies, els teus punts i la teva posició.</li></ul><p>No rebem el teu correu, la teva foto ni cap altra dada del teu compte d’Apple. Game Center es regeix per la {apple_privacy}.</p>"
+      ],
+      [
+        "Joc en línia",
+        "<p>Les partides en línia, en directe o per torns, passen per Game Center. Al teu rival només se li envia el que cal per jugar: les jugades, la configuració de la partida, el teu nivell en línia, el teu emblema i si ets Mecenes (per mostrar el teu marc). El teu rival veu el teu àlies de Game Center. No hi ha xat ni missatges, i el nom del teu perfil no s’envia. Ludéum no desa les partides en línia fora de Game Center.</p>"
+      ],
+      [
+        "Compres",
+        "<p>Mecenes és una compra única dins de l’app. La processa Apple amb el teu compte de l’App Store: no rebem les teves dades de pagament. L’app només consulta a l’App Store si la compra està activa (també si t’arriba per En família o en restaurar compres).</p>"
+      ],
+      [
+        "El que Ludéum no fa servir",
+        "<p>No hi ha publicitat, ni identificador de publicitat, ni seguiment entre apps, ni analítiques, ni informes d’errors de tercers. L’app no demana accés a la teva ubicació, càmera, micròfon, fotos, contactes ni notificacions. Les fotos històriques vénen dins de l’app: no es descarrega res d’internet.</p>"
+      ],
+      [
+        "Nens i nenes",
+        "<p>Ludéum no recopila dades de ningú, tampoc de menors d’edat. Les funcions de Game Center es poden limitar amb Temps d’ús d’Apple.</p>"
+      ],
+      [
+        "Els teus drets",
+        "<p>Com que no desem dades teves, no tenim res a lliurar-te, corregir ni esborrar: tot és al teu dispositiu i ho controles tu. El que Game Center desa amb el teu compte (assoliments i classificacions) ho gestiona Apple des del teu compte d’Apple.</p>"
+      ],
+      [
+        "Canvis en aquesta política",
+        "<p>Si l’app canvia el que fa amb les teves dades, actualitzarem aquesta pàgina i la data de dalt abans de publicar el canvi.</p>"
+      ]
     ],
     "support_link": "suport",
     "apple_privacy_link": "política de privadesa d’Apple",
@@ -132,19 +207,49 @@
     "meta_title": "Suport · Ludéum",
     "description": "Ajuda de l’app Ludéum: joc en línia, tornejos, Mecenes, idiomes i contacte.",
     "lead": "Alguna cosa no funciona, has trobat un error a les regles o tens una idea? Ens encantarà llegir-te.",
-    "contact": "<strong>Escriu-nos:</strong> el formulari de contacte estarà disponible aquí molt aviat.",
+    "contact": "<strong>Escriu-nos:</strong> fes servir el <a href=\"https://tzinitzcan.com/ludeum/#avisame\">formulari de contacte de Ludéum</a> al web de Tzinitzcan (el formulari és en castellà, però pots escriure en català). Deixa’ns el teu nom, el teu correu i el teu missatge, i et respondrem.",
     "faq_title": "Preguntes freqüents",
     "faq": [
-      ["Com jugo en línia?", "El joc en línia fa servir Game Center. Obre <em>Configuració › Game Center</em> a l’iPhone o l’iPad i inicia sessió amb el teu compte d’Apple. Després, a l’app, toca <em>En línia</em> per a un rival a l’atzar o <em>Amb amics</em> per convidar amb un enllaç o un codi. Si ningú no apareix en uns segons, mentrestant pots jugar contra un dels personatges de l’app."],
-      ["Quina diferència hi ha entre «En directe» i «Per torns»?", "En directe, els dos jugueu al mateix temps. Per torns, cadascú mou quan pot i Game Center t’avisa quan et toca. Marro de tres, Conquián i Cribbage només es juguen en directe."],
-      ["Per què les regles no són iguals a les que conec?", "De molts jocs antics no se’n conserven les regles completes. Ludéum segueix les reconstruccions d’historiadors i arqueòlegs, i quan no hi ha acord et deixa triar una variant. A cada joc, el botó «i» explica el que sabem i el que no."],
-      ["Com aprenc un joc nou?", "A la fitxa de cada joc toca <em>Aprendre a jugar</em>: és un tutorial guiat, en dificultat Fàcil. Les targetes «i» tenen la història, una explicació animada i les regles completes."],
-      ["Quan comencen els tornejos setmanals?", "La Lliga setmanal i el Joc de la setmana comencen el dilluns 2 de novembre de 2026. Cada setmana va del dilluns a les 0:00 al diumenge a les 23:59, hora del centre de Mèxic. Per aparèixer a les classificacions necessites Game Center."],
-      ["Les meves estadístiques passen a un altre dispositiu?", "Les teves partides, estadístiques i reptes es desen només al dispositiu on jugues. Els assoliments i les classificacions de Game Center sí que et segueixen a qualsevol dispositiu amb el teu compte."],
-      ["He de pagar per jugar?", "No. Tots els jocs es juguen gratis i sense anuncis. Mecenes és una compra única i opcional per donar suport al museu: suma marcs, emblemes, fitxes, daus i taulers «De museu»."],
-      ["Ja sóc Mecenes, però no em surt en un altre dispositiu", "Obre la pantalla de Mecenes i toca <em>Restaurar compres</em> amb el mateix compte de l’App Store. Si la compra l’ha fet algú de la teva família, es comparteix amb En família."],
-      ["Com canvio l’idioma?", "Ludéum està en espanyol, anglès, francès, alemany, portuguès, català i italià, i fa servir l’idioma del teu dispositiu. Per canviar-lo només a l’app, obre <em>Configuració › Ludéum › Idioma</em>."],
-      ["Com canvio el tauler o activo el mode fosc?", "A la pestanya <em>Jocs</em>, toca el botó de la paleta, a dalt: allà tries l’estil del tauler, el fons i l’aparença (Sistema, Clar o Fosc). Al costat hi ha els botons per apagar els sons i la música."]
+      [
+        "Com jugo en línia?",
+        "El joc en línia fa servir Game Center. Obre <em>Configuració › Game Center</em> a l’iPhone o l’iPad i inicia sessió amb el teu compte d’Apple. Després, a l’app, toca <em>En línia</em> per a un rival a l’atzar o <em>Amb amics</em> per convidar amb un enllaç o un codi. Si ningú no apareix en uns segons, mentrestant pots jugar contra un dels personatges de l’app."
+      ],
+      [
+        "Quina diferència hi ha entre «En directe» i «Per torns»?",
+        "En directe, els dos jugueu al mateix temps. Per torns, cadascú mou quan pot i Game Center t’avisa quan et toca. Marro de tres, Conquián i Cribbage només es juguen en directe."
+      ],
+      [
+        "Per què les regles no són iguals a les que conec?",
+        "De molts jocs antics no se’n conserven les regles completes. Ludéum segueix les reconstruccions d’historiadors i arqueòlegs, i quan no hi ha acord et deixa triar una variant. A cada joc, el botó «i» explica el que sabem i el que no."
+      ],
+      [
+        "Com aprenc un joc nou?",
+        "A la fitxa de cada joc toca <em>Aprendre a jugar</em>: és un tutorial guiat, en dificultat Fàcil. Les targetes «i» tenen la història, una explicació animada i les regles completes."
+      ],
+      [
+        "Quan comencen els tornejos setmanals?",
+        "La Lliga setmanal i el Joc de la setmana comencen el dilluns 2 de novembre de 2026. Cada setmana va del dilluns a les 0:00 al diumenge a les 23:59, hora del centre de Mèxic. Per aparèixer a les classificacions necessites Game Center."
+      ],
+      [
+        "Les meves estadístiques passen a un altre dispositiu?",
+        "Les teves partides, estadístiques i reptes es desen només al dispositiu on jugues. Els assoliments i les classificacions de Game Center sí que et segueixen a qualsevol dispositiu amb el teu compte."
+      ],
+      [
+        "He de pagar per jugar?",
+        "No. Tots els jocs es juguen gratis i sense anuncis. Mecenes és una compra única i opcional per donar suport al museu: suma marcs, emblemes, fitxes, daus i taulers «De museu»."
+      ],
+      [
+        "Ja sóc Mecenes, però no em surt en un altre dispositiu",
+        "Obre la pantalla de Mecenes i toca <em>Restaurar compres</em> amb el mateix compte de l’App Store. Si la compra l’ha fet algú de la teva família, es comparteix amb En família."
+      ],
+      [
+        "Com canvio l’idioma?",
+        "Ludéum està en espanyol, anglès, francès, alemany, portuguès, català i italià, i fa servir l’idioma del teu dispositiu. Per canviar-lo només a l’app, obre <em>Configuració › Ludéum › Idioma</em>."
+      ],
+      [
+        "Com canvio el tauler o activo el mode fosc?",
+        "A la pestanya <em>Jocs</em>, toca el botó de la paleta, a dalt: allà tries l’estil del tauler, el fons i l’aparença (Sistema, Clar o Fosc). Al costat hi ha els botons per apagar els sons i la música."
+      ]
     ],
     "privacy_link": "Política de privadesa"
   }

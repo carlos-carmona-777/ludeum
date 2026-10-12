@@ -32,10 +32,22 @@
     "hero_note": "Alles kostenlos spielbar · Keine Werbung · Keine Konten",
     "hero_img_alt": "Startbildschirm von Ludéum: „Neu im Saal: Tavli“, dein Rang und die Tasten, um online, mit Freunden oder gegen einen Charakter zu spielen",
     "stats": [
-      ["13", "spielbare Spiele"],
-      ["39", "Gegner ihrer Zeit"],
-      ["4", "Säle des Museums"],
-      ["7", "Sprachen"]
+      [
+        "13",
+        "spielbare Spiele"
+      ],
+      [
+        "39",
+        "Gegner ihrer Zeit"
+      ],
+      [
+        "4",
+        "Säle des Museums"
+      ],
+      [
+        "7",
+        "Sprachen"
+      ]
     ],
     "halls_title": "Die Säle des Museums",
     "halls_lead": "Die Spiele sind wie in einem Museum nach Epoche und Ort geordnet. Sie wurden aus antiken Quellen, archäologischen Funden und mündlicher Überlieferung rekonstruiert, und wenn sich die Quellen widersprechen, wählst du die Variante: Ur mit den Regeln von Irving Finkel, Tablut auf 9 × 9 oder Hnefatafl auf 11 × 11, Oware oder Kalah und mehr.",
@@ -47,9 +59,18 @@
     "rivals_img_alt": "Eine Patolli-Partie vorbereiten: Variante, Gegner und Schwierigkeitsgrad, mit den Porträts von Tochtli, Itzel und Moctezuma",
     "modes_title": "Spiel, wie du willst",
     "modes": [
-      ["Ein Spieler", "Gegen die Charaktere der Epoche, von Leicht bis Schwer."],
-      ["Zwei Spieler", "Auf demselben iPhone oder iPad, einander gegenüber."],
-      ["Online", "Mit Game Center: ein zufälliger Gegner, oder lade deine Freunde mit einem Link oder einem Code ein. Live oder rundenbasiert, in deinem Tempo."]
+      [
+        "Ein Spieler",
+        "Gegen die Charaktere der Epoche, von Leicht bis Schwer."
+      ],
+      [
+        "Zwei Spieler",
+        "Auf demselben iPhone oder iPad, einander gegenüber."
+      ],
+      [
+        "Online",
+        "Mit Game Center: ein zufälliger Gegner, oder lade deine Freunde mit einem Link oder einem Code ein. Live oder rundenbasiert, in deinem Tempo."
+      ]
     ],
     "online_img_alt": "Infokarte des Königlichen Spiels von Ur mit der Taste „Gegner suchen“ und der Option Online",
     "learn_title": "Was wir wissen und was nicht",
@@ -58,20 +79,47 @@
     "learn_img2_alt": "Tavli-Variante wählen: Tavli-Partie, Portes, Plakoto oder Fevga",
     "tournaments_title": "Herausforderungen, Turniere und Erfolge",
     "tournaments_items": [
-      ["Herausforderungen", "Die Herausforderung der Woche und die Herausforderung des Monats, mit Siegeln für deine Jahressammlung."],
-      ["Wochenturniere", "Die Wochenliga und das Spiel der Woche, mit Game-Center-Ranglisten. Sie beginnen am Montag, 2. November 2026."],
-      ["Erfolge", "35 Game-Center-Erfolge für das Erkunden der Säle, Online-Partien und Siege über den stärksten Gegner jedes Spiels."]
+      [
+        "Herausforderungen",
+        "Die Herausforderung der Woche und die Herausforderung des Monats, mit Siegeln für deine Jahressammlung."
+      ],
+      [
+        "Wochenturniere",
+        "Die Wochenliga und das Spiel der Woche, mit Game-Center-Ranglisten. Sie beginnen am Montag, 2. November 2026."
+      ],
+      [
+        "Erfolge",
+        "35 Game-Center-Erfolge für das Erkunden der Säle, Online-Partien und Siege über den stärksten Gegner jedes Spiels."
+      ]
     ],
     "tournaments_img_alt": "Turnierbildschirm: Countdown, Wochenliga, Spiel der Woche und Kalender",
     "achievements_img_alt": "Erfolgebildschirm im Dunkelmodus, mit Trophäen und Statistiken",
     "craft_title": "Mit Sorgfalt gemacht",
     "craft_items": [
-      ["Bretter zur Wahl", "Illustriert oder Realistisch, mit Holz, Stein, Terrakotta, Palmmatte und Lapislazuli-Mosaik. Mäzene erhalten zusätzlich die Bretter im Stil „Museum“."],
-      ["Echte Würfel", "3D-Würfel, die über den Tisch rollen, die pyramidenförmigen Würfel von Ur und die Bohnen des Patolli."],
-      ["Musik und Klang", "Eigene Musik und eigene Klänge für jedes Spiel."],
-      ["Dunkelmodus", "Zum Spielen am Abend, auf allen Bildschirmen."],
-      ["Sieben Sprachen", "Spanisch, Englisch, Französisch, Deutsch, Portugiesisch, Katalanisch und Italienisch."],
-      ["Deine Partie wartet", "Partien werden automatisch gesichert: Mach dort weiter, wo du aufgehört hast."]
+      [
+        "Bretter zur Wahl",
+        "Illustriert oder Realistisch, mit Holz, Stein, Terrakotta, Palmmatte und Lapislazuli-Mosaik. Mäzene erhalten zusätzlich die Bretter im Stil „Museum“."
+      ],
+      [
+        "Echte Würfel",
+        "3D-Würfel, die über den Tisch rollen, die pyramidenförmigen Würfel von Ur und die Bohnen des Patolli."
+      ],
+      [
+        "Musik und Klang",
+        "Eigene Musik und eigene Klänge für jedes Spiel."
+      ],
+      [
+        "Dunkelmodus",
+        "Zum Spielen am Abend, auf allen Bildschirmen."
+      ],
+      [
+        "Sieben Sprachen",
+        "Spanisch, Englisch, Französisch, Deutsch, Portugiesisch, Katalanisch und Italienisch."
+      ],
+      [
+        "Deine Partie wartet",
+        "Partien werden automatisch gesichert: Mach dort weiter, wo du aufgehört hast."
+      ]
     ],
     "gallery_title": "Bretter der Sammlung",
     "gallery_alts": {
@@ -113,15 +161,42 @@
     "updated": "Letzte Aktualisierung: 11. Oktober 2026",
     "highlight": "<strong>Das Wichtigste:</strong> Ludéum erhebt keine personenbezogenen Daten. Es gibt keine Konten, keine eigenen Server, keine Analysen, keine Tracker und keine Werbung. Was die App speichert, bleibt auf deinem iPhone oder iPad; was über Game Center und den App Store läuft, verwaltet Apple.",
     "sections": [
-      ["Wer verantwortlich ist", "<p>Ludéum ist eine App von Carlos Carmona (Tzinitzcan). Bei Fragen zu dieser Erklärung schreib uns über die {support}-Seite.</p>"],
-      ["Daten, die auf deinem Gerät bleiben", "<ul><li>Deine gespeicherten Partien, deine Statistiken und das Protokoll der gespielten Partien, Herausforderungen, Siegel, Turnier-Lorbeeren und dein Online-Level.</li><li>Deine Einstellungen: Brettstil, Hintergrund, Darstellung, Ton, Musik, Steine und Würfel.</li><li>Der Name und das Emblem deines Profils.</li></ul><p>All das wird nur auf deinem Gerät gespeichert: Es wird weder auf unsere Server hochgeladen noch mit iCloud synchronisiert. Du kannst deine Statistiken in deinem Profil löschen (<em>Statistik löschen</em>), und wenn du die App löschst, wird alles gelöscht, was sie gespeichert hat.</p>"],
-      ["Game Center", "<p>Game Center ist ein Dienst von Apple und optional: Ohne ihn kannst du alles spielen, nur nicht online. Wenn du dich anmeldest, erhält die App von Game Center deinen Spitznamen und eine Spieler-ID und sendet an Apple:</p><ul><li>deinen Fortschritt bei den Erfolgen;</li><li>deine Punkte jeder Woche in den Turnieren. Die Ranglisten sind in Game Center öffentlich: Andere Spieler sehen deinen Spitznamen, deine Punkte und deine Platzierung.</li></ul><p>Wir erhalten weder deine E-Mail-Adresse noch dein Foto noch sonstige Daten deines Apple Accounts. Für Game Center gilt die {apple_privacy}.</p>"],
-      ["Online-Spiel", "<p>Online-Partien, ob live oder rundenbasiert, laufen über Game Center. An deinen Gegner wird nur gesendet, was zum Spielen nötig ist: die Züge, die Einstellungen der Partie, dein Online-Level, dein Emblem und ob du Mäzen bist (um deinen Rahmen anzuzeigen). Dein Gegner sieht deinen Game-Center-Spitznamen. Es gibt keinen Chat und keine Nachrichten, und der Name deines Profils wird nicht gesendet. Ludéum speichert Online-Partien nicht außerhalb von Game Center.</p>"],
-      ["Käufe", "<p>Mäzen ist ein einmaliger Kauf in der App. Er wird von Apple mit deinem App-Store-Account abgewickelt: Wir erhalten deine Zahlungsdaten nicht. Die App fragt beim App Store nur ab, ob der Kauf aktiv ist (auch wenn er dich über die Familienfreigabe erreicht oder wenn du Käufe wiederherstellst).</p>"],
-      ["Was Ludéum nicht verwendet", "<p>Es gibt keine Werbung, keine Werbe-ID, kein App-übergreifendes Tracking, keine Analysen und keine Absturzberichte von Drittanbietern. Die App bittet nicht um Zugriff auf deinen Standort, deine Kamera, dein Mikrofon, deine Fotos, deine Kontakte oder Mitteilungen. Die historischen Fotos sind in der App enthalten: Es wird nichts aus dem Internet geladen.</p>"],
-      ["Kinder", "<p>Ludéum erhebt von niemandem Daten, auch nicht von Minderjährigen. Die Funktionen von Game Center lassen sich mit der Bildschirmzeit von Apple einschränken.</p>"],
-      ["Deine Rechte", "<p>Da wir keine Daten von dir speichern, haben wir nichts, was wir dir herausgeben, berichtigen oder löschen könnten: Alles liegt auf deinem Gerät, und du kontrollierst es. Was Game Center mit deinem Account speichert (Erfolge und Ranglisten), verwaltet Apple über deinen Apple Account.</p>"],
-      ["Änderungen dieser Erklärung", "<p>Wenn die App ändert, was sie mit deinen Daten macht, aktualisieren wir diese Seite und das obige Datum, bevor wir die Änderung veröffentlichen.</p>"]
+      [
+        "Wer verantwortlich ist",
+        "<p>Ludéum ist eine App von Carlos Carmona (Tzinitzcan). Bei Fragen zu dieser Erklärung schreib uns über die {support}-Seite.</p><p>Wenn du uns über das Kontaktformular schreibst, verwenden wir deinen Namen, deine E-Mail-Adresse und deine Nachricht nur, um dir zu antworten; wir geben sie nicht weiter und nutzen sie für nichts anderes.</p>"
+      ],
+      [
+        "Daten, die auf deinem Gerät bleiben",
+        "<ul><li>Deine gespeicherten Partien, deine Statistiken und das Protokoll der gespielten Partien, Herausforderungen, Siegel, Turnier-Lorbeeren und dein Online-Level.</li><li>Deine Einstellungen: Brettstil, Hintergrund, Darstellung, Ton, Musik, Steine und Würfel.</li><li>Der Name und das Emblem deines Profils.</li></ul><p>All das wird nur auf deinem Gerät gespeichert: Es wird weder auf unsere Server hochgeladen noch mit iCloud synchronisiert. Du kannst deine Statistiken in deinem Profil löschen (<em>Statistik löschen</em>), und wenn du die App löschst, wird alles gelöscht, was sie gespeichert hat.</p>"
+      ],
+      [
+        "Game Center",
+        "<p>Game Center ist ein Dienst von Apple und optional: Ohne ihn kannst du alles spielen, nur nicht online. Wenn du dich anmeldest, erhält die App von Game Center deinen Spitznamen und eine Spieler-ID und sendet an Apple:</p><ul><li>deinen Fortschritt bei den Erfolgen;</li><li>deine Punkte jeder Woche in den Turnieren. Die Ranglisten sind in Game Center öffentlich: Andere Spieler sehen deinen Spitznamen, deine Punkte und deine Platzierung.</li></ul><p>Wir erhalten weder deine E-Mail-Adresse noch dein Foto noch sonstige Daten deines Apple Accounts. Für Game Center gilt die {apple_privacy}.</p>"
+      ],
+      [
+        "Online-Spiel",
+        "<p>Online-Partien, ob live oder rundenbasiert, laufen über Game Center. An deinen Gegner wird nur gesendet, was zum Spielen nötig ist: die Züge, die Einstellungen der Partie, dein Online-Level, dein Emblem und ob du Mäzen bist (um deinen Rahmen anzuzeigen). Dein Gegner sieht deinen Game-Center-Spitznamen. Es gibt keinen Chat und keine Nachrichten, und der Name deines Profils wird nicht gesendet. Ludéum speichert Online-Partien nicht außerhalb von Game Center.</p>"
+      ],
+      [
+        "Käufe",
+        "<p>Mäzen ist ein einmaliger Kauf in der App. Er wird von Apple mit deinem App-Store-Account abgewickelt: Wir erhalten deine Zahlungsdaten nicht. Die App fragt beim App Store nur ab, ob der Kauf aktiv ist (auch wenn er dich über die Familienfreigabe erreicht oder wenn du Käufe wiederherstellst).</p>"
+      ],
+      [
+        "Was Ludéum nicht verwendet",
+        "<p>Es gibt keine Werbung, keine Werbe-ID, kein App-übergreifendes Tracking, keine Analysen und keine Absturzberichte von Drittanbietern. Die App bittet nicht um Zugriff auf deinen Standort, deine Kamera, dein Mikrofon, deine Fotos, deine Kontakte oder Mitteilungen. Die historischen Fotos sind in der App enthalten: Es wird nichts aus dem Internet geladen.</p>"
+      ],
+      [
+        "Kinder",
+        "<p>Ludéum erhebt von niemandem Daten, auch nicht von Minderjährigen. Die Funktionen von Game Center lassen sich mit der Bildschirmzeit von Apple einschränken.</p>"
+      ],
+      [
+        "Deine Rechte",
+        "<p>Da wir keine Daten von dir speichern, haben wir nichts, was wir dir herausgeben, berichtigen oder löschen könnten: Alles liegt auf deinem Gerät, und du kontrollierst es. Was Game Center mit deinem Account speichert (Erfolge und Ranglisten), verwaltet Apple über deinen Apple Account.</p>"
+      ],
+      [
+        "Änderungen dieser Erklärung",
+        "<p>Wenn die App ändert, was sie mit deinen Daten macht, aktualisieren wir diese Seite und das obige Datum, bevor wir die Änderung veröffentlichen.</p>"
+      ]
     ],
     "support_link": "Support",
     "apple_privacy_link": "Datenschutzerklärung von Apple",
@@ -132,19 +207,49 @@
     "meta_title": "Support · Ludéum",
     "description": "Hilfe zur App Ludéum: Online-Spiel, Turniere, Mäzen, Sprachen und Kontakt.",
     "lead": "Funktioniert etwas nicht, hast du einen Fehler in den Regeln gefunden oder hast du eine Idee? Wir freuen uns, von dir zu hören.",
-    "contact": "<strong>Schreib uns:</strong> Das Kontaktformular wird hier sehr bald verfügbar sein.",
+    "contact": "<strong>Schreib uns:</strong> Nutze das <a href=\"https://tzinitzcan.com/ludeum/#avisame\">Kontaktformular von Ludéum</a> auf der Website von Tzinitzcan (das Formular ist auf Spanisch, du kannst aber auf Deutsch oder Englisch schreiben). Hinterlass deinen Namen, deine E-Mail-Adresse und deine Nachricht, und wir antworten dir.",
     "faq_title": "Häufige Fragen",
     "faq": [
-      ["Wie spiele ich online?", "Das Online-Spiel nutzt Game Center. Öffne <em>Einstellungen › Game Center</em> auf deinem iPhone oder iPad und melde dich mit deinem Apple Account an. Tippe dann in der App auf <em>Online</em> für einen zufälligen Gegner oder auf <em>Mit Freunden</em>, um mit einem Link oder einem Code einzuladen. Wenn nach ein paar Sekunden niemand erscheint, kannst du in der Zwischenzeit gegen einen der Charaktere der App spielen."],
-      ["Was ist der Unterschied zwischen „Live“ und „Rundenbasiert“?", "Live spielen beide gleichzeitig. Rundenbasiert zieht jeder, wenn er Zeit hat, und Game Center benachrichtigt dich, wenn du an der Reihe bist. Kleine Mühle, Conquián und Cribbage werden nur live gespielt."],
-      ["Warum sind die Regeln anders als die, die ich kenne?", "Von vielen alten Spielen sind die vollständigen Regeln nicht überliefert. Ludéum folgt den Rekonstruktionen von Historikern und Archäologen, und wenn es keine Einigkeit gibt, lässt es dich eine Variante wählen. In jedem Spiel erklärt die Taste „i“, was wir wissen und was nicht."],
-      ["Wie lerne ich ein neues Spiel?", "Tippe auf der Infokarte jedes Spiels auf <em>Spielen lernen</em>: Das ist eine geführte Einführung im Schwierigkeitsgrad Leicht. Die „i“-Karten enthalten die Geschichte, eine animierte Erklärung und die vollständigen Regeln."],
-      ["Wann beginnen die Wochenturniere?", "Die Wochenliga und das Spiel der Woche beginnen am Montag, 2. November 2026. Jede Woche läuft von Montag, 0:00 Uhr, bis Sonntag, 23:59 Uhr, nach der Zeit in Mexiko-Stadt (Central Time). Um in den Ranglisten zu erscheinen, brauchst du Game Center."],
-      ["Wandern meine Statistiken auf ein anderes Gerät?", "Deine Partien, Statistiken und Herausforderungen werden nur auf dem Gerät gespeichert, auf dem du spielst. Die Erfolge und Ranglisten von Game Center folgen dir dagegen auf jedes Gerät mit deinem Account."],
-      ["Muss ich zahlen, um zu spielen?", "Nein. Alle Spiele sind kostenlos und ohne Werbung spielbar. Mäzen ist ein einmaliger, optionaler Kauf, um das Museum zu unterstützen: Er bringt Rahmen, Embleme, Steine, Würfel und Bretter im Stil „Museum“."],
-      ["Ich bin schon Mäzen, aber auf einem anderen Gerät wird es nicht angezeigt", "Öffne den Mäzen-Bildschirm und tippe mit demselben App-Store-Account auf <em>Käufe wiederherstellen</em>. Wenn jemand aus deiner Familie den Kauf getätigt hat, wird er über die Familienfreigabe geteilt."],
-      ["Wie ändere ich die Sprache?", "Ludéum gibt es auf Spanisch, Englisch, Französisch, Deutsch, Portugiesisch, Katalanisch und Italienisch und verwendet die Sprache deines Geräts. Um sie nur für die App zu ändern, öffne <em>Einstellungen › Ludéum › Sprache</em>."],
-      ["Wie ändere ich das Brett oder aktiviere den Dunkelmodus?", "Tippe im Tab <em>Spiele</em> oben auf die Palettentaste: Dort wählst du den Brettstil, den Hintergrund und die Darstellung (System, Hell oder Dunkel). Daneben befinden sich die Tasten, um Töne und Musik auszuschalten."]
+      [
+        "Wie spiele ich online?",
+        "Das Online-Spiel nutzt Game Center. Öffne <em>Einstellungen › Game Center</em> auf deinem iPhone oder iPad und melde dich mit deinem Apple Account an. Tippe dann in der App auf <em>Online</em> für einen zufälligen Gegner oder auf <em>Mit Freunden</em>, um mit einem Link oder einem Code einzuladen. Wenn nach ein paar Sekunden niemand erscheint, kannst du in der Zwischenzeit gegen einen der Charaktere der App spielen."
+      ],
+      [
+        "Was ist der Unterschied zwischen „Live“ und „Rundenbasiert“?",
+        "Live spielen beide gleichzeitig. Rundenbasiert zieht jeder, wenn er Zeit hat, und Game Center benachrichtigt dich, wenn du an der Reihe bist. Kleine Mühle, Conquián und Cribbage werden nur live gespielt."
+      ],
+      [
+        "Warum sind die Regeln anders als die, die ich kenne?",
+        "Von vielen alten Spielen sind die vollständigen Regeln nicht überliefert. Ludéum folgt den Rekonstruktionen von Historikern und Archäologen, und wenn es keine Einigkeit gibt, lässt es dich eine Variante wählen. In jedem Spiel erklärt die Taste „i“, was wir wissen und was nicht."
+      ],
+      [
+        "Wie lerne ich ein neues Spiel?",
+        "Tippe auf der Infokarte jedes Spiels auf <em>Spielen lernen</em>: Das ist eine geführte Einführung im Schwierigkeitsgrad Leicht. Die „i“-Karten enthalten die Geschichte, eine animierte Erklärung und die vollständigen Regeln."
+      ],
+      [
+        "Wann beginnen die Wochenturniere?",
+        "Die Wochenliga und das Spiel der Woche beginnen am Montag, 2. November 2026. Jede Woche läuft von Montag, 0:00 Uhr, bis Sonntag, 23:59 Uhr, nach der Zeit in Mexiko-Stadt (Central Time). Um in den Ranglisten zu erscheinen, brauchst du Game Center."
+      ],
+      [
+        "Wandern meine Statistiken auf ein anderes Gerät?",
+        "Deine Partien, Statistiken und Herausforderungen werden nur auf dem Gerät gespeichert, auf dem du spielst. Die Erfolge und Ranglisten von Game Center folgen dir dagegen auf jedes Gerät mit deinem Account."
+      ],
+      [
+        "Muss ich zahlen, um zu spielen?",
+        "Nein. Alle Spiele sind kostenlos und ohne Werbung spielbar. Mäzen ist ein einmaliger, optionaler Kauf, um das Museum zu unterstützen: Er bringt Rahmen, Embleme, Steine, Würfel und Bretter im Stil „Museum“."
+      ],
+      [
+        "Ich bin schon Mäzen, aber auf einem anderen Gerät wird es nicht angezeigt",
+        "Öffne den Mäzen-Bildschirm und tippe mit demselben App-Store-Account auf <em>Käufe wiederherstellen</em>. Wenn jemand aus deiner Familie den Kauf getätigt hat, wird er über die Familienfreigabe geteilt."
+      ],
+      [
+        "Wie ändere ich die Sprache?",
+        "Ludéum gibt es auf Spanisch, Englisch, Französisch, Deutsch, Portugiesisch, Katalanisch und Italienisch und verwendet die Sprache deines Geräts. Um sie nur für die App zu ändern, öffne <em>Einstellungen › Ludéum › Sprache</em>."
+      ],
+      [
+        "Wie ändere ich das Brett oder aktiviere den Dunkelmodus?",
+        "Tippe im Tab <em>Spiele</em> oben auf die Palettentaste: Dort wählst du den Brettstil, den Hintergrund und die Darstellung (System, Hell oder Dunkel). Daneben befinden sich die Tasten, um Töne und Musik auszuschalten."
+      ]
     ],
     "privacy_link": "Datenschutzerklärung"
   }

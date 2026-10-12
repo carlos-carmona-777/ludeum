@@ -396,7 +396,7 @@ def build_support(code):
            f'''<main id="contenido" class="texto">
 <h1>{esc(s["title"])}</h1>
 <p class="fecha">{esc(s["lead"])}</p>
-<!-- CONTACTO: cambiar «contact» en tools/textos/*.json por el enlace al formulario de Google cuando exista. -->
+<!-- CONTACTO: «support.contact» en tools/textos/*.json (formulario de la página de Ludéum en tzinitzcan.com). -->
 <div class="destacado"><p>{s["contact"]}</p></div>
 <h2>{esc(s["faq_title"])}</h2>
 {faq}

@@ -32,10 +32,22 @@
     "hero_note": "Everything is free to play · No ads · No accounts",
     "hero_img_alt": "Ludéum's home screen: “New in the Hall: Tavli,” your rank, and the buttons to play online, with friends or against a character",
     "stats": [
-      ["13", "playable games"],
-      ["39", "rivals from their era"],
-      ["4", "museum halls"],
-      ["7", "languages"]
+      [
+        "13",
+        "playable games"
+      ],
+      [
+        "39",
+        "rivals from their era"
+      ],
+      [
+        "4",
+        "museum halls"
+      ],
+      [
+        "7",
+        "languages"
+      ]
     ],
     "halls_title": "The museum halls",
     "halls_lead": "The games are grouped by era and place, as in a museum. They are rebuilt from ancient sources, archaeological finds and oral tradition, and when the sources disagree you choose the variant: Ur with Irving Finkel's rules, 9 × 9 Tablut or 11 × 11 Hnefatafl, Oware or Kalah, and more.",
@@ -47,9 +59,18 @@
     "rivals_img_alt": "Setting up a game of Patolli: variant, rival and difficulty, with portraits of Tochtli, Itzel and Moctezuma",
     "modes_title": "Play your way",
     "modes": [
-      ["Single player", "Against characters from the era, from Easy to Hard."],
-      ["Two players", "On the same iPhone or iPad, face to face."],
-      ["Online", "With Game Center: a random rival, or invite your friends with a link or a code. Live or turn-based, at your own pace."]
+      [
+        "Single player",
+        "Against characters from the era, from Easy to Hard."
+      ],
+      [
+        "Two players",
+        "On the same iPhone or iPad, face to face."
+      ],
+      [
+        "Online",
+        "With Game Center: a random rival, or invite your friends with a link or a code. Live or turn-based, at your own pace."
+      ]
     ],
     "online_img_alt": "Royal Game of Ur card with the “Find a Rival” button and the Online option",
     "learn_title": "What we know and what we don't",
@@ -58,20 +79,47 @@
     "learn_img2_alt": "Choosing a Tavli variant: Tavli match, Portes, Plakoto or Fevga",
     "tournaments_title": "Challenges, tournaments and achievements",
     "tournaments_items": [
-      ["Challenges", "The Weekly Challenge and the Monthly Challenge, with stamps for your yearly collection."],
-      ["Weekly tournaments", "The Weekly League and the Game of the Week, with Game Center leaderboards. They start on Monday, November 2, 2026."],
-      ["Achievements", "35 Game Center achievements for exploring the halls, playing online and beating the toughest rival in every game."]
+      [
+        "Challenges",
+        "The Weekly Challenge and the Monthly Challenge, with stamps for your yearly collection."
+      ],
+      [
+        "Weekly tournaments",
+        "The Weekly League and the Game of the Week, with Game Center leaderboards. They start on Monday, November 2, 2026."
+      ],
+      [
+        "Achievements",
+        "35 Game Center achievements for exploring the halls, playing online and beating the toughest rival in every game."
+      ]
     ],
     "tournaments_img_alt": "Tournaments screen: countdown, Weekly League, Game of the Week and calendar",
     "achievements_img_alt": "Achievements screen in dark mode, with trophies and statistics",
     "craft_title": "Made with care",
     "craft_items": [
-      ["Boards to choose from", "Illustrated or Realistic, in wood, stone, terracotta, woven palm and lapis lazuli mosaic. Patrons add the “Museum” boards."],
-      ["Real dice", "3D dice that roll across the table, the pyramid dice of Ur and the beans of Patolli."],
-      ["Music and sound", "Original music and sounds for every game."],
-      ["Dark mode", "For playing at night, on every screen."],
-      ["Seven languages", "Spanish, English, French, German, Portuguese, Catalan and Italian."],
-      ["Your game waits for you", "Games save automatically: pick up right where you left off."]
+      [
+        "Boards to choose from",
+        "Illustrated or Realistic, in wood, stone, terracotta, woven palm and lapis lazuli mosaic. Patrons add the “Museum” boards."
+      ],
+      [
+        "Real dice",
+        "3D dice that roll across the table, the pyramid dice of Ur and the beans of Patolli."
+      ],
+      [
+        "Music and sound",
+        "Original music and sounds for every game."
+      ],
+      [
+        "Dark mode",
+        "For playing at night, on every screen."
+      ],
+      [
+        "Seven languages",
+        "Spanish, English, French, German, Portuguese, Catalan and Italian."
+      ],
+      [
+        "Your game waits for you",
+        "Games save automatically: pick up right where you left off."
+      ]
     ],
     "gallery_title": "Boards from the collection",
     "gallery_alts": {
@@ -113,15 +161,42 @@
     "updated": "Last updated: October 11, 2026",
     "highlight": "<strong>The most important thing:</strong> Ludéum does not collect personal data. It has no accounts, no servers of its own, no analytics, no trackers and no advertising. What the app saves stays on your iPhone or iPad; what passes through Game Center and the App Store is managed by Apple.",
     "sections": [
-      ["Who is responsible", "<p>Ludéum is an app by Carlos Carmona (Tzinitzcan). If you have any questions about this policy, write to us from the {support} page.</p>"],
-      ["Data that stays on your device", "<ul><li>Your saved games, your statistics and the record of games played, challenges, stamps, tournament laurels and your online rank.</li><li>Your settings: board style, background, appearance, sound, music, pieces and dice.</li><li>Your profile name and emblem.</li></ul><p>All of this is stored only on your device: it is not uploaded to servers of ours or synced with iCloud. You can erase your statistics from your profile (<em>Erase Stats</em>), and if you delete the app, everything it saved is deleted.</p>"],
-      ["Game Center", "<p>Game Center is an Apple service and is optional: without it you can play everything except online. If you sign in, the app receives your nickname and a player identifier from Game Center, and sends Apple:</p><ul><li>your progress on achievements;</li><li>your points for each week in the tournaments. The leaderboards are public on Game Center: other players see your nickname, your points and your position.</li></ul><p>We do not receive your email, your photo or any other data from your Apple Account. Game Center is governed by {apple_privacy}.</p>"],
-      ["Online play", "<p>Online games, live or turn-based, go through Game Center. Only what is needed to play is sent to your rival: the moves, the game settings, your online rank, your emblem and whether you are a Patron (to show your frame). Your rival sees your Game Center nickname. There is no chat or messaging, and your profile name is not sent. Ludéum does not keep online games outside Game Center.</p>"],
-      ["Purchases", "<p>Patron is a one-time in-app purchase. It is processed by Apple with your App Store account: we do not receive your payment details. The app only asks the App Store whether the purchase is active (also if it reaches you through Family Sharing or when you restore purchases).</p>"],
-      ["What Ludéum does not use", "<p>There is no advertising, no advertising identifier, no cross-app tracking, no analytics and no third-party crash reports. The app does not ask for access to your location, camera, microphone, photos, contacts or notifications. The historical photos come inside the app: nothing is downloaded from the internet.</p>"],
-      ["Children", "<p>Ludéum does not collect data from anyone, including minors. Game Center features can be restricted with Apple's Screen Time.</p>"],
-      ["Your rights", "<p>Since we do not keep any data about you, we have nothing to give you, correct or delete: everything is on your device and you control it. What Game Center stores with your account (achievements and leaderboards) is managed by Apple from your Apple Account.</p>"],
-      ["Changes to this policy", "<p>If the app changes what it does with your data, we will update this page and the date above before releasing the change.</p>"]
+      [
+        "Who is responsible",
+        "<p>Ludéum is an app by Carlos Carmona (Tzinitzcan). If you have any questions about this policy, write to us from the {support} page.</p><p>If you write to us through the contact form, we use your name, email and message only to reply to you; we don’t share them or use them for anything else.</p>"
+      ],
+      [
+        "Data that stays on your device",
+        "<ul><li>Your saved games, your statistics and the record of games played, challenges, stamps, tournament laurels and your online rank.</li><li>Your settings: board style, background, appearance, sound, music, pieces and dice.</li><li>Your profile name and emblem.</li></ul><p>All of this is stored only on your device: it is not uploaded to servers of ours or synced with iCloud. You can erase your statistics from your profile (<em>Erase Stats</em>), and if you delete the app, everything it saved is deleted.</p>"
+      ],
+      [
+        "Game Center",
+        "<p>Game Center is an Apple service and is optional: without it you can play everything except online. If you sign in, the app receives your nickname and a player identifier from Game Center, and sends Apple:</p><ul><li>your progress on achievements;</li><li>your points for each week in the tournaments. The leaderboards are public on Game Center: other players see your nickname, your points and your position.</li></ul><p>We do not receive your email, your photo or any other data from your Apple Account. Game Center is governed by {apple_privacy}.</p>"
+      ],
+      [
+        "Online play",
+        "<p>Online games, live or turn-based, go through Game Center. Only what is needed to play is sent to your rival: the moves, the game settings, your online rank, your emblem and whether you are a Patron (to show your frame). Your rival sees your Game Center nickname. There is no chat or messaging, and your profile name is not sent. Ludéum does not keep online games outside Game Center.</p>"
+      ],
+      [
+        "Purchases",
+        "<p>Patron is a one-time in-app purchase. It is processed by Apple with your App Store account: we do not receive your payment details. The app only asks the App Store whether the purchase is active (also if it reaches you through Family Sharing or when you restore purchases).</p>"
+      ],
+      [
+        "What Ludéum does not use",
+        "<p>There is no advertising, no advertising identifier, no cross-app tracking, no analytics and no third-party crash reports. The app does not ask for access to your location, camera, microphone, photos, contacts or notifications. The historical photos come inside the app: nothing is downloaded from the internet.</p>"
+      ],
+      [
+        "Children",
+        "<p>Ludéum does not collect data from anyone, including minors. Game Center features can be restricted with Apple's Screen Time.</p>"
+      ],
+      [
+        "Your rights",
+        "<p>Since we do not keep any data about you, we have nothing to give you, correct or delete: everything is on your device and you control it. What Game Center stores with your account (achievements and leaderboards) is managed by Apple from your Apple Account.</p>"
+      ],
+      [
+        "Changes to this policy",
+        "<p>If the app changes what it does with your data, we will update this page and the date above before releasing the change.</p>"
+      ]
     ],
     "support_link": "support",
     "apple_privacy_link": "Apple's Privacy Policy",
@@ -132,19 +207,49 @@
     "meta_title": "Support · Ludéum",
     "description": "Help for the Ludéum app: online play, tournaments, Patron, languages and contact.",
     "lead": "Something not working, found a mistake in the rules, or have an idea? We'd love to hear from you.",
-    "contact": "<strong>Write to us:</strong> the contact form will be available here very soon.",
+    "contact": "<strong>Write to us:</strong> use the <a href=\"https://tzinitzcan.com/ludeum/#avisame\">Ludéum contact form</a> on the Tzinitzcan website (the form is in Spanish, but you can write in English). Leave your name, email and message, and we’ll get back to you.",
     "faq_title": "Frequently asked questions",
     "faq": [
-      ["How do I play online?", "Online play uses Game Center. Open <em>Settings › Game Center</em> on your iPhone or iPad and sign in with your Apple Account. Then, in the app, tap <em>Online</em> for a random rival or <em>With Friends</em> to invite with a link or a code. If nobody shows up within a few seconds, you can play one of the app's characters in the meantime."],
-      ["What is the difference between “Live” and “Turn-Based”?", "In Live games, both players play at the same time. In Turn-Based games, each player moves whenever they can and Game Center lets you know when it's your turn. Three Men's Morris, Conquián and Cribbage are Live only."],
-      ["Why are the rules different from the ones I know?", "For many ancient games the complete rules have not survived. Ludéum follows the reconstructions of historians and archaeologists, and when they disagree it lets you choose a variant. In each game, the “i” button explains what we know and what we don't."],
-      ["How do I learn a new game?", "On each game's page, tap <em>Learn to Play</em>: it's a guided tutorial at Easy difficulty. The “i” cards have the history, an animated explanation and the full rules."],
-      ["When do the weekly tournaments start?", "The Weekly League and the Game of the Week start on Monday, November 2, 2026. Each week runs from Monday at 12:00 AM to Sunday at 11:59 PM, Mexico City time. To appear on the leaderboards you need Game Center."],
-      ["Do my statistics move to another device?", "Your games, statistics and challenges are stored only on the device you play on. Game Center achievements and leaderboards do follow you to any device signed in with your account."],
-      ["Do I have to pay to play?", "No. All the games are free to play, with no ads. Patron is an optional one-time purchase to support the museum: it adds frames, emblems, pieces, dice and “Museum” boards."],
-      ["I'm already a Patron, but it doesn't show up on another device", "Open the Patron screen and tap <em>Restore Purchases</em> with the same App Store account. If someone in your family made the purchase, it is shared through Family Sharing."],
-      ["How do I change the language?", "Ludéum is available in Spanish, English, French, German, Portuguese, Catalan and Italian, and uses your device's language. To change it only for the app, open <em>Settings › Ludéum › Language</em>."],
-      ["How do I change the board or turn on dark mode?", "In the <em>Games</em> tab, tap the palette button at the top: there you choose the board style, the background and the appearance (System, Light or Dark). Next to it are the buttons to turn off sounds and music."]
+      [
+        "How do I play online?",
+        "Online play uses Game Center. Open <em>Settings › Game Center</em> on your iPhone or iPad and sign in with your Apple Account. Then, in the app, tap <em>Online</em> for a random rival or <em>With Friends</em> to invite with a link or a code. If nobody shows up within a few seconds, you can play one of the app's characters in the meantime."
+      ],
+      [
+        "What is the difference between “Live” and “Turn-Based”?",
+        "In Live games, both players play at the same time. In Turn-Based games, each player moves whenever they can and Game Center lets you know when it's your turn. Three Men's Morris, Conquián and Cribbage are Live only."
+      ],
+      [
+        "Why are the rules different from the ones I know?",
+        "For many ancient games the complete rules have not survived. Ludéum follows the reconstructions of historians and archaeologists, and when they disagree it lets you choose a variant. In each game, the “i” button explains what we know and what we don't."
+      ],
+      [
+        "How do I learn a new game?",
+        "On each game's page, tap <em>Learn to Play</em>: it's a guided tutorial at Easy difficulty. The “i” cards have the history, an animated explanation and the full rules."
+      ],
+      [
+        "When do the weekly tournaments start?",
+        "The Weekly League and the Game of the Week start on Monday, November 2, 2026. Each week runs from Monday at 12:00 AM to Sunday at 11:59 PM, Mexico City time. To appear on the leaderboards you need Game Center."
+      ],
+      [
+        "Do my statistics move to another device?",
+        "Your games, statistics and challenges are stored only on the device you play on. Game Center achievements and leaderboards do follow you to any device signed in with your account."
+      ],
+      [
+        "Do I have to pay to play?",
+        "No. All the games are free to play, with no ads. Patron is an optional one-time purchase to support the museum: it adds frames, emblems, pieces, dice and “Museum” boards."
+      ],
+      [
+        "I'm already a Patron, but it doesn't show up on another device",
+        "Open the Patron screen and tap <em>Restore Purchases</em> with the same App Store account. If someone in your family made the purchase, it is shared through Family Sharing."
+      ],
+      [
+        "How do I change the language?",
+        "Ludéum is available in Spanish, English, French, German, Portuguese, Catalan and Italian, and uses your device's language. To change it only for the app, open <em>Settings › Ludéum › Language</em>."
+      ],
+      [
+        "How do I change the board or turn on dark mode?",
+        "In the <em>Games</em> tab, tap the palette button at the top: there you choose the board style, the background and the appearance (System, Light or Dark). Next to it are the buttons to turn off sounds and music."
+      ]
     ],
     "privacy_link": "Privacy Policy"
   }
