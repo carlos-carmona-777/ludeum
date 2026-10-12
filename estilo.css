@@ -84,7 +84,8 @@ h3 { font-size: 21px; margin: 0 0 6px; }
 .idiomas a { display: block; padding: 7px 12px; border-radius: 8px; text-decoration: none; color: var(--texto); font-size: 15px; }
 .idiomas a:hover { background: var(--papel-2); }
 .idiomas a[aria-current] { color: var(--enlace); font-weight: 600; }
-@media (max-width: 760px) { .secciones { display: none; } .idiomas summary span { display: none; } }
+@media (max-width: 760px) { .secciones a:not(.nav-soporte) { display: none; } .idiomas summary span { display: none; } }
+.secciones a[aria-current] { color: var(--enlace); font-weight: 600; }
 
 /* ---------- portada ---------- */
 .portada {
@@ -236,6 +237,8 @@ h3 { font-size: 21px; margin: 0 0 6px; }
 .pregunta summary { cursor: pointer; padding: 14px 0; font-weight: 600; color: var(--tinta); }
 .pregunta p { margin: 0 0 16px; }
 .enlaces { margin-top: 28px; }
+.boton { display: inline-block; margin-top: 12px; background: var(--teal-2); color: #f6ecd6; text-decoration: none; font-weight: 600; padding: 11px 20px; border-radius: 999px; }
+.boton:hover { background: var(--teal); }
 .centrado { text-align: center; }
 .centrado img { border-radius: 22px; }
 .lista-idiomas { list-style: none; padding: 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 8px 16px; }

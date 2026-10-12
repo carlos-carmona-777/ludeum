@@ -207,7 +207,7 @@
     "meta_title": "Soporte · Ludéum",
     "description": "Ayuda de la app Ludéum: juego en línea, torneos, Mecenas, idiomas y contacto.",
     "lead": "¿Algo no funciona, encontraste un error en las reglas o tienes una idea? Nos encantará leerte.",
-    "contact": "<strong>Escríbenos:</strong> usa el <a href=\"https://tzinitzcan.com/ludeum/#avisame\">formulario de contacto de Ludéum</a> en el sitio de Tzinitzcan. Déjanos tu nombre, tu correo y tu mensaje, y te respondemos.",
+    "contact": "<strong>Escríbenos:</strong> Rellena el formulario de soporte: nombre, correo, aparato, idioma, tema y tu mensaje. Te respondemos a tu correo.",
     "faq_title": "Preguntas frecuentes",
     "faq": [
       [
@@ -251,6 +251,8 @@
         "En la pestaña <em>Juegos</em>, toca el botón de la paleta, arriba: ahí eliges el estilo del tablero, el fondo y la apariencia (Sistema, Claro u Oscuro). A su lado están los botones para apagar los sonidos y la música."
       ]
     ],
-    "privacy_link": "Política de privacidad"
+    "privacy_link": "Política de privacidad",
+    "form_button": "Abrir el formulario de soporte",
+    "form_url": "https://tzinitzcan.com/ludeum/soporte/"
   }
 }

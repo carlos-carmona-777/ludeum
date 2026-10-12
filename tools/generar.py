@@ -117,6 +117,9 @@ def lang_menu(code, kind, prefix):
 
 def header(code, kind, prefix, nav=''):
     c = T[code]['common']
+    if not nav:
+        cur = ' aria-current="page"' if kind == 'support' else ''
+        nav = f'<nav class="secciones"><a class="nav-soporte" href="{prefix}{T[code]["paths"]["support"]}"{cur}>{esc(c["support"])}</a></nav>'
     return f'''<body class="pagina-{kind}">
 <a class="saltar" href="#contenido">{esc(c["skip"])}</a>
 <header class="barra">
@@ -181,7 +184,8 @@ def build_home(code):
     path = t['paths']['home']
     prefix = depth_prefix(path)
     nav = (f'<nav class="secciones"><a href="#juegos">{esc(h["nav_games"])}</a><a href="#rivales">{esc(h["nav_rivals"])}</a>'
-           f'<a href="#torneos">{esc(h["nav_tournaments"])}</a><a href="#mecenas">{esc(h["nav_patron"])}</a></nav>')
+           f'<a href="#torneos">{esc(h["nav_tournaments"])}</a><a href="#mecenas">{esc(h["nav_patron"])}</a>'
+           f'<a class="nav-soporte" href="{prefix}{t["paths"]["support"]}">{esc(c["support"])}</a></nav>')
     ld = {
         '@context': 'https://schema.org', '@type': 'MobileApplication', 'name': 'Ludéum',
         'operatingSystem': 'iOS, iPadOS', 'applicationCategory': 'GameApplication',
@@ -397,7 +401,7 @@ def build_support(code):
 <h1>{esc(s["title"])}</h1>
 <p class="fecha">{esc(s["lead"])}</p>
 <!-- CONTACTO: «support.contact» en tools/textos/*.json (formulario de la página de Ludéum en tzinitzcan.com). -->
-<div class="destacado"><p>{s["contact"]}</p></div>
+<div class="destacado"><p>{s["contact"]}</p><p><a class="boton" href="{s["form_url"]}">{esc(s["form_button"])} →</a></p></div>
 <h2>{esc(s["faq_title"])}</h2>
 {faq}
 <p class="enlaces"><a href="{prefix}{t["paths"]["privacy"]}">{esc(s["privacy_link"])}</a></p>

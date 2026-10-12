@@ -207,7 +207,7 @@
     "meta_title": "Support · Ludéum",
     "description": "Help for the Ludéum app: online play, tournaments, Patron, languages and contact.",
     "lead": "Something not working, found a mistake in the rules, or have an idea? We'd love to hear from you.",
-    "contact": "<strong>Write to us:</strong> use the <a href=\"https://tzinitzcan.com/ludeum/#avisame\">Ludéum contact form</a> on the Tzinitzcan website (the form is in Spanish, but you can write in English). Leave your name, email and message, and we’ll get back to you.",
+    "contact": "<strong>Write to us:</strong> Fill in the support form: name, email, device, language, topic and your message. We’ll reply by email. The form is in Spanish, but you can write in English.",
     "faq_title": "Frequently asked questions",
     "faq": [
       [
@@ -251,6 +251,8 @@
         "In the <em>Games</em> tab, tap the palette button at the top: there you choose the board style, the background and the appearance (System, Light or Dark). Next to it are the buttons to turn off sounds and music."
       ]
     ],
-    "privacy_link": "Privacy Policy"
+    "privacy_link": "Privacy Policy",
+    "form_button": "Open the support form",
+    "form_url": "https://tzinitzcan.com/ludeum/soporte/"
   }
 }

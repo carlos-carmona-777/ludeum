@@ -28,8 +28,8 @@ python3 tools/generar.py                      # todas las páginas + 404.html + 
 
 - Textos: `tools/textos/<idioma>.json` (el español es el original; los demás
   usan los términos de `Localizable.xcstrings` de la app).
-- Contacto de soporte: `support.contact` de cada JSON enlaza al formulario de
-  la página de Ludéum en Tzinitzcan (https://tzinitzcan.com/ludeum/#avisame).
+- Contacto de soporte: `support.contact`/`form_url` de cada JSON llevan al formulario de
+  soporte en Tzinitzcan (https://tzinitzcan.com/ludeum/soporte/, Xeenoj + Resend).
 - Al salir en el App Store: cambiar la insignia «Próximamente» por el enlace a
   `https://apps.apple.com/app/id6821357405` y agregar
   `<meta name="apple-itunes-app" content="app-id=6821357405">`.

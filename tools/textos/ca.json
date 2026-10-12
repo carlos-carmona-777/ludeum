@@ -207,7 +207,7 @@
     "meta_title": "Suport · Ludéum",
     "description": "Ajuda de l’app Ludéum: joc en línia, tornejos, Mecenes, idiomes i contacte.",
     "lead": "Alguna cosa no funciona, has trobat un error a les regles o tens una idea? Ens encantarà llegir-te.",
-    "contact": "<strong>Escriu-nos:</strong> fes servir el <a href=\"https://tzinitzcan.com/ludeum/#avisame\">formulari de contacte de Ludéum</a> al web de Tzinitzcan (el formulari és en castellà, però pots escriure en català). Deixa’ns el teu nom, el teu correu i el teu missatge, i et respondrem.",
+    "contact": "<strong>Escriu-nos:</strong> Omple el formulari de suport: nom, correu, aparell, idioma, tema i el teu missatge. Et respondrem per correu. El formulari és en castellà, però pots escriure en català.",
     "faq_title": "Preguntes freqüents",
     "faq": [
       [
@@ -251,6 +251,8 @@
         "A la pestanya <em>Jocs</em>, toca el botó de la paleta, a dalt: allà tries l’estil del tauler, el fons i l’aparença (Sistema, Clar o Fosc). Al costat hi ha els botons per apagar els sons i la música."
       ]
     ],
-    "privacy_link": "Política de privadesa"
+    "privacy_link": "Política de privadesa",
+    "form_button": "Obrir el formulari de suport",
+    "form_url": "https://tzinitzcan.com/ludeum/soporte/"
   }
 }
