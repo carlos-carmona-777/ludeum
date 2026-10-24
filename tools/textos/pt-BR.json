@@ -259,6 +259,8 @@
     ],
     "privacy_link": "Política de privacidade",
     "form_button": "Abrir o formulário de suporte",
-    "form_url": "https://tzinitzcan.com/ludeum/soporte/"
+    "form_url": "https://tzinitzcan.com/ludeum/soporte/",
+    "delete_title": "Apagar seus dados do Ludéum",
+    "delete_body": "<p>No iPhone e iPad, o Ludéum não guarda dados seus em servidores: você pode apagar suas estatísticas no seu perfil (<em>Apagar estatísticas</em>) ou apagando o app.</p><p>No <strong>Android</strong>, se você jogou on-line, nosso projeto do Firebase guarda seu identificador de jogador, suas partidas on-line e o identificador de notificações do seu celular. As partidas terminadas são apagadas automaticamente após 30 dias. Para apagar tudo antes:</p><ol><li>Abra o formulário de suporte (botão acima).</li><li>Escolha «Otro» (Outro) como tema e escreva «Apagar meus dados do Ludéum no Android», com o nome de jogador do Google Play Games que você usa no app.</li><li>Confirmamos por e-mail quando estiver feito, em até 30 dias.</li></ol><p>Apagamos seu identificador de jogador no Firebase, todas as suas partidas on-line e convites e seus identificadores de notificações. Não guardamos cópia. O que o Google Play Games guarda com sua conta Google (conquistas, placares e jogos salvos) você apaga pelo app Play Games ou pela sua conta Google.</p>"
   }
 }

@@ -259,6 +259,8 @@
     ],
     "privacy_link": "Política de privadesa",
     "form_button": "Obrir el formulari de suport",
-    "form_url": "https://tzinitzcan.com/ludeum/soporte/"
+    "form_url": "https://tzinitzcan.com/ludeum/soporte/",
+    "delete_title": "Esborrar les teves dades de Ludéum",
+    "delete_body": "<p>A l’iPhone i l’iPad, Ludéum no desa dades teves en servidors: pots esborrar les teves estadístiques des del teu perfil (<em>Esborrar estadístiques</em>) o esborrant l’app.</p><p>A <strong>Android</strong>, si has jugat en línia, el nostre projecte de Firebase desa el teu identificador de jugador, les teves partides en línia i l’identificador de notificacions del teu telèfon. Les partides acabades s’esborren soles al cap de 30 dies. Per esborrar-ho tot abans:</p><ol><li>Obre el formulari de suport (botó de dalt).</li><li>Com a tema tria «Otro» (Altres) i escriu «Esborrar les meves dades de Ludéum a Android», amb el nom de jugador de Google Play Jocs que fas servir a l’app.</li><li>T’ho confirmem per correu quan estigui fet, en un termini de 30 dies.</li></ol><p>Esborrem el teu identificador de jugador a Firebase, totes les teves partides en línia i invitacions i els teus identificadors de notificacions. No en desem cap còpia. El que Google Play Jocs desa amb el teu compte de Google (assoliments, classificacions i partides desades) ho esborres des de l’app de Play Jocs o el teu compte de Google.</p>"
   }
 }

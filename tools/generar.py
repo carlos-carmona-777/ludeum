@@ -405,6 +405,9 @@ def build_support(code):
 <div class="destacado"><p>{s["contact"]}</p><p><a class="boton" href="{s["form_url"]}">{esc(s["form_button"])} →</a></p></div>
 <h2>{esc(s["faq_title"])}</h2>
 {faq}
+<!-- BORRAR DATOS: lo pide Google Play (enlace de «Seguridad de los datos»); el ancla #borrar-datos no cambia. -->
+<h2 id="borrar-datos">{esc(s["delete_title"])}</h2>
+{s["delete_body"]}
 <p class="enlaces"><a href="{prefix}{t["paths"]["privacy"]}">{esc(s["privacy_link"])}</a></p>
 </main>
 ''', footer(code, prefix)]

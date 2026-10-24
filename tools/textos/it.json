@@ -259,6 +259,8 @@
     ],
     "privacy_link": "Informativa sulla privacy",
     "form_button": "Apri il modulo di assistenza",
-    "form_url": "https://tzinitzcan.com/ludeum/soporte/"
+    "form_url": "https://tzinitzcan.com/ludeum/soporte/",
+    "delete_title": "Eliminare i tuoi dati di Ludéum",
+    "delete_body": "<p>Su iPhone e iPad, Ludéum non conserva tuoi dati su server: puoi cancellare le tue statistiche dal tuo profilo (<em>Elimina statistiche</em>) o eliminando l’app.</p><p>Su <strong>Android</strong>, se hai giocato online, il nostro progetto Firebase conserva il tuo identificativo giocatore, le tue partite online e l’identificativo per le notifiche del tuo telefono. Le partite finite vengono eliminate automaticamente dopo 30 giorni. Per eliminare tutto prima:</p><ol><li>Apri il modulo di assistenza (pulsante qui sopra).</li><li>Come argomento scegli «Otro» (Altro) e scrivi «Eliminare i miei dati di Ludéum su Android», con il nome giocatore di Google Play Giochi che usi nell’app.</li><li>Ti confermiamo via email quando è fatto, entro 30 giorni.</li></ol><p>Eliminiamo il tuo identificativo giocatore in Firebase, tutte le tue partite online e gli inviti e i tuoi identificativi per le notifiche. Non ne conserviamo copia. Ciò che Google Play Giochi conserva con il tuo account Google (obiettivi, classifiche e giochi salvati) lo elimini dall’app Play Giochi o dal tuo account Google.</p>"
   }
 }
