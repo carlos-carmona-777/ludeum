@@ -157,9 +157,9 @@
   "privacy": {
     "title": "Politique de confidentialité",
     "meta_title": "Confidentialité · Ludéum",
-    "description": "Politique de confidentialité de l’app Ludéum : quelles données l’app enregistre (sur votre appareil et dans votre iCloud) et ce qui passe par Game Center et l’App Store.",
-    "updated": "Dernière mise à jour : 12 octobre 2026",
-    "highlight": "<strong>L’essentiel :</strong> Ludéum ne collecte aucune donnée personnelle. Il n’y a ni comptes, ni serveurs propres, ni outils d’analyse, ni traceurs, ni publicité. Ce que l’app enregistre reste sur votre iPhone ou votre iPad et, si vous utilisez iCloud, votre progression est copiée sur votre propre compte iCloud ; ce qui passe par Game Center et l’App Store est géré par Apple.",
+    "description": "Politique de confidentialité de l’app Ludéum sur iPhone, iPad et Android : quelles données l’app enregistre, ce qui passe par Game Center, Google Play Jeux et les boutiques, et ce que garde le jeu en ligne sur Android.",
+    "updated": "Dernière mise à jour : 24 octobre 2026",
+    "highlight": "<strong>L’essentiel :</strong> Ludéum n’a ni publicité, ni statistiques d’usage, ni traceurs, et ne vend ni ne partage vos données. Votre progression reste sur votre appareil et dans votre propre compte (iCloud sur iPhone et iPad ; Google sur Android). Sur iPhone et iPad, nous n’utilisons pas de serveurs propres : le jeu en ligne passe par Game Center. Sur Android, le jeu en ligne utilise notre projet Firebase (un service de Google) et ne garde que le nécessaire pour jouer ; voir la section <em>Android</em>.",
     "sections": [
       [
         "Qui est le responsable",
@@ -167,7 +167,7 @@
       ],
       [
         "Données enregistrées par l’app",
-        "<p>Sur votre appareil et dans votre iCloud :</p><ul><li>Votre progression : statistiques, historique des parties jouées, défis, sceaux, lauriers des tournois, succès obtenus, tutoriels terminés et votre niveau en ligne.</li><li>Le nom et l’emblème de votre profil.</li></ul><p>Uniquement sur votre appareil :</p><ul><li>Les parties en cours.</li><li>Vos réglages : style du plateau, fond, apparence, son, musique, pions et dés.</li></ul><p>Si vous êtes connecté à iCloud, votre progression est aussi enregistrée sur votre compte iCloud, dans l’espace propre à l’app, pour être la même sur tous vos appareils et ne pas se perdre si vous supprimez l’app ou changez d’iPhone. Cette copie est conservée par Apple avec votre compte ; nous n’y avons pas accès. Sans iCloud, tout reste uniquement sur votre appareil. Ludéum n’a pas de serveurs propres. Vous pouvez effacer vos statistiques depuis votre profil (<em>Effacer les statistiques</em>) : elles sont aussi effacées sur vos autres appareils et dans iCloud.</p>"
+        "<p>Sur votre appareil et dans votre iCloud :</p><ul><li>Votre progression : statistiques, historique des parties jouées, défis, sceaux, lauriers des tournois, succès obtenus, tutoriels terminés et votre niveau en ligne.</li><li>Le nom et l’emblème de votre profil.</li></ul><p>Uniquement sur votre appareil :</p><ul><li>Les parties en cours.</li><li>Vos réglages : style du plateau, fond, apparence, son, musique, pions et dés.</li></ul><p>Si vous êtes connecté à iCloud, votre progression est aussi enregistrée sur votre compte iCloud, dans l’espace propre à l’app, pour être la même sur tous vos appareils et ne pas se perdre si vous supprimez l’app ou changez d’iPhone. Cette copie est conservée par Apple avec votre compte ; nous n’y avons pas accès. Sans iCloud, tout reste uniquement sur votre appareil. Sur iPhone et iPad, Ludéum n’utilise pas de serveurs propres. Vous pouvez effacer vos statistiques depuis votre profil (<em>Effacer les statistiques</em>) : elles sont aussi effacées sur vos autres appareils et dans iCloud.</p>"
       ],
       [
         "Game Center",
@@ -182,16 +182,20 @@
         "<p>Mécène est un achat unique dans l’app. Il est traité par Apple avec votre compte App Store : nous ne recevons pas vos données de paiement. L’app interroge seulement l’App Store pour savoir si l’achat est actif (y compris s’il vous arrive par le Partage familial ou en restaurant les achats).</p>"
       ],
       [
+        "Android",
+        "<p>La version Android enregistre votre progression comme celle d’iPhone : sur votre téléphone et, si la sauvegarde Google est activée, dans votre compte Google. Les parties en cours restent uniquement sur le téléphone.</p><p><strong>Google Play Jeux</strong> est facultatif : sans lui, vous pouvez tout jouer sauf en ligne. Si vous vous connectez, votre progression est aussi gardée dans les Jeux sauvegardés de Play Jeux de votre compte, et Google reçoit votre avancée dans les succès et vos points des tournois. Les classements sont publics : les autres joueurs voient votre nom de joueur, vos points et votre position. Play Jeux est régi par les {google_privacy}.</p><p><strong>Jeu en ligne.</strong> Sur Android, les parties en ligne passent par notre projet Firebase, un service de Google :</p><ul><li>Quand vous jouez en ligne, Firebase vous attribue un identifiant d’utilisateur lié à votre compte Play Jeux. Nous ne recevons ni votre e-mail ni votre photo.</li><li>Chaque partie garde les coups, la configuration, votre nom de joueur Play Jeux, votre emblème, votre niveau en ligne et si vous êtes Mécène. Seuls les deux joueurs peuvent la lire. Il n’y a ni chat ni messages. Les parties terminées sont supprimées au bout de 30 jours et les invitations expirent au bout de 30 minutes.</li><li>Si vous autorisez les notifications, nous gardons un identifiant de notifications de votre téléphone pour vous prévenir quand c’est votre tour. Vous pouvez les désactiver à tout moment dans les réglages d’Android.</li><li>Firebase App Check, avec Play Integrity de Google, vérifie que les requêtes viennent de l’app d’origine, pour éviter les abus.</li></ul><p>Ces données sont chiffrées pendant le transfert et servent uniquement au jeu en ligne : nous ne les vendons ni ne les partageons. L’achat <strong>Mécène</strong> sur Android est traité par Google Play avec votre compte : nous ne recevons pas vos données de paiement.</p>"
+      ],
+      [
         "Ce que Ludéum n’utilise pas",
-        "<p>Il n’y a ni publicité, ni identifiant publicitaire, ni suivi entre apps, ni outils d’analyse, ni rapports de plantage de tiers. L’app ne demande l’accès ni à votre position, ni à votre appareil photo, ni à votre micro, ni à vos photos, ni à vos contacts, ni aux notifications. Les photos historiques sont intégrées à l’app : rien n’est téléchargé depuis internet.</p>"
+        "<p>Il n’y a ni publicité, ni identifiant publicitaire, ni suivi entre apps, ni outils d’analyse, ni rapports de plantage de tiers. L’app ne demande l’accès ni à votre position, ni à votre appareil photo, ni à votre micro, ni à vos photos, ni à vos contacts, ni aux notifications. Les photos historiques sont intégrées à l’app : rien n’est téléchargé depuis internet.</p><p>Sur Android, l’app peut vous demander l’autorisation d’afficher des notifications (pour vos parties en ligne) ; c’est facultatif.</p>"
       ],
       [
         "Enfants",
-        "<p>Ludéum ne collecte les données de personne, pas même celles des mineurs. Les fonctions de Game Center peuvent être limitées avec Temps d’écran d’Apple.</p>"
+        "<p>Ludéum ne demande de données personnelles à personne, pas même aux mineurs, et ne s’adresse pas aux enfants de moins de 13 ans. Les fonctions de Game Center peuvent être limitées avec Temps d’écran d’Apple, et celles de Play Jeux avec Family Link de Google.</p>"
       ],
       [
         "Vos droits",
-        "<p>Comme nous ne conservons aucune donnée vous concernant, nous n’avons rien à vous remettre, à corriger ou à supprimer : ce que l’app enregistre se trouve sur votre appareil et sur votre compte iCloud, et vous le contrôlez. Ce que Game Center conserve avec votre compte (succès et classements) est géré par Apple depuis votre compte Apple.</p>"
+        "<p>Comme nous ne conservons aucune donnée vous concernant, nous n’avons rien à vous remettre, à corriger ou à supprimer : ce que l’app enregistre se trouve sur votre appareil et sur votre compte iCloud, et vous le contrôlez. Ce que Game Center conserve avec votre compte (succès et classements) est géré par Apple depuis votre compte Apple.</p><p>Sur Android, ce que le jeu en ligne garde dans Firebase est supprimé automatiquement 30 jours après la fin de la partie. Si vous voulez que nous le supprimions plus tôt, ou que nous supprimions votre identifiant et vos notifications, écrivez-nous depuis la page {support} et nous le ferons dans un délai de 30 jours. Ce que Play Jeux garde avec votre compte se gère depuis votre compte Google.</p>"
       ],
       [
         "Modifications de cette politique",
@@ -200,7 +204,9 @@
     ],
     "support_link": "assistance",
     "apple_privacy_link": "politique de confidentialité d’Apple",
-    "apple_privacy_url": "https://www.apple.com/fr/legal/privacy/"
+    "apple_privacy_url": "https://www.apple.com/fr/legal/privacy/",
+    "google_privacy_link": "règles de confidentialité de Google",
+    "google_privacy_url": "https://policies.google.com/privacy?hl=fr"
   },
   "support": {
     "title": "Assistance",

@@ -157,9 +157,9 @@
   "privacy": {
     "title": "Política de privacidad",
     "meta_title": "Privacidad · Ludéum",
-    "description": "Política de privacidad de la app Ludéum: qué datos guarda la app (en tu dispositivo y en tu iCloud) y qué pasa por Game Center y el App Store.",
-    "updated": "Última actualización: 12 de octubre de 2026",
-    "highlight": "<strong>Lo más importante:</strong> Ludéum no recopila datos personales. No tiene cuentas, ni servidores propios, ni analíticas, ni rastreadores, ni publicidad. Lo que guarda la app se queda en tu iPhone o iPad y, si usas iCloud, tu progreso se copia en tu propia cuenta de iCloud; lo que pasa por Game Center y el App Store lo gestiona Apple.",
+    "description": "Política de privacidad de la app Ludéum en iPhone, iPad y Android: qué datos guarda la app, qué pasa por Game Center, Google Play Juegos y las tiendas, y qué guarda el juego en línea de Android.",
+    "updated": "Última actualización: 24 de octubre de 2026",
+    "highlight": "<strong>Lo más importante:</strong> Ludéum no tiene publicidad, ni analíticas, ni rastreadores, y no vende ni comparte tus datos. Tu progreso se queda en tu dispositivo y en tu propia cuenta (iCloud en iPhone y iPad; Google en Android). En iPhone y iPad no usamos servidores propios: el juego en línea pasa por Game Center. En Android, el juego en línea usa nuestro proyecto de Firebase (un servicio de Google) y guarda solo lo necesario para jugar; lo explicamos en la sección <em>Android</em>.",
     "sections": [
       [
         "Quién es el responsable",
@@ -167,7 +167,7 @@
       ],
       [
         "Datos que guarda la app",
-        "<p>En tu dispositivo y en tu iCloud:</p><ul><li>Tu progreso: estadísticas, registro de partidas jugadas, retos, sellos, laureles de los torneos, logros ganados, tutoriales hechos y tu nivel en línea.</li><li>El nombre y el emblema de tu perfil.</li></ul><p>Solo en tu dispositivo:</p><ul><li>Las partidas a medias.</li><li>Tus ajustes: estilo del tablero, fondo, apariencia, sonido, música, fichas y dados.</li></ul><p>Si tienes sesión en iCloud, tu progreso se guarda también en tu cuenta de iCloud, en el espacio propio de la app, para que sea el mismo en todos tus aparatos y no se pierda si borras la app o cambias de iPhone. Esa copia la guarda Apple con tu cuenta; nosotros no tenemos acceso a ella. Sin iCloud, todo se queda solo en tu dispositivo. Ludéum no tiene servidores propios. Puedes borrar tus estadísticas desde tu perfil (<em>Borrar estadísticas</em>): se borran también en tus otros aparatos y en iCloud.</p>"
+        "<p>En tu dispositivo y en tu iCloud:</p><ul><li>Tu progreso: estadísticas, registro de partidas jugadas, retos, sellos, laureles de los torneos, logros ganados, tutoriales hechos y tu nivel en línea.</li><li>El nombre y el emblema de tu perfil.</li></ul><p>Solo en tu dispositivo:</p><ul><li>Las partidas a medias.</li><li>Tus ajustes: estilo del tablero, fondo, apariencia, sonido, música, fichas y dados.</li></ul><p>Si tienes sesión en iCloud, tu progreso se guarda también en tu cuenta de iCloud, en el espacio propio de la app, para que sea el mismo en todos tus aparatos y no se pierda si borras la app o cambias de iPhone. Esa copia la guarda Apple con tu cuenta; nosotros no tenemos acceso a ella. Sin iCloud, todo se queda solo en tu dispositivo. En iPhone y iPad, Ludéum no usa servidores propios. Puedes borrar tus estadísticas desde tu perfil (<em>Borrar estadísticas</em>): se borran también en tus otros aparatos y en iCloud.</p>"
       ],
       [
         "Game Center",
@@ -182,16 +182,20 @@
         "<p>Mecenas es una compra única dentro de la app. La procesa Apple con tu cuenta del App Store: no recibimos tus datos de pago. La app solo consulta al App Store si la compra está activa (también si te llega por En Familia o al restaurar compras).</p>"
       ],
       [
+        "Android",
+        "<p>La versión de Android guarda tu progreso igual que la de iPhone: en tu teléfono y, si tienes activada la copia de seguridad de Google, en tu cuenta de Google. Las partidas a medias se quedan solo en el teléfono.</p><p><strong>Google Play Juegos</strong> es opcional: sin él puedes jugar todo, menos en línea. Si inicias sesión, tu progreso se guarda también en las Partidas guardadas de Play Juegos de tu cuenta, y Google recibe tu avance en los logros y tus puntos de los torneos. Las clasificaciones son públicas: otros jugadores ven tu nombre de jugador, tus puntos y tu posición. Play Juegos se rige por la {google_privacy}.</p><p><strong>Juego en línea.</strong> En Android las partidas en línea pasan por nuestro proyecto de Firebase, un servicio de Google:</p><ul><li>Al jugar en línea, Firebase te asigna un identificador de usuario ligado a tu cuenta de Play Juegos. No recibimos tu correo ni tu foto.</li><li>Cada partida guarda las jugadas, la configuración, tu nombre de jugador de Play Juegos, tu emblema, tu nivel en línea y si eres Mecenas. Solo la pueden leer los dos jugadores. No hay chat ni mensajes. Las partidas terminadas se borran a los 30 días y las invitaciones caducan a los 30 minutos.</li><li>Si permites las notificaciones, guardamos un identificador de notificaciones de tu teléfono para avisarte cuando te toca jugar. Puedes quitarlas cuando quieras en los ajustes de Android.</li><li>Firebase App Check, con Play Integrity de Google, comprueba que las peticiones vienen de la app original, para evitar abusos.</li></ul><p>Estos datos viajan cifrados y solo los usamos para que funcione el juego en línea: no los vendemos ni los compartimos. <strong>Mecenas</strong> en Android lo procesa Google Play con tu cuenta: no recibimos tus datos de pago.</p>"
+      ],
+      [
         "Lo que Ludéum no usa",
-        "<p>No hay publicidad, ni identificador de publicidad, ni rastreo entre apps, ni analíticas, ni informes de fallos de terceros. La app no pide acceso a tu ubicación, cámara, micrófono, fotos, contactos ni notificaciones. Las fotos históricas vienen dentro de la app: no se descarga nada de internet.</p>"
+        "<p>No hay publicidad, ni identificador de publicidad, ni rastreo entre apps, ni analíticas, ni informes de fallos de terceros. La app no pide acceso a tu ubicación, cámara, micrófono, fotos, contactos ni notificaciones. Las fotos históricas vienen dentro de la app: no se descarga nada de internet.</p><p>En Android, la app sí puede pedirte permiso para mostrar notificaciones (para avisarte de tus partidas en línea); es opcional.</p>"
       ],
       [
         "Niñas y niños",
-        "<p>Ludéum no recopila datos de nadie, tampoco de menores de edad. Las funciones de Game Center se pueden limitar con Tiempo en pantalla de Apple.</p>"
+        "<p>Ludéum no pide datos personales a nadie, tampoco a menores de edad, y no está dirigida a niñas y niños menores de 13 años. Las funciones de Game Center se pueden limitar con Tiempo en pantalla de Apple, y las de Play Juegos con Family Link de Google.</p>"
       ],
       [
         "Tus derechos",
-        "<p>Como no guardamos datos tuyos, no tenemos nada que entregarte, corregir o borrar: lo que guarda la app está en tu dispositivo y en tu cuenta de iCloud, y lo controlas tú. Lo que Game Center guarda con tu cuenta (logros y clasificaciones) lo gestiona Apple desde tu cuenta de Apple.</p>"
+        "<p>Como no guardamos datos tuyos, no tenemos nada que entregarte, corregir o borrar: lo que guarda la app está en tu dispositivo y en tu cuenta de iCloud, y lo controlas tú. Lo que Game Center guarda con tu cuenta (logros y clasificaciones) lo gestiona Apple desde tu cuenta de Apple.</p><p>En Android, lo que guarda el juego en línea en Firebase se borra solo a los 30 días de terminada la partida. Si quieres que lo borremos antes, o que borremos tu identificador y tus avisos, escríbenos desde la página de {support} y lo haremos en un plazo de 30 días. Lo que Play Juegos guarda con tu cuenta lo gestionas desde tu cuenta de Google.</p>"
       ],
       [
         "Cambios a esta política",
@@ -200,7 +204,9 @@
     ],
     "support_link": "soporte",
     "apple_privacy_link": "política de privacidad de Apple",
-    "apple_privacy_url": "https://www.apple.com/mx/legal/privacy/"
+    "apple_privacy_url": "https://www.apple.com/mx/legal/privacy/",
+    "google_privacy_link": "política de privacidad de Google",
+    "google_privacy_url": "https://policies.google.com/privacy?hl=es-419"
   },
   "support": {
     "title": "Soporte",

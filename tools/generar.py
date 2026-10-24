@@ -371,6 +371,7 @@ def build_privacy(code):
     links = {
         '{support}': f'<a href="{prefix}{t["paths"]["support"]}">{esc(p["support_link"])}</a>',
         '{apple_privacy}': f'<a href="{p["apple_privacy_url"]}">{esc(p["apple_privacy_link"])}</a>',
+        '{google_privacy}': f'<a href="{p["google_privacy_url"]}">{esc(p["google_privacy_link"])}</a>',
     }
     body = []
     for title, content in p['sections']:
