@@ -259,6 +259,8 @@
     ],
     "privacy_link": "Privacy Policy",
     "form_button": "Open the support form",
-    "form_url": "https://tzinitzcan.com/ludeum/soporte/"
+    "form_url": "https://tzinitzcan.com/ludeum/soporte/",
+    "delete_title": "Delete your Ludéum data",
+    "delete_body": "<p>On iPhone and iPad, Ludéum keeps none of your data on servers: you can erase your statistics from your profile (<em>Erase Stats</em>) or by deleting the app.</p><p>On <strong>Android</strong>, if you played online, our Firebase project stores your player ID, your online games and your phone’s notification ID. Finished games are deleted automatically after 30 days. To delete everything sooner:</p><ol><li>Open the support form (button above).</li><li>Choose “Otro” (Other) as the topic and write “Delete my Ludéum data on Android”, with the Google Play Games player name you use in the app.</li><li>We will confirm by email once it is done, within 30 days.</li></ol><p>We delete your Firebase player ID, all your online games and invitations, and your notification IDs. We keep no copy. What Google Play Games keeps with your Google account (achievements, leaderboards and saved games) can be deleted from the Play Games app or your Google account.</p>"
   }
 }

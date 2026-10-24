@@ -259,6 +259,8 @@
     ],
     "privacy_link": "Datenschutzerklärung",
     "form_button": "Support-Formular öffnen",
-    "form_url": "https://tzinitzcan.com/ludeum/soporte/"
+    "form_url": "https://tzinitzcan.com/ludeum/soporte/",
+    "delete_title": "Deine Ludéum-Daten löschen",
+    "delete_body": "<p>Auf iPhone und iPad speichert Ludéum keine deiner Daten auf Servern: Du kannst deine Statistiken in deinem Profil löschen (<em>Statistik löschen</em>) oder indem du die App löschst.</p><p>Unter <strong>Android</strong> speichert unser Firebase-Projekt, wenn du online gespielt hast, deine Spieler-ID, deine Online-Partien und die Benachrichtigungs-ID deines Handys. Beendete Partien werden nach 30 Tagen automatisch gelöscht. So löschst du alles früher:</p><ol><li>Öffne das Support-Formular (Schaltfläche oben).</li><li>Wähle als Thema „Otro“ (Sonstiges) und schreib „Meine Ludéum-Daten unter Android löschen“, mit dem Spielernamen von Google Play Spiele, den du in der App verwendest.</li><li>Wir bestätigen dir per E-Mail, sobald es erledigt ist, innerhalb von 30 Tagen.</li></ol><p>Wir löschen deine Firebase-Spieler-ID, alle deine Online-Partien und Einladungen und deine Benachrichtigungs-IDs. Wir behalten keine Kopie. Was Google Play Spiele mit deinem Google-Konto speichert (Erfolge, Bestenlisten und gespeicherte Spiele), löschst du in der Play-Spiele-App oder in deinem Google-Konto.</p>"
   }
 }
