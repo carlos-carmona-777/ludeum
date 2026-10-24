@@ -157,9 +157,9 @@
   "privacy": {
     "title": "Privacy Policy",
     "meta_title": "Privacy · Ludéum",
-    "description": "Privacy policy for the Ludéum app: which data the app saves (on your device and in your iCloud) and what passes through Game Center and the App Store.",
-    "updated": "Last updated: October 12, 2026",
-    "highlight": "<strong>The most important thing:</strong> Ludéum does not collect personal data. It has no accounts, no servers of its own, no analytics, no trackers and no advertising. What the app saves stays on your iPhone or iPad and, if you use iCloud, your progress is copied to your own iCloud account; what passes through Game Center and the App Store is managed by Apple.",
+    "description": "Privacy policy for the Ludéum app on iPhone, iPad and Android: what data the app saves, what goes through Game Center, Google Play Games and the stores, and what Android online play stores.",
+    "updated": "Last updated: October 24, 2026",
+    "highlight": "<strong>The short version:</strong> Ludéum has no ads, no analytics and no trackers, and it does not sell or share your data. Your progress stays on your device and in your own account (iCloud on iPhone and iPad; Google on Android). On iPhone and iPad we use no servers of our own: online play goes through Game Center. On Android, online play uses our Firebase project (a Google service) and stores only what is needed to play; see the <em>Android</em> section.",
     "sections": [
       [
         "Who is responsible",
@@ -167,7 +167,7 @@
       ],
       [
         "Data the app saves",
-        "<p>On your device and in your iCloud:</p><ul><li>Your progress: statistics, the record of games played, challenges, stamps, tournament laurels, achievements earned, tutorials completed and your online rank.</li><li>Your profile name and emblem.</li></ul><p>Only on your device:</p><ul><li>Games in progress.</li><li>Your settings: board style, background, appearance, sound, music, pieces and dice.</li></ul><p>If you are signed in to iCloud, your progress is also stored in your iCloud account, in the app’s own space, so it is the same on all your devices and is not lost if you delete the app or change iPhones. Apple keeps that copy with your account; we have no access to it. Without iCloud, everything stays only on your device. Ludéum has no servers of its own. You can erase your statistics from your profile (<em>Erase Stats</em>): they are also erased on your other devices and in iCloud.</p>"
+        "<p>On your device and in your iCloud:</p><ul><li>Your progress: statistics, the record of games played, challenges, stamps, tournament laurels, achievements earned, tutorials completed and your online rank.</li><li>Your profile name and emblem.</li></ul><p>Only on your device:</p><ul><li>Games in progress.</li><li>Your settings: board style, background, appearance, sound, music, pieces and dice.</li></ul><p>If you are signed in to iCloud, your progress is also stored in your iCloud account, in the app’s own space, so it is the same on all your devices and is not lost if you delete the app or change iPhones. Apple keeps that copy with your account; we have no access to it. Without iCloud, everything stays only on your device. On iPhone and iPad, Ludéum uses no servers of its own. You can erase your statistics from your profile (<em>Erase Stats</em>): they are also erased on your other devices and in iCloud.</p>"
       ],
       [
         "Game Center",
@@ -182,16 +182,20 @@
         "<p>Patron is a one-time in-app purchase. It is processed by Apple with your App Store account: we do not receive your payment details. The app only asks the App Store whether the purchase is active (also if it reaches you through Family Sharing or when you restore purchases).</p>"
       ],
       [
+        "Android",
+        "<p>The Android version saves your progress just like the iPhone one: on your phone and, if Google backup is turned on, in your Google account. Unfinished games stay on the phone only.</p><p><strong>Google Play Games</strong> is optional: without it you can play everything except online. If you sign in, your progress is also kept in Play Games Saved Games on your account, and Google receives your achievement progress and your weekly tournament points. Leaderboards are public: other players see your player name, your points and your rank. Play Games is governed by the {google_privacy}.</p><p><strong>Online play.</strong> On Android, online games go through our Firebase project, a Google service:</p><ul><li>When you play online, Firebase gives you a user ID linked to your Play Games account. We do not receive your email or your photo.</li><li>Each game stores the moves, the settings, your Play Games player name, your emblem, your online level and whether you are a Patron. Only the two players can read it. There is no chat and there are no messages. Finished games are deleted after 30 days and invitations expire after 30 minutes.</li><li>If you allow notifications, we store a notification ID for your phone so we can tell you when it is your turn. You can turn them off at any time in Android settings.</li><li>Firebase App Check, with Google Play Integrity, checks that requests come from the genuine app, to prevent abuse.</li></ul><p>This data is encrypted in transit and used only to make online play work: we do not sell or share it. <strong>Patron</strong> purchases on Android are processed by Google Play with your account: we do not receive your payment details.</p>"
+      ],
+      [
         "What Ludéum does not use",
-        "<p>There is no advertising, no advertising identifier, no cross-app tracking, no analytics and no third-party crash reports. The app does not ask for access to your location, camera, microphone, photos, contacts or notifications. The historical photos come inside the app: nothing is downloaded from the internet.</p>"
+        "<p>There is no advertising, no advertising identifier, no cross-app tracking, no analytics and no third-party crash reports. The app does not ask for access to your location, camera, microphone, photos, contacts or notifications. The historical photos come inside the app: nothing is downloaded from the internet.</p><p>On Android, the app may ask for permission to show notifications (to tell you about your online games); it is optional.</p>"
       ],
       [
         "Children",
-        "<p>Ludéum does not collect data from anyone, including minors. Game Center features can be restricted with Apple's Screen Time.</p>"
+        "<p>Ludéum does not ask anyone for personal data, including minors, and it is not directed at children under 13. Game Center features can be restricted with Apple's Screen Time, and Play Games features with Google Family Link.</p>"
       ],
       [
         "Your rights",
-        "<p>Since we do not keep any data about you, we have nothing to give you, correct or delete: what the app saves is on your device and in your iCloud account, and you control it. What Game Center stores with your account (achievements and leaderboards) is managed by Apple from your Apple Account.</p>"
+        "<p>Since we do not keep any data about you, we have nothing to give you, correct or delete: what the app saves is on your device and in your iCloud account, and you control it. What Game Center stores with your account (achievements and leaderboards) is managed by Apple from your Apple Account.</p><p>On Android, what online play stores in Firebase is deleted automatically 30 days after the game ends. If you want us to delete it sooner, or to delete your ID and notification data, write to us from the {support} page and we will do it within 30 days. What Play Games keeps with your account is managed from your Google account.</p>"
       ],
       [
         "Changes to this policy",
@@ -200,7 +204,9 @@
     ],
     "support_link": "support",
     "apple_privacy_link": "Apple's Privacy Policy",
-    "apple_privacy_url": "https://www.apple.com/legal/privacy/"
+    "apple_privacy_url": "https://www.apple.com/legal/privacy/",
+    "google_privacy_link": "Google Privacy Policy",
+    "google_privacy_url": "https://policies.google.com/privacy?hl=en"
   },
   "support": {
     "title": "Support",
