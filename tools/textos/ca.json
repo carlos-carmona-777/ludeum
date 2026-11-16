@@ -6,6 +6,7 @@
   "paths": {
     "home": "ca/",
     "privacy": "ca/privadesa/",
+    "terms": "ca/condicions/",
     "support": "ca/suport/"
   },
   "common": {
@@ -13,6 +14,7 @@
     "language": "Idioma",
     "support": "Suport",
     "privacy": "Privadesa",
+    "terms": "Condicions",
     "studio": "Un projecte de <a href=\"https://tzinitzcan.vercel.app/\">Tzinitzcan</a>, estudi d’apps",
     "photos_credit": "Les fotos històriques de l’app provenen de Wikimedia Commons (domini públic o CC BY) i porten el seu crèdit dins de l’app.",
     "soon_badge": "Aviat a l’App Store",
@@ -215,6 +217,74 @@
     "apple_privacy_url": "https://www.apple.com/es/legal/privacy/",
     "google_privacy_link": "política de privadesa de Google",
     "google_privacy_url": "https://policies.google.com/privacy?hl=ca"
+  },
+  "terms": {
+    "title": "Condicions del servei",
+    "meta_title": "Condicions · Ludéum",
+    "description": "Condicions del servei de l’app Ludéum a l’iPhone, l’iPad i Android: ús del joc, la compra única Mecenes i els seus reemborsaments, el joc en línia, el contingut, la responsabilitat i la llei aplicable.",
+    "updated": "Vigents des del 16 de novembre de 2026",
+    "highlight": "<strong>El més important:</strong> Ludéum es pot jugar sencera de franc i sense anuncis. Mecenes és un pagament únic i opcional que cobra la botiga (App Store o Google Play), i els reemborsaments es demanen a la botiga. El joc en línia passa per Game Center a l’iPhone i l’iPad, i per Google Play Jocs i Firebase a Android: juga net, i tingues en compte que no podem garantir que sempre estigui disponible. Aquestes condicions es regeixen per les lleis de Mèxic i no et treuen els drets que et dona la llei del teu país.",
+    "sections": [
+      [
+        "Qui som i a què s’apliquen",
+        "<p>Aquestes condicions del servei s’apliquen a l’app Ludéum per a iPhone, iPad i Android (l’«app») i al seu joc en línia. Ludéum és una app de Carlos Carmona (Tzinitzcan, estudi d’apps), a Mèxic. En baixar o fer servir l’app acceptes aquestes condicions; si no hi estàs d’acord, no la facis servir.</p><p>A l’iPhone i l’iPad se sumen al {apple_eula}, i a Android a les {google_terms}. El que fem amb les teves dades és a la {privacy}.</p>"
+      ],
+      [
+        "Ús de l’app",
+        "<p>Et donem permís per fer servir l’app als teus aparells per al teu entreteniment personal i sense finalitats comercials. És un permís personal: no el pots vendre ni cedir.</p><p>En fer servir l’app no pots:</p><ul><li>copiar, modificar, descompilar o redistribuir l’app o parts d’ella, tret del que permeti la llei;</li><li>fer servir trampes, programes automàtics, versions modificades de l’app o errors del joc per treure’n avantatge, sobretot en línia i als tornejos;</li><li>intentar entrar als nostres servidors o a dades d’altres jugadors, ni sobrecarregar-los o destorbar-ne el funcionament;</li><li>fer servir l’app per a res il·legal.</li></ul><p>Si ets menor d’edat, fes servir l’app amb permís de la teva mare, el teu pare o qui et tingui a càrrec. Poden limitar el joc en línia i les compres amb Temps d’ús d’Apple o amb Family Link de Google.</p>"
+      ],
+      [
+        "Mecenes, la compra única",
+        "<p>Tots els jocs, amb les seves variants i dificultats, els tutorials, els tornejos i el joc en línia es juguen sense pagar. <strong>Mecenes</strong> és una compra opcional d’un sol pagament: no és una subscripció i no es renova. Serveix per donar suport al desenvolupament de l’app i hi suma extres, sobretot d’aspecte, com marcs, emblemes, fitxes, daus, taulers i fons. El que afegim més endavant per a Mecenes hi queda inclòs sense tornar a pagar.</p><p>La compra la cobra la botiga amb el teu compte: l’App Store a l’iPhone i l’iPad, i Google Play a Android. El preu és el que et mostra la botiga al teu país. No rebem les teves dades de pagament. La compra queda lligada a aquest compte: la pots restaurar als teus altres aparells amb el mateix compte (a l’iPhone i l’iPad també arriba a la teva família amb En família), però una compra de l’App Store no passa a Android ni a l’inrevés.</p><p><strong>Reemborsaments.</strong> Els decideix i els fa la botiga, amb les seves pròpies regles, perquè és qui cobra: a l’App Store es demanen des de la {apple_refund}, i a Google Play com explica l’{google_refund}. Nosaltres no podem retornar els diners directament. Si la botiga reemborsa la compra, els extres de Mecenes es desactiven. Si tens algun problema amb la teva compra, escriu-nos des de la pàgina de {support} i t’ajudarem.</p>"
+      ],
+      [
+        "Joc en línia",
+        "<p>A l’iPhone i l’iPad, el joc en línia fa servir Game Center, d’Apple. A Android fa servir Google Play Jocs i el nostre projecte de Firebase, un servei de Google. Per jugar en línia necessites connexió a internet i un compte d’aquest servei, que té les seves pròpies condicions.</p><p><strong>Juga net.</strong> Respecta els teus rivals: no facis servir trampes ni versions modificades de l’app, ni noms de jugador ofensius (el teu àlies el tries a Game Center o a Play Jocs). L’app no té xat. Si algú no compleix aquestes condicions, podem anul·lar-ne les partides o els punts, treure’n les taules obertes o tallar-li l’accés al joc en línia.</p><p><strong>Sense garantia de disponibilitat.</strong> El joc en línia depèn dels serveis d’Apple i Google, d’internet i del nostre propi servidor. Pot fallar, trigar, interrompre’s o canviar, i una partida en curs es pot perdre. Fem tot el possible perquè funcioni bé, però no garantim que estigui sempre disponible ni sense errors, i el podem canviar o deixar d’oferir. Les partides contra els personatges de l’app no necessiten connexió.</p><p><strong>Tornejos.</strong> Els tornejos setmanals són gratuïts i no donen premis en diners ni en espècie: només punts, llorers i llocs a les classificacions. Podem corregir o anul·lar resultats que vinguin d’errors o de trampes.</p>"
+      ],
+      [
+        "Contingut i propietat intel·lectual",
+        "<p>Els jocs de Ludéum són tradicionals i de domini públic, però l’app no ho és: el seu codi, disseny, il·lustracions, taulers, personatges, textos, música i sons són de Carlos Carmona o de qui ens n’ha donat llicència, i els protegeixen les lleis de propietat intel·lectual. Fer servir l’app no et dona cap dret sobre ells més enllà del permís d’aquestes condicions.</p><p>Les fotos històriques de l’app venen de Wikimedia Commons, amb les seves pròpies llicències (domini públic o CC BY), i porten el crèdit dins de l’app. Les regles segueixen les reconstruccions d’historiadors i arqueòlegs; de molts jocs no se’n conserven les regles completes, així que poden ser diferents de les que coneixes.</p><p>Apple, App Store, Game Center, iPhone i iPad són marques d’Apple Inc.; Google Play, Android i Firebase són marques de Google LLC. Si ens envies idees o suggeriments, els podem fer servir per millorar l’app sense cap obligació amb tu.</p>"
+      ],
+      [
+        "Canvis a l’app",
+        "<p>Continuem treballant en Ludéum: podem afegir, canviar o treure jocs, funcions i contingut, i una part del contingut (avisos, portades i ajustos de dificultat) es baixa de la nostra pàgina. Algunes funcions poden necessitar la versió més recent de l’app o del sistema del teu aparell.</p>"
+      ],
+      [
+        "Sense garanties",
+        "<p>Oferim l’app «tal com és» i «segons estigui disponible». Fem tot el possible perquè funcioni bé i sense errors, però, en la mesura que ho permeti la llei, no garantim que no tingui errors ni que serveixi per a una finalitat concreta.</p>"
+      ],
+      [
+        "Limitació de responsabilitat",
+        "<p>En la mesura màxima que permeti la llei, no responem per danys indirectes o conseqüencials, per la pèrdua de progrés, partides o dades, per errors de serveis de tercers (Apple, Google o la teva connexió) ni per fer servir l’app d’una manera que aquestes condicions no permeten. Si tot i així haguéssim de respondre, la nostra responsabilitat total no superarà el que vas pagar per Mecenes.</p><p>Res d’això no limita la responsabilitat que la llei no deixa limitar, com la que ve de dol o negligència greu, ni els drets que et donen les lleis de protecció dels consumidors.</p>"
+      ],
+      [
+        "Suspensió i fi de l’ús",
+        "<p>Pots deixar de fer servir l’app quan vulguis, esborrant-la del teu aparell. Si no compleixes aquestes condicions, podem suspendre o tallar el teu accés al joc en línia. Les seccions de propietat intel·lectual, garanties, responsabilitat i llei aplicable continuen vigents després.</p>"
+      ],
+      [
+        "Llei aplicable",
+        "<p>Aquestes condicions es regeixen per les lleis dels Estats Units Mexicans, i qualsevol desacord es resoldrà davant els tribunals competents de Mèxic. Si ets consumidor i vius en un altre país (per exemple, a la Unió Europea), conserves la protecció de les lleis imperatives del teu país i pots acudir als seus tribunals quan aquestes lleis ho permetin.</p><p>Abans de qualsevol reclamació, escriu-nos: gairebé tot es resol amb un missatge.</p>"
+      ],
+      [
+        "Canvis en aquestes condicions",
+        "<p>Si canviem aquestes condicions, actualitzarem aquesta pàgina i la data de dalt. Si el canvi és important, l’avisarem a l’app o aquí abans que entri en vigor. Si continues fent servir l’app després, acceptes les condicions noves.</p>"
+      ],
+      [
+        "Contacte",
+        "<p>Per a qualsevol dubte sobre aquestes condicions, una compra o el joc en línia, escriu-nos amb el {form} o des de la pàgina de {support}. Responsable: Carlos Carmona (Tzinitzcan), Mèxic.</p>"
+      ]
+    ],
+    "support_link": "suport",
+    "privacy_link": "política de privadesa",
+    "form_link": "formulari de suport",
+    "apple_eula_link": "contracte de llicència d’Apple per a apps (EULA estàndard)",
+    "apple_eula_url": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "google_terms_link": "Condicions del servei de Google Play",
+    "google_terms_url": "https://play.google.com/about/play-terms/index.html?hl=ca",
+    "apple_refund_link": "pàgina de reemborsaments d’Apple",
+    "apple_refund_url": "https://support.apple.com/es-es/118223",
+    "google_refund_link": "ajuda de reemborsaments de Google Play",
+    "google_refund_url": "https://support.google.com/googleplay/answer/2479637?hl=ca"
   },
   "support": {
     "title": "Suport",

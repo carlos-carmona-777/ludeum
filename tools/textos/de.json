@@ -6,6 +6,7 @@
   "paths": {
     "home": "de/",
     "privacy": "de/datenschutz/",
+    "terms": "de/nutzungsbedingungen/",
     "support": "de/support/"
   },
   "common": {
@@ -13,6 +14,7 @@
     "language": "Sprache",
     "support": "Support",
     "privacy": "Datenschutz",
+    "terms": "Nutzungsbedingungen",
     "studio": "Ein Projekt von <a href=\"https://tzinitzcan.vercel.app/\">Tzinitzcan</a>, einem App-Studio",
     "photos_credit": "Die historischen Fotos der App stammen von Wikimedia Commons (gemeinfrei oder CC BY) und sind in der App mit ihrer Quellenangabe versehen.",
     "soon_badge": "Bald im App Store",
@@ -215,6 +217,74 @@
     "apple_privacy_url": "https://www.apple.com/de/legal/privacy/",
     "google_privacy_link": "Datenschutzerklärung von Google",
     "google_privacy_url": "https://policies.google.com/privacy?hl=de"
+  },
+  "terms": {
+    "title": "Nutzungsbedingungen",
+    "meta_title": "Nutzungsbedingungen · Ludéum",
+    "description": "Nutzungsbedingungen der App Ludéum auf iPhone, iPad und Android: Nutzung des Spiels, der einmalige Kauf Mäzen und seine Erstattung, Online-Spiel, Inhalte, Haftung und anwendbares Recht.",
+    "updated": "Gültig seit 16. November 2026",
+    "highlight": "<strong>Das Wichtigste:</strong> Ludéum ist komplett kostenlos und ohne Werbung spielbar. Mäzen ist eine optionale Einmalzahlung, die der Store (App Store oder Google Play) abrechnet; Erstattungen beantragst du beim Store. Das Online-Spiel läuft über Game Center auf iPhone und iPad und über Google Play Spiele und Firebase auf Android: Spiel fair und bedenke, dass wir nicht garantieren können, dass es immer verfügbar ist. Diese Bedingungen unterliegen mexikanischem Recht und nehmen dir nicht die Rechte, die dir das Recht deines Landes gibt.",
+    "sections": [
+      [
+        "Wer wir sind und wofür diese Bedingungen gelten",
+        "<p>Diese Nutzungsbedingungen gelten für die App Ludéum für iPhone, iPad und Android (die „App“) und für ihr Online-Spiel. Ludéum ist eine App von Carlos Carmona (Tzinitzcan, App-Studio) in Mexiko. Wenn du die App lädst oder nutzt, akzeptierst du diese Bedingungen; wenn du nicht einverstanden bist, nutze sie bitte nicht.</p><p>Auf iPhone und iPad gelten sie zusätzlich zum {apple_eula}, auf Android zusätzlich zu den {google_terms}. Was wir mit deinen Daten machen, steht in der {privacy}.</p>"
+      ],
+      [
+        "Nutzung der App",
+        "<p>Wir erlauben dir, die App auf deinen Geräten zu deiner persönlichen, nicht gewerblichen Unterhaltung zu nutzen. Diese Erlaubnis ist persönlich: Du kannst sie weder verkaufen noch übertragen.</p><p>Bei der Nutzung der App darfst du nicht:</p><ul><li>die App oder Teile davon kopieren, verändern, dekompilieren oder weiterverbreiten, außer soweit es das Gesetz erlaubt;</li><li>Cheats, Bots, veränderte Versionen der App oder Spielfehler nutzen, um dir einen Vorteil zu verschaffen, vor allem online und in Turnieren;</li><li>versuchen, auf unsere Server oder Daten anderer Spieler zuzugreifen, sie zu überlasten oder ihren Betrieb zu stören;</li><li>die App für etwas Rechtswidriges nutzen.</li></ul><p>Wenn du minderjährig bist, nutze die App mit Erlaubnis deiner Eltern oder Erziehungsberechtigten. Sie können Online-Spiel und Käufe mit Bildschirmzeit von Apple oder Family Link von Google einschränken.</p>"
+      ],
+      [
+        "Mäzen, der einmalige Kauf",
+        "<p>Alle Spiele mit ihren Varianten und Schwierigkeitsstufen, die Tutorials, die Turniere und das Online-Spiel sind ohne Bezahlung spielbar. <strong>Mäzen</strong> ist ein optionaler Kauf mit einer einzigen Zahlung: Er ist kein Abo und verlängert sich nicht. Er unterstützt die Entwicklung der App und bringt Extras, vor allem optische, wie Rahmen, Embleme, Spielsteine, Würfel, Spielbretter und Hintergründe. Was wir später für Mäzene hinzufügen, ist ohne erneute Zahlung enthalten.</p><p>Den Kauf rechnet der Store mit deinem Account ab: der App Store auf iPhone und iPad, Google Play auf Android. Es gilt der Preis, den dir der Store in deinem Land zeigt. Wir erhalten deine Zahlungsdaten nicht. Der Kauf ist an diesen Account gebunden: Du kannst ihn auf deinen anderen Geräten mit demselben Account wiederherstellen (auf iPhone und iPad erreicht er über die Familienfreigabe auch deine Familie), aber ein Kauf im App Store gilt nicht auf Android und umgekehrt.</p><p><strong>Erstattungen.</strong> Darüber entscheidet und sie wickelt der Store nach seinen eigenen Regeln ab, da er die Zahlung einzieht: im App Store beantragst du sie über die {apple_refund}, bei Google Play wie in der {google_refund} beschrieben. Wir selbst können kein Geld direkt erstatten. Wenn der Store den Kauf erstattet, werden die Mäzen-Extras deaktiviert. Wenn du ein Problem mit deinem Kauf hast, schreib uns über die {support}-Seite, und wir helfen dir.</p>"
+      ],
+      [
+        "Online-Spiel",
+        "<p>Auf iPhone und iPad nutzt das Online-Spiel Game Center von Apple. Auf Android nutzt es Google Play Spiele und unser Firebase-Projekt, einen Dienst von Google. Zum Online-Spielen brauchst du eine Internetverbindung und ein Konto bei diesem Dienst, für das eigene Bedingungen gelten.</p><p><strong>Spiel fair.</strong> Respektiere deine Gegner: Nutze keine Cheats oder veränderten Versionen der App und keine beleidigenden Spielernamen (deinen Spitznamen wählst du in Game Center oder Play Spiele). Die App hat keinen Chat. Wenn jemand diese Bedingungen nicht einhält, können wir seine Partien oder Punkte annullieren, seine offenen Tische entfernen oder ihm den Zugang zum Online-Spiel sperren.</p><p><strong>Keine Verfügbarkeitsgarantie.</strong> Das Online-Spiel hängt von den Diensten von Apple und Google, vom Internet und von unserem eigenen Server ab. Es kann ausfallen, langsam sein, unterbrochen werden oder sich ändern, und eine laufende Partie kann verloren gehen. Wir tun unser Bestes, damit es gut funktioniert, garantieren aber nicht, dass es immer und fehlerfrei verfügbar ist, und können es ändern oder einstellen. Partien gegen die Figuren der App brauchen keine Verbindung.</p><p><strong>Turniere.</strong> Die wöchentlichen Turniere sind kostenlos und bieten keine Geld- oder Sachpreise: nur Punkte, Lorbeeren und Plätze in den Bestenlisten. Ergebnisse, die auf Fehlern oder Betrug beruhen, können wir korrigieren oder annullieren.</p>"
+      ],
+      [
+        "Inhalte und geistiges Eigentum",
+        "<p>Die Spiele in Ludéum sind traditionell und gemeinfrei, die App ist es nicht: Ihr Code, ihr Design, ihre Illustrationen, Spielbretter, Figuren, Texte, Musik und Klänge gehören Carlos Carmona oder denen, die uns eine Lizenz gegeben haben, und sind durch Gesetze zum geistigen Eigentum geschützt. Die Nutzung der App gibt dir keine Rechte daran über die Erlaubnis in diesen Bedingungen hinaus.</p><p>Die historischen Fotos der App stammen von Wikimedia Commons, mit ihren eigenen Lizenzen (gemeinfrei oder CC BY), und sind in der App mit Quellenangabe versehen. Die Regeln folgen Rekonstruktionen von Historikern und Archäologen; von vielen Spielen sind die vollständigen Regeln nicht überliefert, daher können sie von denen abweichen, die du kennst.</p><p>Apple, App Store, Game Center, iPhone und iPad sind Marken der Apple Inc.; Google Play, Android und Firebase sind Marken der Google LLC. Wenn du uns Ideen oder Vorschläge schickst, dürfen wir sie zur Verbesserung der App nutzen, ohne dir gegenüber verpflichtet zu sein.</p>"
+      ],
+      [
+        "Änderungen an der App",
+        "<p>Wir arbeiten weiter an Ludéum: Wir können Spiele, Funktionen und Inhalte hinzufügen, ändern oder entfernen, und ein Teil der Inhalte (Hinweise, Titelbilder und Schwierigkeitseinstellungen) wird von unserer Website geladen. Manche Funktionen können die neueste Version der App oder des Betriebssystems deines Geräts erfordern.</p>"
+      ],
+      [
+        "Keine Gewährleistung",
+        "<p>Wir stellen die App „wie sie ist“ und „wie verfügbar“ bereit. Wir tun unser Bestes, damit sie gut und fehlerfrei funktioniert, garantieren aber, soweit gesetzlich zulässig, weder Fehlerfreiheit noch die Eignung für einen bestimmten Zweck.</p>"
+      ],
+      [
+        "Haftungsbeschränkung",
+        "<p>Soweit gesetzlich zulässig, haften wir nicht für indirekte Schäden oder Folgeschäden, für den Verlust von Fortschritt, Partien oder Daten, für Ausfälle von Diensten Dritter (Apple, Google oder deine Verbindung) oder für eine Nutzung der App, die diese Bedingungen nicht erlauben. Sollten wir dennoch haften, ist unsere Haftung insgesamt auf den Betrag begrenzt, den du für Mäzen bezahlt hast.</p><p>Nichts davon beschränkt eine Haftung, die gesetzlich nicht beschränkt werden darf, etwa bei Vorsatz oder grober Fahrlässigkeit, oder die Rechte, die dir Verbraucherschutzgesetze geben.</p>"
+      ],
+      [
+        "Sperrung und Ende der Nutzung",
+        "<p>Du kannst die App jederzeit nicht mehr nutzen, indem du sie von deinem Gerät löschst. Wenn du diese Bedingungen nicht einhältst, können wir deinen Zugang zum Online-Spiel sperren oder beenden. Die Abschnitte zu geistigem Eigentum, Gewährleistung, Haftung und anwendbarem Recht gelten danach weiter.</p>"
+      ],
+      [
+        "Anwendbares Recht",
+        "<p>Diese Bedingungen unterliegen dem Recht der Vereinigten Mexikanischen Staaten, und Streitigkeiten werden vor den zuständigen Gerichten Mexikos entschieden. Wenn du Verbraucher bist und in einem anderen Land lebst (zum Beispiel in der Europäischen Union), behältst du den Schutz der zwingenden Gesetze deines Landes und kannst dich an dessen Gerichte wenden, soweit diese Gesetze es erlauben.</p><p>Schreib uns vor jeder Beschwerde: Fast alles lässt sich mit einer Nachricht lösen.</p>"
+      ],
+      [
+        "Änderungen dieser Bedingungen",
+        "<p>Wenn wir diese Bedingungen ändern, aktualisieren wir diese Seite und das Datum oben. Bei wichtigen Änderungen informieren wir in der App oder hier, bevor sie gelten. Wenn du die App danach weiter nutzt, akzeptierst du die neuen Bedingungen.</p>"
+      ],
+      [
+        "Kontakt",
+        "<p>Bei Fragen zu diesen Bedingungen, zu einem Kauf oder zum Online-Spiel schreib uns über das {form} oder die {support}-Seite. Verantwortlich: Carlos Carmona (Tzinitzcan), Mexiko.</p>"
+      ]
+    ],
+    "support_link": "Support",
+    "privacy_link": "Datenschutzerklärung",
+    "form_link": "Support-Formular",
+    "apple_eula_link": "Lizenzvertrag von Apple für Apps (Standard-EULA)",
+    "apple_eula_url": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "google_terms_link": "Nutzungsbedingungen von Google Play",
+    "google_terms_url": "https://play.google.com/about/play-terms/index.html?hl=de",
+    "apple_refund_link": "Erstattungsseite von Apple",
+    "apple_refund_url": "https://support.apple.com/de-de/118223",
+    "google_refund_link": "Hilfe zu Erstattungen bei Google Play",
+    "google_refund_url": "https://support.google.com/googleplay/answer/2479637?hl=de"
   },
   "support": {
     "title": "Support",

@@ -6,6 +6,7 @@
   "paths": {
     "home": "pt-br/",
     "privacy": "pt-br/privacidade/",
+    "terms": "pt-br/termos/",
     "support": "pt-br/suporte/"
   },
   "common": {
@@ -13,6 +14,7 @@
     "language": "Idioma",
     "support": "Suporte",
     "privacy": "Privacidade",
+    "terms": "Termos",
     "studio": "Um projeto da <a href=\"https://tzinitzcan.vercel.app/\">Tzinitzcan</a>, estúdio de apps",
     "photos_credit": "As fotos históricas do app vêm do Wikimedia Commons (domínio público ou CC BY) e trazem o crédito dentro do app.",
     "soon_badge": "Em breve na App Store",
@@ -215,6 +217,74 @@
     "apple_privacy_url": "https://www.apple.com/br/legal/privacy/",
     "google_privacy_link": "Política de Privacidade do Google",
     "google_privacy_url": "https://policies.google.com/privacy?hl=pt-BR"
+  },
+  "terms": {
+    "title": "Termos de Serviço",
+    "meta_title": "Termos · Ludéum",
+    "description": "Termos de Serviço do app Ludéum no iPhone, iPad e Android: uso do jogo, a compra única Mecenas e seus reembolsos, o jogo on-line, o conteúdo, a responsabilidade e a lei aplicável.",
+    "updated": "Em vigor desde 16 de novembro de 2026",
+    "highlight": "<strong>O mais importante:</strong> o Ludéum pode ser jogado por completo de graça e sem anúncios. Mecenas é um pagamento único e opcional cobrado pela loja (App Store ou Google Play), e os reembolsos são pedidos à loja. O jogo on-line passa pelo Game Center no iPhone e iPad, e pelo Google Play Games e Firebase no Android: jogue limpo, e lembre que não podemos garantir que ele esteja sempre disponível. Estes termos são regidos pelas leis do México e não tiram os direitos que a lei do seu país lhe dá.",
+    "sections": [
+      [
+        "Quem somos e a que se aplicam",
+        "<p>Estes Termos de Serviço se aplicam ao app Ludéum para iPhone, iPad e Android (o “app”) e ao seu jogo on-line. O Ludéum é um app de Carlos Carmona (Tzinitzcan, estúdio de apps), no México. Ao baixar ou usar o app, você aceita estes termos; se não concordar com eles, não use o app.</p><p>No iPhone e iPad, eles se somam ao {apple_eula}, e no Android aos {google_terms}. O que fazemos com os seus dados está na {privacy}.</p>"
+      ],
+      [
+        "Uso do app",
+        "<p>Damos a você permissão para usar o app nos seus aparelhos para o seu entretenimento pessoal, sem fins comerciais. A permissão é pessoal: você não pode vendê-la nem transferi-la.</p><p>Ao usar o app, você não pode:</p><ul><li>copiar, modificar, descompilar ou redistribuir o app ou partes dele, exceto no que a lei permitir;</li><li>usar trapaças, programas automáticos, versões modificadas do app ou falhas do jogo para levar vantagem, sobretudo on-line e nos torneios;</li><li>tentar acessar os nossos servidores ou dados de outros jogadores, nem sobrecarregá-los ou atrapalhar o seu funcionamento;</li><li>usar o app para algo ilegal.</li></ul><p>Se você for menor de idade, use o app com a permissão da sua mãe, do seu pai ou do seu responsável. Eles podem limitar o jogo on-line e as compras com o Tempo de Uso da Apple ou o Family Link do Google.</p>"
+      ],
+      [
+        "Mecenas, a compra única",
+        "<p>Todos os jogos, com suas variantes e dificuldades, os tutoriais, os torneios e o jogo on-line podem ser jogados sem pagar. <strong>Mecenas</strong> é uma compra opcional de um só pagamento: não é uma assinatura e não se renova. Serve para apoiar o desenvolvimento do app e acrescenta extras, sobretudo visuais, como molduras, emblemas, peças, dados, tabuleiros e fundos. O que acrescentarmos depois para Mecenas fica incluído sem pagar de novo.</p><p>A compra é cobrada pela loja com a sua conta: a App Store no iPhone e iPad, e o Google Play no Android. O preço é o que a loja mostra no seu país. Não recebemos os seus dados de pagamento. A compra fica ligada a essa conta: você pode restaurá-la nos seus outros aparelhos com a mesma conta (no iPhone e iPad ela também chega à sua família pelo Compartilhamento Familiar), mas uma compra da App Store não passa para o Android, nem o contrário.</p><p><strong>Reembolsos.</strong> Quem decide e faz os reembolsos é a loja, com as próprias regras, porque é ela quem cobra: na App Store, eles são pedidos pela {apple_refund}, e no Google Play como explica a {google_refund}. Nós não podemos devolver o dinheiro diretamente. Se a loja reembolsar a compra, os extras de Mecenas são desativados. Se tiver algum problema com a sua compra, escreva para nós pela página de {support} e ajudaremos você.</p>"
+      ],
+      [
+        "Jogo on-line",
+        "<p>No iPhone e iPad, o jogo on-line usa o Game Center, da Apple. No Android, usa o Google Play Games e o nosso projeto do Firebase, um serviço do Google. Para jogar on-line, você precisa de conexão com a internet e de uma conta nesse serviço, que tem os próprios termos.</p><p><strong>Jogue limpo.</strong> Respeite os seus adversários: não use trapaças nem versões modificadas do app, nem nomes de jogador ofensivos (o seu apelido é escolhido no Game Center ou no Play Games). O app não tem chat. Se alguém não cumprir estes termos, podemos anular as suas partidas ou pontos, retirar as suas mesas abertas ou cortar o seu acesso ao jogo on-line.</p><p><strong>Sem garantia de disponibilidade.</strong> O jogo on-line depende dos serviços da Apple e do Google, da internet e do nosso próprio servidor. Ele pode falhar, demorar, ser interrompido ou mudar, e uma partida em andamento pode se perder. Fazemos o possível para que funcione bem, mas não garantimos que esteja sempre disponível nem sem erros, e podemos mudá-lo ou deixar de oferecê-lo. As partidas contra os personagens do app não precisam de conexão.</p><p><strong>Torneios.</strong> Os torneios semanais são gratuitos e não dão prêmios em dinheiro nem em espécie: só pontos, louros e posições nas classificações. Podemos corrigir ou anular resultados que venham de erros ou trapaças.</p>"
+      ],
+      [
+        "Conteúdo e propriedade intelectual",
+        "<p>Os jogos do Ludéum são tradicionais e de domínio público, mas o app não é: o seu código, design, ilustrações, tabuleiros, personagens, textos, música e sons são de Carlos Carmona ou de quem nos deu licença, e são protegidos pelas leis de propriedade intelectual. Usar o app não lhe dá nenhum direito sobre eles além da permissão destes termos.</p><p>As fotos históricas do app vêm do Wikimedia Commons, com as próprias licenças (domínio público ou CC BY), e têm o crédito dentro do app. As regras seguem as reconstruções de historiadores e arqueólogos; de muitos jogos não se conservaram as regras completas, então elas podem ser diferentes das que você conhece.</p><p>Apple, App Store, Game Center, iPhone e iPad são marcas da Apple Inc.; Google Play, Android e Firebase são marcas da Google LLC. Se você nos enviar ideias ou sugestões, podemos usá-las para melhorar o app sem nenhuma obrigação com você.</p>"
+      ],
+      [
+        "Mudanças no app",
+        "<p>Continuamos trabalhando no Ludéum: podemos acrescentar, mudar ou retirar jogos, funções e conteúdo, e parte do conteúdo (avisos, capas e ajustes de dificuldade) é baixada do nosso site. Algumas funções podem exigir a versão mais recente do app ou do sistema do seu aparelho.</p>"
+      ],
+      [
+        "Sem garantias",
+        "<p>Oferecemos o app “no estado em que se encontra” e “conforme disponível”. Fazemos o possível para que ele funcione bem e sem erros, mas, na medida em que a lei permitir, não garantimos que não tenha falhas nem que sirva para um fim específico.</p>"
+      ],
+      [
+        "Limitação de responsabilidade",
+        "<p>Na máxima medida permitida pela lei, não respondemos por danos indiretos ou consequentes, pela perda de progresso, partidas ou dados, por falhas de serviços de terceiros (Apple, Google ou a sua conexão) nem pelo uso do app de uma forma que estes termos não permitem. Se mesmo assim tivermos que responder, a nossa responsabilidade total não passará do que você pagou pelo Mecenas.</p><p>Nada disso limita a responsabilidade que a lei não permite limitar, como a decorrente de dolo ou culpa grave, nem os direitos que as leis de defesa do consumidor lhe dão.</p>"
+      ],
+      [
+        "Suspensão e fim do uso",
+        "<p>Você pode deixar de usar o app quando quiser, apagando-o do seu aparelho. Se não cumprir estes termos, podemos suspender ou cortar o seu acesso ao jogo on-line. As seções de propriedade intelectual, garantias, responsabilidade e lei aplicável continuam valendo depois.</p>"
+      ],
+      [
+        "Lei aplicável",
+        "<p>Estes termos são regidos pelas leis dos Estados Unidos Mexicanos, e qualquer desacordo será resolvido perante os tribunais competentes do México. Se você for consumidor e morar em outro país (por exemplo, no Brasil ou na União Europeia), mantém a proteção das leis obrigatórias do seu país e pode recorrer aos seus tribunais quando essas leis permitirem.</p><p>Antes de qualquer reclamação, escreva para nós: quase tudo se resolve com uma mensagem.</p>"
+      ],
+      [
+        "Mudanças nestes termos",
+        "<p>Se mudarmos estes termos, atualizaremos esta página e a data no topo. Se a mudança for importante, avisaremos no app ou aqui antes que entre em vigor. Se você continuar usando o app depois, aceita os novos termos.</p>"
+      ],
+      [
+        "Contato",
+        "<p>Para qualquer dúvida sobre estes termos, uma compra ou o jogo on-line, escreva para nós pelo {form} ou pela página de {support}. Responsável: Carlos Carmona (Tzinitzcan), México.</p>"
+      ]
+    ],
+    "support_link": "suporte",
+    "privacy_link": "política de privacidade",
+    "form_link": "formulário de suporte",
+    "apple_eula_link": "contrato de licença da Apple para apps (EULA padrão)",
+    "apple_eula_url": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "google_terms_link": "Termos de Serviço do Google Play",
+    "google_terms_url": "https://play.google.com/about/play-terms/index.html?hl=pt-BR",
+    "apple_refund_link": "página de reembolsos da Apple",
+    "apple_refund_url": "https://support.apple.com/pt-br/118223",
+    "google_refund_link": "ajuda de reembolsos do Google Play",
+    "google_refund_url": "https://support.google.com/googleplay/answer/2479637?hl=pt-BR"
   },
   "support": {
     "title": "Suporte",

@@ -1,20 +1,22 @@
 # Ludéum — sitio
 
 Sitio público de la app Ludéum (iPhone y iPad), servido con GitHub Pages en
-https://carlos-carmona-777.github.io/ludeum/ — página de la app, privacidad y
+https://carlos-carmona-777.github.io/ludeum/ — página de la app, privacidad, términos y
 soporte en los 7 idiomas de la app.
 
-| Idioma | Marketing | Privacidad | Soporte |
-|---|---|---|---|
-| es | `/` | `/privacidad/` | `/soporte/` |
-| en | `/en/` | `/privacy/` | `/support/` |
-| fr | `/fr/` | `/fr/confidentialite/` | `/fr/assistance/` |
-| de | `/de/` | `/de/datenschutz/` | `/de/support/` |
-| pt-BR | `/pt-br/` | `/pt-br/privacidade/` | `/pt-br/suporte/` |
-| ca | `/ca/` | `/ca/privadesa/` | `/ca/suport/` |
-| it | `/it/` | `/it/privacy/` | `/it/assistenza/` |
+| Idioma | Marketing | Privacidad | Términos | Soporte |
+|---|---|---|---|---|
+| es | `/` | `/privacidad/` | `/terminos/` | `/soporte/` |
+| en | `/en/` | `/privacy/` | `/terms/` | `/support/` |
+| fr | `/fr/` | `/fr/confidentialite/` | `/fr/conditions/` | `/fr/assistance/` |
+| de | `/de/` | `/de/datenschutz/` | `/de/nutzungsbedingungen/` | `/de/support/` |
+| pt-BR | `/pt-br/` | `/pt-br/privacidade/` | `/pt-br/termos/` | `/pt-br/suporte/` |
+| ca | `/ca/` | `/ca/privadesa/` | `/ca/condicions/` | `/ca/suport/` |
+| it | `/it/` | `/it/privacy/` | `/it/termini/` | `/it/assistenza/` |
 
-Las de privacidad no salen en el menú (solo en el pie) y llevan `noindex`.
+Las de privacidad y términos no salen en el menú (solo en el pie) y llevan `noindex`.
+La de términos la enlaza Google Play (declaración de estado de operador de la DSA):
+no cambiar sus rutas.
 
 ## Cómo se genera
 

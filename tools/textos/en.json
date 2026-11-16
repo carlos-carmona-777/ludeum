@@ -6,6 +6,7 @@
   "paths": {
     "home": "en/",
     "privacy": "privacy/",
+    "terms": "terms/",
     "support": "support/"
   },
   "common": {
@@ -13,6 +14,7 @@
     "language": "Language",
     "support": "Support",
     "privacy": "Privacy",
+    "terms": "Terms",
     "studio": "A project by <a href=\"https://tzinitzcan.vercel.app/\">Tzinitzcan</a>, an app studio",
     "photos_credit": "The app's historical photos come from Wikimedia Commons (public domain or CC BY) and are credited inside the app.",
     "soon_badge": "Coming soon to the App Store",
@@ -215,6 +217,74 @@
     "apple_privacy_url": "https://www.apple.com/legal/privacy/",
     "google_privacy_link": "Google Privacy Policy",
     "google_privacy_url": "https://policies.google.com/privacy?hl=en"
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "meta_title": "Terms · Ludéum",
+    "description": "Terms of Service for the Ludéum app on iPhone, iPad and Android: using the game, the one-time Patron purchase and its refunds, online play, content, liability and governing law.",
+    "updated": "Effective November 16, 2026",
+    "highlight": "<strong>The short version:</strong> Ludéum is fully playable for free, with no ads. Patron is an optional one-time payment charged by the store (App Store or Google Play), and refunds are requested from the store. Online play runs on Game Center on iPhone and iPad, and on Google Play Games and Firebase on Android: play fair, and keep in mind that we can’t guarantee it will always be available. These terms are governed by the laws of Mexico and don’t take away the rights your own country’s law gives you.",
+    "sections": [
+      [
+        "Who we are and what these terms cover",
+        "<p>These Terms of Service apply to the Ludéum app for iPhone, iPad and Android (the “app”) and to its online play. Ludéum is an app by Carlos Carmona (Tzinitzcan, an app studio), in Mexico. By downloading or using the app you accept these terms; if you don’t agree with them, please don’t use it.</p><p>On iPhone and iPad they are in addition to {apple_eula}, and on Android to the {google_terms}. What we do with your data is explained in the {privacy}.</p>"
+      ],
+      [
+        "Using the app",
+        "<p>We give you permission to use the app on your devices for your own personal, non-commercial entertainment. It is a personal permission: you can’t sell or transfer it.</p><p>When using the app you may not:</p><ul><li>copy, modify, decompile or redistribute the app or parts of it, except as the law allows;</li><li>use cheats, bots, modified versions of the app or game bugs to gain an advantage, especially online and in tournaments;</li><li>try to access our servers or other players’ data, or overload them or interfere with how they work;</li><li>use the app for anything illegal.</li></ul><p>If you are a minor, use the app with permission from a parent or guardian. They can limit online play and purchases with Apple’s Screen Time or Google’s Family Link.</p>"
+      ],
+      [
+        "Patron, the one-time purchase",
+        "<p>Every game, with its variants and difficulty levels, the tutorials, the tournaments and online play can all be played without paying. <strong>Patron</strong> is an optional one-time purchase: it is not a subscription and does not renew. It supports the app’s development and adds extras, mostly cosmetic, such as frames, emblems, pieces, dice, boards and backgrounds. Anything we add for Patrons later is included without paying again.</p><p>The purchase is charged by the store with your account: the App Store on iPhone and iPad, and Google Play on Android. The price is the one the store shows you in your country. We do not receive your payment details. The purchase is tied to that account: you can restore it on your other devices with the same account (on iPhone and iPad it also reaches your family through Family Sharing), but an App Store purchase does not carry over to Android, or the other way around.</p><p><strong>Refunds.</strong> The store decides on and handles refunds under its own rules, because it is the one that charges you: on the App Store you request them from {apple_refund}, and on Google Play as explained in the {google_refund}. We can’t give refunds directly. If the store refunds the purchase, the Patron extras are turned off. If you have any problem with your purchase, write to us from the {support} page and we’ll help.</p>"
+      ],
+      [
+        "Online play",
+        "<p>On iPhone and iPad, online play uses Apple’s Game Center. On Android it uses Google Play Games and our Firebase project, a Google service. To play online you need an internet connection and an account with that service, which has its own terms.</p><p><strong>Play fair.</strong> Respect your opponents: don’t use cheats or modified versions of the app, or offensive player names (you choose your nickname in Game Center or Play Games). The app has no chat. If someone doesn’t follow these terms, we may void their games or points, remove their open tables or cut off their access to online play.</p><p><strong>No guarantee of availability.</strong> Online play depends on Apple’s and Google’s services, on the internet and on our own server. It may fail, lag, be interrupted or change, and a game in progress may be lost. We do our best to keep it working well, but we don’t guarantee it will always be available or error-free, and we may change it or stop offering it. Games against the app’s characters don’t need a connection.</p><p><strong>Tournaments.</strong> The weekly tournaments are free and give no cash or material prizes: only points, laurels and places on the leaderboards. We may correct or void results caused by errors or cheating.</p>"
+      ],
+      [
+        "Content and intellectual property",
+        "<p>The games in Ludéum are traditional and in the public domain, but the app is not: its code, design, illustrations, boards, characters, texts, music and sounds belong to Carlos Carmona or to those who licensed them to us, and are protected by intellectual property laws. Using the app gives you no rights over them beyond the permission in these terms.</p><p>The historical photos in the app come from Wikimedia Commons under their own licenses (public domain or CC BY) and are credited inside the app. The rules follow reconstructions by historians and archaeologists; for many games the complete rules have not survived, so they may differ from the ones you know.</p><p>Apple, App Store, Game Center, iPhone and iPad are trademarks of Apple Inc.; Google Play, Android and Firebase are trademarks of Google LLC. If you send us ideas or suggestions, we may use them to improve the app with no obligation to you.</p>"
+      ],
+      [
+        "Changes to the app",
+        "<p>We keep working on Ludéum: we may add, change or remove games, features and content, and some content (announcements, covers and difficulty settings) is downloaded from our website. Some features may require the latest version of the app or of your device’s operating system.</p>"
+      ],
+      [
+        "No warranties",
+        "<p>We provide the app “as is” and “as available”. We do our best to make it work well and without errors, but, to the extent the law allows, we don’t guarantee that it is error-free or fit for any particular purpose.</p>"
+      ],
+      [
+        "Limitation of liability",
+        "<p>To the fullest extent the law allows, we are not liable for indirect or consequential damages, for loss of progress, games or data, for failures of third-party services (Apple, Google or your connection), or for using the app in a way these terms don’t allow. If we were liable anyway, our total liability will not exceed what you paid for Patron.</p><p>Nothing here limits liability that the law does not allow to be limited, such as for fraud or gross negligence, or the rights that consumer protection laws give you.</p>"
+      ],
+      [
+        "Suspension and ending use",
+        "<p>You can stop using the app whenever you want by deleting it from your device. If you don’t follow these terms, we may suspend or cut off your access to online play. The sections on intellectual property, warranties, liability and governing law continue to apply afterwards.</p>"
+      ],
+      [
+        "Governing law",
+        "<p>These terms are governed by the laws of the United Mexican States, and any dispute will be resolved before the competent courts of Mexico. If you are a consumer living in another country (for example, in the European Union), you keep the protection of your country’s mandatory laws and may go to its courts where those laws allow it.</p><p>Before making any claim, write to us: almost everything can be solved with a message.</p>"
+      ],
+      [
+        "Changes to these terms",
+        "<p>If we change these terms, we will update this page and the date at the top. If the change is important, we will announce it in the app or here before it takes effect. If you keep using the app afterwards, you accept the new terms.</p>"
+      ],
+      [
+        "Contact",
+        "<p>For any question about these terms, a purchase or online play, write to us using the {form} or from the {support} page. Responsible party: Carlos Carmona (Tzinitzcan), Mexico.</p>"
+      ]
+    ],
+    "support_link": "support",
+    "privacy_link": "Privacy Policy",
+    "form_link": "support form",
+    "apple_eula_link": "Apple’s Licensed Application End User License Agreement (standard EULA)",
+    "apple_eula_url": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "google_terms_link": "Google Play Terms of Service",
+    "google_terms_url": "https://play.google.com/about/play-terms/index.html?hl=en",
+    "apple_refund_link": "Apple’s refund page",
+    "apple_refund_url": "https://support.apple.com/en-us/118223",
+    "google_refund_link": "Google Play refund help",
+    "google_refund_url": "https://support.google.com/googleplay/answer/2479637?hl=en"
   },
   "support": {
     "title": "Support",
