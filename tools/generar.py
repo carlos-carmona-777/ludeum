@@ -4,7 +4,7 @@
 
 Lee tools/datos.json (juegos, rivales y próximos, sacados de la app con
 tools/extraer_datos.py) y tools/textos/<idioma>.json (textos del sitio), y
-escribe index.html, las páginas de privacidad y soporte de cada idioma,
+escribe index.html, las páginas de privacidad, términos y soporte de cada idioma,
 404.html y sitemap.xml (robots.txt no sirve en un sitio de proyecto: va en la raíz del dominio). Las imágenes de img/ las hace
 tools/imagenes.py. No editar los .html a mano: se pisan al regenerar.
 """
@@ -136,7 +136,7 @@ def footer(code, prefix):
     return f'''<footer class="pie">
   <div class="pie-in">
     <a class="marca" href="{prefix}{t["paths"]["home"]}"><img src="{prefix}img/icono-96.webp" width="32" height="32" alt=""><span>Ludéum</span></a>
-    <nav class="pie-enlaces"><a href="{prefix}{t["paths"]["support"]}">{esc(c["support"])}</a><a href="{prefix}{t["paths"]["privacy"]}">{esc(c["privacy"])}</a></nav>
+    <nav class="pie-enlaces"><a href="{prefix}{t["paths"]["support"]}">{esc(c["support"])}</a><a href="{prefix}{t["paths"]["privacy"]}">{esc(c["privacy"])}</a><a href="{prefix}{t["paths"]["terms"]}">{esc(c["terms"])}</a></nav>
     <p>{c["studio"]}</p>
     <p class="suave">{esc(c["photos_credit"])}</p>
     <p class="suave">© 2026 Carlos Carmona</p>
@@ -361,7 +361,7 @@ def build_home(code):
     return path, ''.join(out)
 
 
-# ---------------------------------------------------------------- privacidad y soporte
+# ---------------------------------------------------------------- privacidad, términos y soporte
 
 def build_privacy(code):
     t = T[code]
@@ -390,6 +390,42 @@ def build_privacy(code):
     return path, ''.join(out)
 
 
+def build_terms(code):
+    """Términos del Servicio. Google Play los enlaza desde la declaración de
+    estado de operador (DSA): la ruta de cada idioma no debe cambiar."""
+    t = T[code]
+    p = t['terms']
+    path = t['paths']['terms']
+    prefix = depth_prefix(path)
+    links = {
+        '{support}': f'<a href="{prefix}{t["paths"]["support"]}">{esc(p["support_link"])}</a>',
+        '{privacy}': f'<a href="{prefix}{t["paths"]["privacy"]}">{esc(p["privacy_link"])}</a>',
+        '{form}': f'<a href="{t["support"]["form_url"]}">{esc(p["form_link"])}</a>',
+        '{apple_eula}': f'<a href="{p["apple_eula_url"]}">{esc(p["apple_eula_link"])}</a>',
+        '{google_terms}': f'<a href="{p["google_terms_url"]}">{esc(p["google_terms_link"])}</a>',
+        '{apple_refund}': f'<a href="{p["apple_refund_url"]}">{esc(p["apple_refund_link"])}</a>',
+        '{google_refund}': f'<a href="{p["google_refund_url"]}">{esc(p["google_refund_link"])}</a>',
+    }
+    body = []
+    for title, content in p['sections']:
+        for k, v in links.items():
+            content = content.replace(k, v)
+        body.append(f'<h2>{esc(title)}</h2>\n{content}')
+    highlight = p['highlight']
+    for k, v in links.items():
+        highlight = highlight.replace(k, v)
+    out = [head(code, 'terms', p['meta_title'], p['description'], prefix, noindex=True),
+           header(code, 'terms', prefix),
+           f'''<main id="contenido" class="texto">
+<h1>{esc(p["title"])}</h1>
+<p class="fecha">{esc(p["updated"])}</p>
+<div class="destacado"><p>{highlight}</p></div>
+{chr(10).join(body)}
+</main>
+''', footer(code, prefix)]
+    return path, ''.join(out)
+
+
 def build_support(code):
     t = T[code]
     s = t['support']
@@ -408,7 +444,7 @@ def build_support(code):
 <!-- BORRAR DATOS: lo pide Google Play (enlace de «Seguridad de los datos»); el ancla #borrar-datos no cambia. -->
 <h2 id="borrar-datos">{esc(s["delete_title"])}</h2>
 {s["delete_body"]}
-<p class="enlaces"><a href="{prefix}{t["paths"]["privacy"]}">{esc(s["privacy_link"])}</a></p>
+<p class="enlaces"><a href="{prefix}{t["paths"]["privacy"]}">{esc(s["privacy_link"])}</a> · <a href="{prefix}{t["paths"]["terms"]}">{esc(t["terms"]["title"])}</a></p>
 </main>
 ''', footer(code, prefix)]
     return path, ''.join(out)
@@ -448,12 +484,12 @@ def write(path, content):
 def main():
     pages = []
     for code in LANGS:
-        for build in (build_home, build_privacy, build_support):
+        for build in (build_home, build_privacy, build_terms, build_support):
             path, content = build(code)
             write(path, content)
             pages.append(path)
     write('404.html', build_404())
-    # Sitemap: inicio y soporte (privacidad va con noindex)
+    # Sitemap: inicio y soporte (privacidad y términos van con noindex)
     urls = []
     for kind in ('home', 'support'):
         for code in LANGS:

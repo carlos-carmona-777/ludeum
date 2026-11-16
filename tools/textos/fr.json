@@ -6,6 +6,7 @@
   "paths": {
     "home": "fr/",
     "privacy": "fr/confidentialite/",
+    "terms": "fr/conditions/",
     "support": "fr/assistance/"
   },
   "common": {
@@ -13,6 +14,7 @@
     "language": "Langue",
     "support": "Assistance",
     "privacy": "Confidentialité",
+    "terms": "Conditions",
     "studio": "Un projet de <a href=\"https://tzinitzcan.vercel.app/\">Tzinitzcan</a>, studio d’apps",
     "photos_credit": "Les photos historiques de l’app proviennent de Wikimedia Commons (domaine public ou CC BY) et sont créditées dans l’app.",
     "soon_badge": "Bientôt sur l’App Store",
@@ -215,6 +217,74 @@
     "apple_privacy_url": "https://www.apple.com/fr/legal/privacy/",
     "google_privacy_link": "règles de confidentialité de Google",
     "google_privacy_url": "https://policies.google.com/privacy?hl=fr"
+  },
+  "terms": {
+    "title": "Conditions d’utilisation",
+    "meta_title": "Conditions · Ludéum",
+    "description": "Conditions d’utilisation de l’app Ludéum sur iPhone, iPad et Android : utilisation du jeu, l’achat unique Mécène et ses remboursements, le jeu en ligne, le contenu, la responsabilité et la loi applicable.",
+    "updated": "En vigueur depuis le 16 novembre 2026",
+    "highlight": "<strong>L’essentiel :</strong> Ludéum se joue entièrement gratuitement et sans publicité. Mécène est un paiement unique et facultatif encaissé par la boutique (App Store ou Google Play), et les remboursements se demandent à la boutique. Le jeu en ligne passe par Game Center sur iPhone et iPad, et par Google Play Jeux et Firebase sur Android : jouez loyalement, et sachez que nous ne pouvons pas garantir qu’il soit toujours disponible. Ces conditions sont régies par les lois du Mexique et ne vous retirent pas les droits que vous donne la loi de votre pays.",
+    "sections": [
+      [
+        "Qui nous sommes et à quoi s’appliquent ces conditions",
+        "<p>Ces conditions d’utilisation s’appliquent à l’app Ludéum pour iPhone, iPad et Android (l’« app ») et à son jeu en ligne. Ludéum est une app de Carlos Carmona (Tzinitzcan, studio d’apps), au Mexique. En téléchargeant ou en utilisant l’app, vous acceptez ces conditions ; si vous ne les acceptez pas, n’utilisez pas l’app.</p><p>Sur iPhone et iPad, elles s’ajoutent au {apple_eula}, et sur Android aux {google_terms}. Ce que nous faisons de vos données est expliqué dans la {privacy}.</p>"
+      ],
+      [
+        "Utilisation de l’app",
+        "<p>Nous vous autorisons à utiliser l’app sur vos appareils pour votre divertissement personnel, sans but commercial. Cette autorisation est personnelle : vous ne pouvez ni la vendre ni la céder.</p><p>En utilisant l’app, vous ne pouvez pas :</p><ul><li>copier, modifier, décompiler ou redistribuer l’app ou une partie de celle-ci, sauf dans la mesure permise par la loi ;</li><li>utiliser des triches, des programmes automatiques, des versions modifiées de l’app ou des bugs du jeu pour obtenir un avantage, surtout en ligne et dans les tournois ;</li><li>tenter d’accéder à nos serveurs ou aux données d’autres joueurs, ni les surcharger ou perturber leur fonctionnement ;</li><li>utiliser l’app à des fins illégales.</li></ul><p>Si vous êtes mineur, utilisez l’app avec l’accord d’un parent ou de votre tuteur. Ils peuvent limiter le jeu en ligne et les achats avec Temps d’écran d’Apple ou Family Link de Google.</p>"
+      ],
+      [
+        "Mécène, l’achat unique",
+        "<p>Tous les jeux, avec leurs variantes et niveaux de difficulté, les tutoriels, les tournois et le jeu en ligne se jouent sans payer. <strong>Mécène</strong> est un achat facultatif en un seul paiement : ce n’est pas un abonnement et il ne se renouvelle pas. Il soutient le développement de l’app et ajoute des extras, surtout esthétiques, comme des cadres, des emblèmes, des pions, des dés, des plateaux et des fonds. Ce que nous ajouterons plus tard pour les Mécènes est inclus sans payer à nouveau.</p><p>L’achat est encaissé par la boutique avec votre compte : l’App Store sur iPhone et iPad, Google Play sur Android. Le prix est celui que la boutique affiche dans votre pays. Nous ne recevons pas vos données de paiement. L’achat est lié à ce compte : vous pouvez le restaurer sur vos autres appareils avec le même compte (sur iPhone et iPad, il profite aussi à votre famille via le Partage familial), mais un achat sur l’App Store ne passe pas sur Android, ni l’inverse.</p><p><strong>Remboursements.</strong> C’est la boutique qui les décide et les effectue, selon ses propres règles, car c’est elle qui encaisse : sur l’App Store, ils se demandent depuis la {apple_refund}, et sur Google Play comme l’explique l’{google_refund}. Nous ne pouvons pas rembourser directement. Si la boutique rembourse l’achat, les extras Mécène sont désactivés. En cas de problème avec votre achat, écrivez-nous depuis la page d’{support} et nous vous aiderons.</p>"
+      ],
+      [
+        "Jeu en ligne",
+        "<p>Sur iPhone et iPad, le jeu en ligne utilise Game Center, d’Apple. Sur Android, il utilise Google Play Jeux et notre projet Firebase, un service de Google. Pour jouer en ligne, il vous faut une connexion internet et un compte de ce service, qui a ses propres conditions.</p><p><strong>Jouez loyalement.</strong> Respectez vos adversaires : n’utilisez ni triches, ni versions modifiées de l’app, ni noms de joueur offensants (vous choisissez votre pseudo dans Game Center ou Play Jeux). L’app n’a pas de chat. Si quelqu’un ne respecte pas ces conditions, nous pouvons annuler ses parties ou ses points, retirer ses tables ouvertes ou lui couper l’accès au jeu en ligne.</p><p><strong>Aucune garantie de disponibilité.</strong> Le jeu en ligne dépend des services d’Apple et de Google, d’internet et de notre propre serveur. Il peut échouer, ralentir, s’interrompre ou changer, et une partie en cours peut être perdue. Nous faisons notre possible pour qu’il fonctionne bien, mais nous ne garantissons pas qu’il soit toujours disponible ni sans erreurs, et nous pouvons le modifier ou cesser de le proposer. Les parties contre les personnages de l’app n’ont pas besoin de connexion.</p><p><strong>Tournois.</strong> Les tournois hebdomadaires sont gratuits et ne donnent aucun prix en argent ni en nature : seulement des points, des lauriers et des places dans les classements. Nous pouvons corriger ou annuler des résultats dus à des erreurs ou à de la triche.</p>"
+      ],
+      [
+        "Contenu et propriété intellectuelle",
+        "<p>Les jeux de Ludéum sont traditionnels et appartiennent au domaine public, mais pas l’app : son code, son design, ses illustrations, ses plateaux, ses personnages, ses textes, sa musique et ses sons appartiennent à Carlos Carmona ou à ceux qui nous ont accordé une licence, et sont protégés par les lois sur la propriété intellectuelle. Utiliser l’app ne vous donne aucun droit sur eux au-delà de l’autorisation prévue par ces conditions.</p><p>Les photos historiques de l’app proviennent de Wikimedia Commons, sous leurs propres licences (domaine public ou CC BY), et sont créditées dans l’app. Les règles suivent les reconstitutions d’historiens et d’archéologues ; pour beaucoup de jeux, les règles complètes ne nous sont pas parvenues, elles peuvent donc différer de celles que vous connaissez.</p><p>Apple, App Store, Game Center, iPhone et iPad sont des marques d’Apple Inc. ; Google Play, Android et Firebase sont des marques de Google LLC. Si vous nous envoyez des idées ou des suggestions, nous pouvons les utiliser pour améliorer l’app sans aucune obligation envers vous.</p>"
+      ],
+      [
+        "Modifications de l’app",
+        "<p>Nous continuons à travailler sur Ludéum : nous pouvons ajouter, modifier ou retirer des jeux, des fonctions et du contenu, et une partie du contenu (annonces, couvertures et réglages de difficulté) est téléchargée depuis notre site. Certaines fonctions peuvent exiger la dernière version de l’app ou du système de votre appareil.</p>"
+      ],
+      [
+        "Absence de garantie",
+        "<p>Nous fournissons l’app « en l’état » et « selon sa disponibilité ». Nous faisons notre possible pour qu’elle fonctionne bien et sans erreurs, mais, dans la mesure permise par la loi, nous ne garantissons pas qu’elle soit exempte de défauts ni adaptée à un usage particulier.</p>"
+      ],
+      [
+        "Limitation de responsabilité",
+        "<p>Dans toute la mesure permise par la loi, nous ne sommes pas responsables des dommages indirects ou consécutifs, de la perte de progression, de parties ou de données, des défaillances de services tiers (Apple, Google ou votre connexion), ni d’une utilisation de l’app non permise par ces conditions. Si notre responsabilité était malgré tout engagée, elle ne dépasserait pas le montant que vous avez payé pour Mécène.</p><p>Rien de ceci ne limite la responsabilité que la loi ne permet pas de limiter, comme en cas de dol ou de faute lourde, ni les droits que vous donnent les lois de protection des consommateurs.</p>"
+      ],
+      [
+        "Suspension et fin de l’utilisation",
+        "<p>Vous pouvez cesser d’utiliser l’app quand vous le souhaitez en la supprimant de votre appareil. Si vous ne respectez pas ces conditions, nous pouvons suspendre ou couper votre accès au jeu en ligne. Les sections sur la propriété intellectuelle, les garanties, la responsabilité et la loi applicable restent en vigueur ensuite.</p>"
+      ],
+      [
+        "Loi applicable",
+        "<p>Ces conditions sont régies par les lois des États-Unis mexicains, et tout litige sera porté devant les tribunaux compétents du Mexique. Si vous êtes un consommateur vivant dans un autre pays (par exemple dans l’Union européenne), vous conservez la protection des lois impératives de votre pays et pouvez saisir ses tribunaux lorsque ces lois le permettent.</p><p>Avant toute réclamation, écrivez-nous : presque tout se règle par un message.</p>"
+      ],
+      [
+        "Modifications de ces conditions",
+        "<p>Si nous modifions ces conditions, nous mettrons à jour cette page et la date en haut. Si la modification est importante, nous l’annoncerons dans l’app ou ici avant son entrée en vigueur. Si vous continuez à utiliser l’app ensuite, vous acceptez les nouvelles conditions.</p>"
+      ],
+      [
+        "Contact",
+        "<p>Pour toute question sur ces conditions, un achat ou le jeu en ligne, écrivez-nous avec le {form} ou depuis la page d’{support}. Responsable : Carlos Carmona (Tzinitzcan), Mexique.</p>"
+      ]
+    ],
+    "support_link": "assistance",
+    "privacy_link": "politique de confidentialité",
+    "form_link": "formulaire d’assistance",
+    "apple_eula_link": "contrat de licence d’Apple pour les apps (CLUF standard)",
+    "apple_eula_url": "https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "google_terms_link": "Conditions d’utilisation de Google Play",
+    "google_terms_url": "https://play.google.com/about/play-terms/index.html?hl=fr",
+    "apple_refund_link": "page de remboursement d’Apple",
+    "apple_refund_url": "https://support.apple.com/fr-fr/118223",
+    "google_refund_link": "aide sur les remboursements Google Play",
+    "google_refund_url": "https://support.google.com/googleplay/answer/2479637?hl=fr"
   },
   "support": {
     "title": "Assistance",
